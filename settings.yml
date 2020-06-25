@@ -1,57 +1,57 @@
 global:
-  name: GraphQL Landscape
-  short_name: GraphQL
-  repo: graphql/graphql-landscape
-  website: 'https://landscape.graphql.org'
-  short_domain: l.graphql.org
-  company_url: 'https://graphql.org'
-  email: info@graphql.foundation
-  self: 'https://www.crunchbase.com/organization/graphql-foundation'
+  name: TARS Foundation Landscape
+  short_name: TARS
+  repo: tarscloud/TARS-landscape
+  website: 'https://landscape.tarscloud.org'
+  short_domain: l.tarscloud.org
+  company_url: 'https://tarscloud.org'
+  email: info@tarscloud.org
+  self: 'https://www.crunchbase.com/organization/tars-foundation'
   slack_channel: T08PSQ7BQ/BM7M5TKSR/Xjll8jWb2cgpO7aOCGxUtebU
   meta:
-    title: GraphQL Landscape
+    title: TARS Foundation Landscape
     fb_admin: alex.contini.94
     description: 'Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets'
-    twitter: '@graphql'
-    google_site_verification: u_xqWIf8_EzRP4UF92px16rTSoIP49D_g9i7M-4rXds
-    ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
-  membership: GraphQL Foundation Member
+    twitter: '@tarscloud'
+    google_site_verification: 
+    ms_validate: 
+  membership: TARS Foundation Member
   flags:
     hide_license_for_categories:
-      - GraphQL Adopter
-      - GraphQL Foundation Member
+      - TARS Adopter
+      - TARS Foundation Member
 twitter:
-  search: landscape.graphql.org
-  url: 'https://landscape.graphql.org'
-  text: GraphQL Landscape
+  search: landscape.tarscloud.org
+  url: 'https://landscape.tarscloud.org'
+  text: TARS Foundation Landscape
 relation:
-  label: GraphQL Relation
-  url: graphql
+  label: TARS Relation
+  url: tars
   values:
     - id: hosted
-      label: GraphQL Foundation Projects
+      label: TARS Foundation Projects
       children:
         - id: foundationproject
-          label: GraphQL Foundation Projects
-          prefix: GraphQL
+          label: TARS Foundation Projects
+          prefix: TARS
           tag: Foundation Project
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: GraphQL Foundation Project
+          big_picture_label: TARS Foundation Project
           big_picture_color: 'rgb(24,54,114)'
     - id: company
-      label: GraphQL Foundation Member
+      label: TARS Foundation Member
       tag: Company
       big_picture_order: 3
     - id: member
-      label: GraphQL Foundation Member Products/Projects
-      tag: GraphQL Foundation Member
+      label: TARS Foundation Member Products/Projects
+      tag: TARS Foundation Member
     - id: false
-      label: Non-GraphQL Foundation Member Products/Projects
+      label: Non-TARS Foundation Member Products/Projects
       url: 'no'
 membership:
   General:
-    name: GraphQL
+    name: TARS
     label: Member
     funding: General
   linux_foundation:
@@ -63,7 +63,7 @@ membership:
     funding: 'No'
 home:
   header: >
-    <h1>GraphQL Landscape</h1> The GraphQL Foundation landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
+    <h1>TARS Foundation Landscape</h1> The TARS Foundation landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
     href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the <a href="http://landscape.cncf.io">CNCF landscape</a> and based
     on the same open source code.
   footer: |
@@ -90,8 +90,8 @@ big_picture:
     tab_index: -1
     url: landscape
     name: Landscape
-    title: GraphQL Landscape
-    fullscreen_header: See the interactive landscape at l.graphql.org
+    title: TARS Foundation Landscape
+    fullscreen_header: See the interactive landscape at l.tarscloud.org
     elements:
       - type: HorizontalCategory
         category: Projects
@@ -121,7 +121,7 @@ big_picture:
         color: 'rgb(79,121,13)'
         fit_width: true
       - type: HorizontalCategory
-        category: GraphQL Adopter
+        category: TARS Adopter
         rows: 6
         width: 970
         height: 195
@@ -130,7 +130,7 @@ big_picture:
         color: 'rgb(126,115,14)'
         fit_width: true
       - type: HorizontalCategory
-        category: GraphQL Foundation Member
+        category: TARS Foundation Member
         rows: 4
         width: 650
         height: 150
@@ -146,7 +146,7 @@ big_picture:
         children:
           - type: text
             text: |
-              This landscape is intended as a map to explore the GraphQL community, and also shows the member organizations of the GraphQL Foundation.
+              This landscape is intended as a map to explore the TARS community, and also shows the member organizations of the TARS Foundation.
             top: 45
             left: 140
             right: 10
@@ -174,8 +174,8 @@ big_picture:
             width: 90
             right: 10
             top: 10
-            title: GraphQL Foundation Logo
+            title: TARS Foundation Logo
 test:
-  header: GraphQL Landscape
-  section: GraphQL Foundation Member
+  header: TARS Foundation Landscape
+  section: TARS Foundation Member
   logo: twitter.svg
