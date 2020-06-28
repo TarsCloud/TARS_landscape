@@ -18,7 +18,6 @@ global:
   membership: TARS Foundation Member
   flags:
     hide_license_for_categories:
-      - TARS Adopter
       - TARS Foundation Member
 twitter:
   search: landscape.tarscloud.org
@@ -119,15 +118,6 @@ big_picture:
         top: 0
         left: 695
         color: 'rgb(79,121,13)'
-        fit_width: true
-      - type: HorizontalCategory
-        category: TARS Adopter
-        rows: 6
-        width: 970
-        height: 195
-        top: 180
-        left: 0
-        color: 'rgb(126,115,14)'
         fit_width: true
       - type: HorizontalCategory
         category: TARS Foundation Member
