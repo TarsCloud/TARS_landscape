@@ -203,6 +203,12 @@ landscape:
             logo: dcache.svg
             crunchbase: 'https://www.crunchbase.com/organization/tars-foundation'
           - item:
+            name: memcached
+            homepage_url: 'https://memcached.org/'
+            repo_url: 'https://github.com/memcached/memcached'
+            logo: memcached.svg
+            crunchbase: 'https://www.crunchbase.com/organization/memcached'            
+          - item:
             name: Redis
             homepage_url: 'https://redis.io/'
             repo_url: 'https://github.com/antirez/redis'
@@ -460,11 +466,12 @@ landscape:
         name: File System
         items:
           - item:
-            name: 
-            homepage_url: ''
-            repo_url: ''
-            logo: .svg
-            crunchbase: ''
+            name: Ceph
+            homepage_url: 'https://ceph.io/'
+            repo_url: 'https://github.com/ceph'
+            logo: ceph.svg
+            twitter: 'https://twitter.com/Ceph'
+            crunchbase: 'https://www.crunchbase.com/organization/ceph-foundation'
   - category:
     name: Development Framework
     subcategories:
@@ -1286,6 +1293,12 @@ landscape:
             twitter: 'https://twitter.com/twitterhadoop'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
+            name: Apache Impala
+            homepage_url: 'https://impala.apache.org/'
+            repo_url: 'https://github.com/apache/impala'
+            logo: apache-impala.svg
+            crunchbase: 'https://www.crunchbase.com/organization/apache'               
+          - item:
             name: Apache Kafka
             homepage_url: 'https://kafka.apache.org/'
             repo_url: 'https://github.com/apache/kafka'
@@ -1299,6 +1312,12 @@ landscape:
             logo: apache-spark.svg
             twitter: 'https://twitter.com/apachespark'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Elasticsearch
+            homepage_url: 'https://www.elastic.co/elasticsearch/'
+            repo_url: 'https://github.com/elastic/elasticsearch'
+            logo: elasticsearch.svg
+            crunchbase: 'https://www.crunchbase.com/organization/elasticsearch'            
     subcategories:
       - subcategory:
         name: Business
@@ -1313,10 +1332,28 @@ landscape:
         name: Deep Learning
         items:
           - item:
-            name: 
-            homepage_url: ''
-            logo: .svg
-            crunchbase: ''
+            name: Caffe
+            homepage_url: 'https://caffe.berkeleyvision.org/'
+            repo_url: 'https://github.com/BVLC/caffe'
+            logo: caffe.svg
+          - item:
+            name: Keras
+            homepage_url: 'https://keras.io/'
+            repo_url: 'https://github.com/keras-team/keras'
+            logo: keras.svg
+            crunchbase: 'https://www.crunchbase.com/organization/keras'      
+          - item:
+            name: PyTorch
+            homepage_url: 'https://pytorch.org/'
+            repo_url: 'https://github.com/pytorch/pytorch'
+            logo: pytorch.svg
+            crunchbase: 'https://www.crunchbase.com/organization/pytorch'          
+          - item:
+            name: TensorFlow
+            homepage_url: 'https://pypi.org/project/tensorflow/'
+            repo_url: 'https://github.com/tensorflow/tensorflow'
+            logo: tensorflow.svg
+            crunchbase: 'hhttps://www.crunchbase.com/organization/tensorflow'                                  
     subcategories:
       - subcategory:
         name: Edge
