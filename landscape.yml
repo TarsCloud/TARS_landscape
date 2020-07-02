@@ -506,7 +506,6 @@ landscape:
             logo: tars.svg
             twitter: 'https://twitter.com/TarsCloud'
             crunchbase: 'https://www.crunchbase.com/organization/tars-foundation'
-    subcategories:
       - subcategory:
         name: Protocol
         items:
@@ -556,7 +555,6 @@ landscape:
             repo_url: 'https://github.com/tencent/tseer'
             logo: tseer.svg
             crunchbase: 'https://www.crunchbase.com/organization/tars-foundation'            
-    subcategories:
       - subcategory:
         name: Service Mesh
         items:
@@ -632,7 +630,6 @@ landscape:
             repo_url: 'https://github.com/solo-io/service-mesh-hub'
             logo: supergloo.svg
             crunchbase: 'https://www.crunchbase.com/organization/solo-io'
-    subcategories:
       - subcategory:
         name: Log
         items:
@@ -707,9 +704,9 @@ landscape:
             homepage_url: 'https://www.sumologic.com/'
             logo: sumologic.svg
             crunchbase: 'https://www.crunchbase.com/organization/sumo-logic'
-    subcategories:
       - subcategory:
         name: Monitoring
+        items:
           - item:
             name: AppDynamics
             homepage_url: 'https://www.appdynamics.com/'
@@ -984,7 +981,6 @@ landscape:
             repo_url: 'https://github.com/zabbix/zabbix'
             logo: zabbix.svg
             crunchbase: 'https://www.crunchbase.com/organization/zabbix'           
-    subcategories:
       - subcategory:
         name: Configuration
         items:
@@ -1129,7 +1125,6 @@ landscape:
             logo: vmware-vsphere.svg
             twitter: 'https://twitter.com/VMwarevSphere'
             crunchbase: 'https://www.crunchbase.com/organization/vmware'
-    subcategories:
       - subcategory:
         name: Tracing
         items:
@@ -1208,6 +1203,7 @@ landscape:
     subcategories:
       - subcategory:
         name: API Gateway
+        items:
           - item:
             name: Ambassador
             homepage_url: 'https://www.getambassador.io/'
@@ -1281,7 +1277,6 @@ landscape:
             repo_url: 'https://github.com/wso2/product-microgateway'
             logo: wso2.svg
             crunchbase: 'https://www.crunchbase.com/organization/wso2'
-    subcategories:
       - subcategory:
         name: Big data
         items:
@@ -1318,7 +1313,6 @@ landscape:
             repo_url: 'https://github.com/elastic/elasticsearch'
             logo: elasticsearch.svg
             crunchbase: 'https://www.crunchbase.com/organization/elasticsearch'            
-    subcategories:
       - subcategory:
         name: Business
         items:
@@ -1327,7 +1321,6 @@ landscape:
             homepage_url: 'https://www.aftership.com/'
             logo: aftership.svg
             crunchbase: 'https://www.crunchbase.com/organization/aftership'   
-    subcategories:
       - subcategory:
         name: Deep Learning
         items:
@@ -1354,7 +1347,6 @@ landscape:
             repo_url: 'https://github.com/tensorflow/tensorflow'
             logo: tensorflow.svg
             crunchbase: 'hhttps://www.crunchbase.com/organization/tensorflow'                                  
-    subcategories:
       - subcategory:
         name: Edge
         items:
@@ -1416,7 +1408,6 @@ landscape:
             logo: tencent.svg
             twitter: 'https://twitter.com/tencentglobal'
             crunchbase: 'https://www.crunchbase.com/organization/tencent'
-    subcategories:
       - subcategory:
         name: General
         items:
@@ -1445,13 +1436,6 @@ landscape:
             homepage_url: 'https://www.zenlayer.com/'
             logo: zenlayer.svg
             crunchbase: 'https://www.crunchbase.com/organization/zenlayer'
-    subcategories:
       - subcategory:
         name: Associate
-        items:
-          - item:
-            name: 
-            homepage_url: ''
-            logo: .svg
-            crunchbase: ''
-
+        items: []
