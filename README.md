@@ -2,7 +2,7 @@
 
 # TARS Landscape
 
-![TARS Landscape Logo](https://landscape.graphql.org/images/left-logo.svg)
+![TARS Landscape Logo](./images/left-logo.svg)
 
 - [TARS Landscape](#cloud-native-landscape)
   * [Current Version](#current-version)
