@@ -102,7 +102,7 @@ big_picture:
     fullscreen_header: See the interactive landscape at l.tarscloud.org
     elements:
       - type: HorizontalCategory
-        category: Projects
+        category: DevOps
         rows: 4
         width: 475
         height: 160
@@ -111,7 +111,25 @@ big_picture:
         color: 'rgb(4,81,49)'
         fit_width: true
       - type: HorizontalCategory
-        category: Services
+        category: Programming Language
+        rows: 3
+        width: 275
+        height: 160
+        top: 0
+        left: 695
+        color: 'rgb(79,121,13)'
+        fit_width: true        
+      - type: HorizontalCategory
+        category: Application
+        rows: 3
+        width: 275
+        height: 160
+        top: 0
+        left: 695
+        color: 'rgb(79,121,13)'
+        fit_width: true           
+      - type: HorizontalCategory
+        category: Services Governance
         rows: 3
         width: 180
         height: 160
@@ -120,7 +138,16 @@ big_picture:
         color: 'rgb(7,136,62)'
         fit_width: true
       - type: HorizontalCategory
-        category: Databases
+        category: Development Framework
+        rows: 3
+        width: 180
+        height: 160
+        top: 0
+        left: 495
+        color: 'rgb(7,136,62)'
+        fit_width: true        
+      - type: HorizontalCategory
+        category: Storage
         rows: 3
         width: 275
         height: 160
@@ -128,6 +155,15 @@ big_picture:
         left: 695
         color: 'rgb(79,121,13)'
         fit_width: true
+      - type: HorizontalCategory
+        category: Infrastructure
+        rows: 3
+        width: 275
+        height: 160
+        top: 0
+        left: 695
+        color: 'rgb(79,121,13)'
+        fit_width: true        
       - type: HorizontalCategory
         category: TARS Foundation Member
         rows: 4
@@ -158,7 +194,7 @@ big_picture:
             height: 90
             title: QR Code
           - type: title
-            title: l.graphql.org
+            title: l.tarscloud.org
             top: 95
             left: 10
             font_size: 21
