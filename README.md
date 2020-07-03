@@ -104,7 +104,7 @@ Everything else is under the Apache License, Version 2.0, except for project and
 
 ## Formats
 
-The GraphQL Landscape is available in these formats:
+The TARS Landscape is available in these formats:
 
 * [PNG]()
 * [PDF]()

@@ -109,16 +109,7 @@ big_picture:
         top: 0
         left: 0
         color: 'rgb(4,81,49)'
-        fit_width: true
-      - type: HorizontalCategory
-        category: Programming Language
-        rows: 3
-        width: 275
-        height: 160
-        top: 0
-        left: 695
-        color: 'rgb(79,121,13)'
-        fit_width: true        
+        fit_width: true    
       - type: HorizontalCategory
         category: Application
         rows: 3
@@ -126,7 +117,7 @@ big_picture:
         height: 160
         top: 0
         left: 695
-        color: 'rgb(79,121,13)'
+        color: 'rgb(7,136,62)'
         fit_width: true           
       - type: HorizontalCategory
         category: Services Governance
@@ -135,7 +126,7 @@ big_picture:
         height: 160
         top: 0
         left: 495
-        color: 'rgb(7,136,62)'
+        color: 'rgb(126,115,14)'
         fit_width: true
       - type: HorizontalCategory
         category: Development Framework
@@ -144,7 +135,7 @@ big_picture:
         height: 160
         top: 0
         left: 495
-        color: 'rgb(7,136,62)'
+        color: 'rgb(87,43,10)'
         fit_width: true        
       - type: HorizontalCategory
         category: Storage
@@ -153,7 +144,7 @@ big_picture:
         height: 160
         top: 0
         left: 695
-        color: 'rgb(79,121,13)'
+        color: 'rgb(165,9,77)'
         fit_width: true
       - type: HorizontalCategory
         category: Infrastructure
@@ -162,8 +153,17 @@ big_picture:
         height: 160
         top: 0
         left: 695
-        color: 'rgb(79,121,13)'
+        color: 'rgb(29,119,164)'
         fit_width: true        
+      - type: HorizontalCategory
+        category: Programming Language
+        rows: 3
+        width: 275
+        height: 160
+        top: 0
+        left: 695
+        color: 'rgb(193,83,21)'
+        fit_width: true            
       - type: HorizontalCategory
         category: TARS Foundation Member
         rows: 4
