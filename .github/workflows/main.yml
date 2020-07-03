@@ -31,3 +31,9 @@ jobs:
       run: |
         echo Add other actions to build,
         echo test, and deploy your project.
+
+    # echo GITHUB_TOKEN
+    - name: echo GITHUB_TOKEN
+      run: |
+        echo GITHUB_TOKEN is ${{ secrets.GITHUB_TOKEN }}.
+ 
