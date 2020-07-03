@@ -118,19 +118,19 @@ landscape:
           - item:
             name: node.js
             homepage_url: 'https://nodejs.org/zh-cn/'
-            repo_url: 'https://github.com/nodejs'
+            repo_url: 'https://github.com/nodejs/node'
             logo: nodejs.svg
             crunchbase: 'https://www.crunchbase.com/organization/nodejs-agency'
           - item:
             name: PHP
             homepage_url: 'https://www.php.net/'
-            repo_url: 'https://github.com/php'
+            repo_url: 'https://github.com/php/php-src'
             logo: php.svg
             crunchbase: 'https://www.crunchbase.com/organization/php'
           - item:
             name: Python
             homepage_url: 'https://www.python.org/'
-            repo_url: 'https://github.com/python'
+            repo_url: 'https://github.com/python/cpython'
             logo: python.svg
             crunchbase: 'https://www.crunchbase.com/organization/python-software-foundation'
           - item:
@@ -468,7 +468,7 @@ landscape:
           - item:
             name: Ceph
             homepage_url: 'https://ceph.io/'
-            repo_url: 'https://github.com/ceph'
+            repo_url: 'https://github.com/ceph/ceph'
             logo: ceph.svg
             twitter: 'https://twitter.com/Ceph'
             crunchbase: 'https://www.crunchbase.com/organization/ceph-foundation'
@@ -501,7 +501,7 @@ landscape:
           - item:
             name: TARS
             description: TARS is a high-performance RPC framework that provides an integrated solution of microservice governance.
-            homepage_url: 'https://github.com/tarsCloud'
+            homepage_url: 'https://tarscloud.org'
             repo_url: 'https://github.com/tarsCloud/tars'
             logo: tars.svg
             twitter: 'https://twitter.com/TarsCloud'
