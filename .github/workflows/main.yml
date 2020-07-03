@@ -34,6 +34,9 @@ jobs:
 
     # echo GITHUB_TOKEN
     - name: echo GITHUB_TOKEN
+      env:
+        token1: ${{ github.token }}
+        token2: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        echo GITHUB_TOKEN is ${{ secrets.GITHUB_TOKEN }}.
+        [ "$TOKEN1" == "$TOKEN2" ] && echo "same" || echo "no"
  
