@@ -1261,7 +1261,7 @@ landscape:
           - item:
             name: C++
             homepage_url: 'https://www.cplusplus.com/'
-            logo: c++.svg
+            logo: cplusplus.svg
             crunchbase: 'https://www.crunchbase.com/organization/international-organization-for-standardization'
             crunchbase_data:
               name: International Organization for Standardization
@@ -1279,7 +1279,7 @@ landscape:
               stockExchange: null
             image_data:
               fileName: c.svg
-              hash: ehYxG/XfO27H5PMH2KLqM5+/jwO2hZClNy5N5y/Fh8Y=
+              hash: KudbYvE7dafIjdRHQDqJL7QcUK0MBNoLsHTnSJqVG5I=
             best_practice_data:
               badge: false
               percentage: null
@@ -1932,7 +1932,7 @@ landscape:
             name: Kotlin
             homepage_url: 'https://kotlinlang.org/'
             repo_url: 'https://github.com/JetBrains/kotlin'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: kotlin.svg
             crunchbase: 'https://www.crunchbase.com/organization/kotlin'
             crunchbase_data:
               name: Kotlin
@@ -2012,6 +2012,7 @@ landscape:
               start_date: '2010-11-08T11:03:36Z'
             image_data:
               fileName: kotlin.svg
+              hash: ISDHcQ/0JjuHjf5TZZ5r1y6mI/vwBtrpQaLIJZR6m50=
             best_practice_data:
               badge: false
               percentage: null
@@ -2310,7 +2311,7 @@ landscape:
             name: Ruby
             homepage_url: 'https://www.ruby-lang.org/en/'
             repo_url: 'https://github.com/ruby/ruby'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/5/57/Devicon-ruby-plain-wordmark.svg'
             crunchbase: 'https://www.crunchbase.com/organization/ruby'
             crunchbase_data:
               name: Ruby
@@ -3806,7 +3807,7 @@ landscape:
             name: memcached
             homepage_url: 'https://memcached.org/'
             repo_url: 'https://github.com/memcached/memcached'
-            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            logo: memcached.svg
             crunchbase: 'https://www.crunchbase.com/organization/memcached'
             crunchbase_data:
               name: Memcached
@@ -3871,6 +3872,7 @@ landscape:
               start_date: '2003-05-27T07:19:11Z'
             image_data:
               fileName: memcached.svg
+              hash: AnHKM39Zqh9WBZdUGg9fRmwG090Lk7WQcriVTMosagg=
             best_practice_data:
               badge: false
               percentage: null
@@ -18488,6 +18490,7 @@ landscape:
           - item:
             name: Akraino
             homepage_url: 'https://www.lfedge.org/projects/akraino/'
+            repo_url: 'https://github.com/akraino-edge-stack/eliot'
             logo: akraino.svg
             crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
             crunchbase_data:
@@ -18505,6 +18508,47 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
               stockExchange: null
+            github_data:
+              languages:
+                - name: Shell
+                  value: 147697
+                  color: '#89e051'
+                - name: TypeScript
+                  value: 81495
+                  color: '#2b7489'
+                - name: Java
+                  value: 61122
+                  color: '#b07219'
+                - name: HTML
+                  value: 52411
+                  color: '#e34c26'
+                - name: Go
+                  value: 48003
+                  color: '#00ADD8'
+                - name: CSS
+                  value: 21735
+                  color: '#563d7c'
+                - name: JavaScript
+                  value: 1833
+                  color: '#f1e05a'
+                - name: Dockerfile
+                  value: 1075
+                  color: '#384d54'
+              contributions: 4;2;1;1;2;3;0;0;0;1;1;0;0;2;0;4;18;3;6;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;2;0;0;0
+              firstWeek: 2019-07-21Z
+              stars: 0
+              license: Unknown License
+              description: null
+              latest_commit_date: '2020-06-18T08:52:52Z'
+              latest_commit_link: /akraino-edge-stack/eliot/commit/7d9494640272f23b5358f11e6e8faebb1a57240a
+              contributors_count: 10
+              contributors_link: 'https://github.com/akraino-edge-stack/eliot/graphs/contributors'
+            repos:
+              - url: 'https://github.com/akraino-edge-stack/eliot'
+                stars: 0
+            github_start_commit_data:
+              start_commit_link: /akraino-edge-stack/eliot/commit/1c3e0d723e5889b6e46aee1eb3afd682eece79a5
+              start_date: '2019-01-31T02:04:52Z'
             image_data:
               fileName: akraino.svg
               hash: 32DEquOcfD/MdJY74M/eU+75j+r0CRGJRgGZoxM7er4=
@@ -18516,6 +18560,7 @@ landscape:
           - item:
             name: Baetyl
             homepage_url: 'https://www.lfedge.org/projects/baetyl/'
+            repo_url: 'https://github.com/baetyl/baetyl'
             logo: baetyl.svg
             crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
             crunchbase_data:
@@ -18533,6 +18578,34 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
               stockExchange: null
+            github_data:
+              languages:
+                - name: Go
+                  value: 142502
+                  color: '#00ADD8'
+                - name: Makefile
+                  value: 2370
+                  color: '#427819'
+                - name: Dockerfile
+                  value: 477
+                  color: '#384d54'
+              contributions: 12;9;10;1;6;14;5;10;22;42;8;9;10;5;9;6;1;5;3;0;0;1;1;22;5;2;6;0;0;1;1;0;4;4;27;42;34;6;11;19;5;8;4;6;1;8;17;1;7;4;6;2
+              firstWeek: 2019-07-21Z
+              stars: 1363
+              license: Apache License 2.0
+              description: 'Extend cloud computing, data and service seamlessly to edge devices.'
+              latest_commit_date: '2020-07-08T13:48:37Z'
+              latest_commit_link: /baetyl/baetyl/commit/c739c06fbce1a6405cc7a8a3c2f4d54b2742ec38
+              release_date: '2020-07-07T22:25:18Z'
+              release_link: 'https://github.com/baetyl/baetyl/releases'
+              contributors_count: 24
+              contributors_link: 'https://github.com/baetyl/baetyl/graphs/contributors'
+            repos:
+              - url: 'https://github.com/baetyl/baetyl'
+                stars: 1363
+            github_start_commit_data:
+              start_commit_link: /baetyl/baetyl/commit/2d56b5c58ef5cf923bd8e441c1e7b9c2924c4324
+              start_date: '2018-09-11T09:31:23Z'
             image_data:
               fileName: baetyl.svg
               hash: Dpu4K0FUCrrDes574lnc1a+eP548MICYn6vhC9ERhRU=
@@ -18544,6 +18617,7 @@ landscape:
           - item:
             name: EdgeX Foundry
             homepage_url: 'https://www.lfedge.org/projects/edgexfoundry/'
+            repo_url: 'https://github.com/edgexfoundry/edgex-go'
             logo: edgexfoundry.svg
             crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
             crunchbase_data:
@@ -18561,6 +18635,43 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
               stockExchange: null
+            github_data:
+              languages:
+                - name: Go
+                  value: 2212844
+                  color: '#00ADD8'
+                - name: RAML
+                  value: 314829
+                  color: '#77d9fb'
+                - name: Shell
+                  value: 30585
+                  color: '#89e051'
+                - name: Dockerfile
+                  value: 14434
+                  color: '#384d54'
+                - name: Makefile
+                  value: 6726
+                  color: '#427819'
+                - name: C
+                  value: 2299
+                  color: '#555555'
+                - name: HCL
+                  value: 1906
+              contributions: 12;10;16;5;14;12;3;9;12;21;35;19;32;34;19;37;26;40;51;3;25;9;8;0;2;8;4;9;6;13;10;16;18;13;1;6;9;6;4;15;12;19;9;7;8;6;6;7;2;7;3;8
+              firstWeek: 2019-07-21Z
+              stars: 619
+              license: Apache License 2.0
+              description: 'EdgeX Golang Services Monorepo | Owner: Core/Support WG'
+              latest_commit_date: '2020-07-14T19:01:25Z'
+              latest_commit_link: /edgexfoundry/edgex-go/commit/d3bef6b20b2c14557d695dff5ed68114bacb432d
+              contributors_count: 77
+              contributors_link: 'https://github.com/edgexfoundry/edgex-go/graphs/contributors'
+            repos:
+              - url: 'https://github.com/edgexfoundry/edgex-go'
+                stars: 619
+            github_start_commit_data:
+              start_commit_link: /edgexfoundry/edgex-go/commit/5d4f832b5efaee071ca93cc0d475a31c78b6a2fc
+              start_date: '2017-12-01T20:13:25Z'
             image_data:
               fileName: edge-x-foundry.svg
               hash: pVWhFuKdlO8Fmd2/OwZatOU43pBdDnL6TDYI5g+0L9Q=
@@ -18572,6 +18683,7 @@ landscape:
           - item:
             name: EVE
             homepage_url: 'https://www.lfedge.org/projects/eve/'
+            repo_url: 'https://github.com/lf-edge/eve'
             logo: eve.svg
             crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
             crunchbase_data:
@@ -18589,6 +18701,55 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
               stockExchange: null
+            github_data:
+              languages:
+                - name: Go
+                  value: 2723917
+                  color: '#00ADD8'
+                - name: Shell
+                  value: 149656
+                  color: '#89e051'
+                - name: Dockerfile
+                  value: 49295
+                  color: '#384d54'
+                - name: C
+                  value: 34933
+                  color: '#555555'
+                - name: Makefile
+                  value: 24542
+                  color: '#427819'
+                - name: C++
+                  value: 17263
+                  color: '#f34b7d'
+                - name: Python
+                  value: 2293
+                  color: '#3572A5'
+                - name: Roff
+                  value: 918
+                  color: '#ecdebe'
+                - name: OCaml
+                  value: 457
+                  color: '#3be133'
+                - name: NSIS
+                  value: 9
+              contributions: >-
+                21;23;21;29;28;33;20;26;19;29;23;24;40;29;18;10;20;36;35;17;44;32;26;10;16;23;39;70;65;41;29;49;35;35;29;28;35;53;43;35;62;47;32;26;18;27;37;35;38;63;35;36
+              firstWeek: 2019-07-21Z
+              stars: 158
+              license: Apache License 2.0
+              description: 'EVE is Edge Virtualization Engine '
+              latest_commit_date: '2020-07-15T07:07:57Z'
+              latest_commit_link: /lf-edge/eve/commit/99fbc9c552499f093c55ec21aa323a857f44b467
+              release_date: '2019-07-29T03:43:17Z'
+              release_link: 'https://github.com/lf-edge/eve/releases'
+              contributors_count: 54
+              contributors_link: 'https://github.com/lf-edge/eve/graphs/contributors'
+            repos:
+              - url: 'https://github.com/lf-edge/eve'
+                stars: 158
+            github_start_commit_data:
+              start_commit_link: /lf-edge/eve/commit/fc05a1f8ea2dc7fa59cb13b76910409f86e3d720
+              start_date: '2017-05-01T21:15:36Z'
             image_data:
               fileName: eve.svg
               hash: JI0J+WGSGgX1AIgByYEOgm4UFEmpzzCwCYVdnwlw10U=
@@ -18600,6 +18761,7 @@ landscape:
           - item:
             name: Fledge
             homepage_url: 'https://www.lfedge.org/projects/fledge/'
+            repo_url: 'https://github.com/fledge-iot/fledge'
             logo: fledge.svg
             crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
             crunchbase_data:
@@ -18617,6 +18779,44 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
               stockExchange: null
+            github_data:
+              languages:
+                - name: Python
+                  value: 2896027
+                  color: '#3572A5'
+                - name: C++
+                  value: 2587599
+                  color: '#f34b7d'
+                - name: Shell
+                  value: 209985
+                  color: '#89e051'
+                - name: CMake
+                  value: 55901
+                - name: TSQL
+                  value: 44278
+                - name: Makefile
+                  value: 20660
+                  color: '#427819'
+                - name: C
+                  value: 3077
+                  color: '#555555'
+              contributions: 35;25;24;18;22;21;37;54;18;10;38;17;29;43;17;8;28;24;12;14;9;10;7;2;10;6;7;1;6;5;13;5;11;14;20;18;18;42;19;47;19;17;23;23;9;19;18;17;9;6;6;11
+              firstWeek: 2019-07-21Z
+              stars: 12
+              license: Apache License 2.0
+              description: 'An open source platform for the Industrial Internet of Things, it acts as an edge gateway between sensor devices and cloud storage systems.'
+              latest_commit_date: '2020-07-10T08:30:37Z'
+              latest_commit_link: /fledge-iot/fledge/commit/9d4a232da1b8e9704006cb660b5c36384a6a6c0e
+              release_date: '2020-07-09T16:11:43Z'
+              release_link: 'https://github.com/fledge-iot/fledge/releases'
+              contributors_count: 37
+              contributors_link: 'https://github.com/fledge-iot/fledge/graphs/contributors'
+            repos:
+              - url: 'https://github.com/fledge-iot/fledge'
+                stars: 12
+            github_start_commit_data:
+              start_commit_link: /fledge-iot/fledge/commit/b75c8c7efc77c581f4a8bf565226893c19d25ae8
+              start_date: '2017-04-20T16:35:28Z'
             image_data:
               fileName: fledge.svg
               hash: /Fbs+vBuHzaSKoxg3WuiGOw3If7EP1juCih4b6prRq8=
@@ -18628,6 +18828,7 @@ landscape:
           - item:
             name: HomeEdge
             homepage_url: 'https://www.lfedge.org/projects/homeedge/'
+            repo_url: 'https://github.com/lf-edge/edge-home-orchestration-go'
             logo: homeedge.svg
             crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
             crunchbase_data:
@@ -18645,6 +18846,40 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
               stockExchange: null
+            github_data:
+              languages:
+                - name: Go
+                  value: 544357
+                  color: '#00ADD8'
+                - name: Shell
+                  value: 16198
+                  color: '#89e051'
+                - name: Makefile
+                  value: 4676
+                  color: '#427819'
+                - name: Dockerfile
+                  value: 3797
+                  color: '#384d54'
+                - name: C
+                  value: 3512
+                  color: '#555555'
+              contributions: 29;10;12;23;18;7;9;11;10;1;36;49;11;13;5;0;1;2;0;3;0;3;1;0;0;0;2;2;5;0;2;2;0;0;0;2;2;1;0;1;2;1;0;0;2;4;5;0;3;5;7;6
+              firstWeek: 2019-07-21Z
+              stars: 16
+              license: Apache License 2.0
+              description: Home Edge Project
+              latest_commit_date: '2020-07-14T05:57:13Z'
+              latest_commit_link: /lf-edge/edge-home-orchestration-go/commit/1f1d028cc340bd2cf328bf8dbaa750079d7f253f
+              release_date: '2019-10-28T03:50:40Z'
+              release_link: 'https://github.com/lf-edge/edge-home-orchestration-go/releases'
+              contributors_count: 14
+              contributors_link: 'https://github.com/lf-edge/edge-home-orchestration-go/graphs/contributors'
+            repos:
+              - url: 'https://github.com/lf-edge/edge-home-orchestration-go'
+                stars: 16
+            github_start_commit_data:
+              start_commit_link: /lf-edge/edge-home-orchestration-go/commit/0be53551594b304ec3f8a8b52facad514fedbd80
+              start_date: '2019-06-26T11:11:44Z'
             image_data:
               fileName: home-edge.svg
               hash: ANL9Hfxmb1B1J34vpEeM2rVDqZp6KFiiFvPVzaazrPI=
@@ -18656,6 +18891,7 @@ landscape:
           - item:
             name: Open Horizon
             homepage_url: 'https://www.lfedge.org/projects/openhorizon/'
+            repo_url: 'https://github.com/open-horizon/anax'
             logo: openhorizon.svg
             crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
             crunchbase_data:
@@ -18673,6 +18909,37 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
               stockExchange: null
+            github_data:
+              languages:
+                - name: Go
+                  value: 3908195
+                  color: '#00ADD8'
+                - name: Shell
+                  value: 538958
+                  color: '#89e051'
+                - name: Makefile
+                  value: 48277
+                  color: '#427819'
+                - name: Dockerfile
+                  value: 1960
+                  color: '#384d54'
+              contributions: 7;6;10;16;37;31;16;43;40;13;5;2;4;12;9;7;8;9;21;1;20;11;2;0;15;25;16;37;33;21;17;4;20;12;12;12;19;11;8;16;34;27;41;31;33;41;19;5;8;12;1;7
+              firstWeek: 2019-07-21Z
+              stars: 28
+              license: Apache License 2.0
+              description: ' Horizon agent control system'
+              latest_commit_date: '2020-07-10T18:01:28Z'
+              latest_commit_link: /open-horizon/anax/commit/636aefb631116925b407473cb4c473142707153d
+              release_date: '2020-07-14T16:47:16Z'
+              release_link: 'https://github.com/open-horizon/anax/releases'
+              contributors_count: 26
+              contributors_link: 'https://github.com/open-horizon/anax/graphs/contributors'
+            repos:
+              - url: 'https://github.com/open-horizon/anax'
+                stars: 28
+            github_start_commit_data:
+              start_commit_link: /open-horizon/anax/commit/e62282e77a56550950c0b458195b17da3a59470e
+              start_date: '2016-10-07T01:59:14Z'
             image_data:
               fileName: open-horizon.svg
               hash: xFWcmcr+xp4dgniJd+7pMdcHQ1L0bURJ9uck/JRSWj0=
@@ -18684,6 +18951,7 @@ landscape:
           - item:
             name: State of the Edge
             homepage_url: 'https://www.lfedge.org/projects/stateoftheedge/'
+            repo_url: 'https://github.com/State-of-the-Edge/glossary'
             logo: stateoftheedge.svg
             crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
             crunchbase_data:
@@ -18701,6 +18969,27 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
               stockExchange: null
+            github_data:
+              languages: []
+              contributions: 0;0;0;0;0;0;2;0;15;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7;0;5;0;1
+              firstWeek: 2019-07-21Z
+              stars: 110
+              license: Creative Commons Attribution Share Alike 4.0 International
+              description: >-
+                The Linux Foundation's Open Glossary of Edge Computing project curates and defines terms related to the field of edge computing, collecting
+                common and accepted definitions into an openly licensed repository.
+              latest_commit_date: '2020-07-11T13:22:39Z'
+              latest_commit_link: /State-of-the-Edge/glossary/commit/37f2d64ef613e3e596f78a7bc615240383700e76
+              release_date: '2019-09-03T16:12:07Z'
+              release_link: 'https://github.com/State-of-the-Edge/glossary/releases'
+              contributors_count: 9
+              contributors_link: 'https://github.com/State-of-the-Edge/glossary/graphs/contributors'
+            repos:
+              - url: 'https://github.com/State-of-the-Edge/glossary'
+                stars: 110
+            github_start_commit_data:
+              start_commit_link: /State-of-the-Edge/glossary/commit/94da828cf86671fc7d8fd16002cabe1faee065e9
+              start_date: '2018-06-08T15:38:41Z'
             image_data:
               fileName: state-of-the-edge.svg
               hash: 33UdkEYhYu3punjjGDkrVW6pEPgf1SlGmCoU3caEBSs=
