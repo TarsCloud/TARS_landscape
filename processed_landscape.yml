@@ -1,3 +1,4 @@
+# THIS FILE IS GENERATED AUTOMATICALLY!
 landscape:
   - category:
     name: DevOps
@@ -680,13 +681,31 @@ landscape:
               percentage: null
           - item:
             name: C
+            homepage_url: 'https://en.wikipedia.org/wiki/C_(programming_language)'
             logo: c.svg
+            crunchbase: 'https://www.crunchbase.com/organization/international-organization-for-standardization'
+            crunchbase_data:
+              name: International Organization for Standardization
+              description: 'The International Organization for Standardization promotes worldwide proprietary, industrial, and commercial standards.'
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'http://www.iso.org/'
+              city: Vernier
+              region: Geneve
+              country: Switzerland
+              twitter: 'http://twitter.com/isostandards'
+              linkedin: 'https://www.linkedin.com/company/iso-international-organization-for-standardization'
+              acquisitions: []
+              parents: []
+              stockExchange: null
             image_data:
               fileName: c.svg
               hash: goZaxWPbDN/v7nH2hVjTZ+Revx/0p4Lil+lDXNJK554=
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-14T13:06:04.000Z
           - item:
             name: C#
             homepage_url: 'https://docs.microsoft.com/en-us/dotnet/csharp/'
@@ -1243,12 +1262,29 @@ landscape:
             name: C++
             homepage_url: 'https://www.cplusplus.com/'
             logo: c++.svg
+            crunchbase: 'https://www.crunchbase.com/organization/international-organization-for-standardization'
+            crunchbase_data:
+              name: International Organization for Standardization
+              description: 'The International Organization for Standardization promotes worldwide proprietary, industrial, and commercial standards.'
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'http://www.iso.org/'
+              city: Vernier
+              region: Geneve
+              country: Switzerland
+              twitter: 'http://twitter.com/isostandards'
+              linkedin: 'https://www.linkedin.com/company/iso-international-organization-for-standardization'
+              acquisitions: []
+              parents: []
+              stockExchange: null
             image_data:
               fileName: c.svg
               hash: ehYxG/XfO27H5PMH2KLqM5+/jwO2hZClNy5N5y/Fh8Y=
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-14T13:06:04.000Z
           - item:
             name: Go
             homepage_url: 'https://golang.org/'
@@ -1893,6 +1929,95 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-07-09T15:52:13.000Z
           - item:
+            name: Kotlin
+            homepage_url: 'https://kotlinlang.org/'
+            repo_url: 'https://github.com/JetBrains/kotlin'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/kotlin'
+            crunchbase_data:
+              name: Kotlin
+              description: 'Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference.'
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://kotlinlang.org/'
+              city: Prague
+              region: Hlavni mesto Praha
+              country: Czech Republic
+              twitter: 'https://twitter.com/kotlin'
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Kotlin
+                  value: 52219292
+                  color: '#F18E33'
+                - name: Java
+                  value: 7646197
+                  color: '#b07219'
+                - name: JavaScript
+                  value: 185101
+                  color: '#f1e05a'
+                - name: HTML
+                  value: 78949
+                  color: '#e34c26'
+                - name: Lex
+                  value: 23805
+                  color: '#DBCA00'
+                - name: TypeScript
+                  value: 21756
+                  color: '#2b7489'
+                - name: Groovy
+                  value: 11196
+                  color: '#e69f56'
+                - name: Swift
+                  value: 10768
+                  color: '#ffac45'
+                - name: CSS
+                  value: 9270
+                  color: '#563d7c'
+                - name: Shell
+                  value: 7220
+                  color: '#89e051'
+                - name: Batchfile
+                  value: 5727
+                  color: '#C1F12E'
+                - name: Ruby
+                  value: 2655
+                  color: '#701516'
+                - name: Objective-C
+                  value: 626
+                  color: '#438eff'
+                - name: Scala
+                  value: 80
+                  color: '#c22d40'
+              contributions: >-
+                141;163;127;130;120;200;183;137;156;139;184;138;185;195;194;144;189;245;208;193;136;210;269;171;36;213;288;345;282;250;353;253;265;238;200;276;340;262;293;268;244;137;309;203;222;297;268;209;261;227;144;94
+              firstWeek: 2019-07-22Z
+              stars: 32527
+              license: Unknown License
+              description: The Kotlin Programming Language
+              latest_commit_date: '2020-07-14T17:29:11Z'
+              latest_commit_link: /JetBrains/kotlin/commit/742b98bed681792b4d471992198c96d8b71e235c
+              release_date: '2020-07-06T14:09:20Z'
+              release_link: 'https://github.com/JetBrains/kotlin/releases'
+              contributors_count: 491
+              contributors_link: 'https://github.com/JetBrains/kotlin/graphs/contributors'
+            repos:
+              - url: 'https://github.com/JetBrains/kotlin'
+                stars: 32527
+            github_start_commit_data:
+              start_commit_link: /JetBrains/kotlin/commit/3e4dce385331c91c9059fcdcea3eae2394f34942
+              start_date: '2010-11-08T11:03:36Z'
+            image_data:
+              fileName: kotlin.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-09T15:30:33.000Z
+          - item:
             name: node.js
             homepage_url: 'https://nodejs.org/zh-cn/'
             repo_url: 'https://github.com/nodejs/node'
@@ -2182,6 +2307,109 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-07-09T18:33:20.000Z
           - item:
+            name: Ruby
+            homepage_url: 'https://www.ruby-lang.org/en/'
+            repo_url: 'https://github.com/ruby/ruby'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/ruby'
+            crunchbase_data:
+              name: Ruby
+              description: 'Ruby is a dynamic, open source programming language that balances functional programming with imperative programming.'
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.ruby-lang.org'
+              city: Toyota
+              region: Shimane
+              country: Japan
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Ruby
+                  value: 27390665
+                  color: '#701516'
+                - name: C
+                  value: 12655294
+                  color: '#555555'
+                - name: Yacc
+                  value: 1134938
+                  color: '#4B6C4B'
+                - name: Makefile
+                  value: 858742
+                  color: '#427819'
+                - name: Objective-C
+                  value: 840660
+                  color: '#438eff'
+                - name: C++
+                  value: 738559
+                  color: '#f34b7d'
+                - name: M4
+                  value: 162162
+                - name: GDB
+                  value: 36063
+                - name: Ragel
+                  value: 26849
+                  color: '#9d5200'
+                - name: HTML
+                  value: 19299
+                  color: '#e34c26'
+                - name: CSS
+                  value: 16252
+                  color: '#563d7c'
+                - name: Python
+                  value: 15020
+                  color: '#3572A5'
+                - name: JavaScript
+                  value: 14769
+                  color: '#f1e05a'
+                - name: Batchfile
+                  value: 11372
+                  color: '#C1F12E'
+                - name: Shell
+                  value: 10793
+                  color: '#89e051'
+                - name: Assembly
+                  value: 10120
+                  color: '#6E4C13'
+                - name: Emacs Lisp
+                  value: 4051
+                  color: '#c065db'
+                - name: sed
+                  value: 1893
+                  color: '#64b970'
+                - name: Scheme
+                  value: 557
+                  color: '#1e4aec'
+                - name: Perl
+                  value: 388
+                  color: '#0298c3'
+                - name: Raku
+                  value: 296
+              contributions: >-
+                122;126;162;200;223;155;171;171;66;117;142;101;99;131;108;75;170;90;72;152;125;135;146;110;45;64;74;102;71;81;90;65;91;73;54;62;90;80;100;118;99;98;121;74;94;143;111;161;128;76;45;46
+              firstWeek: 2019-07-22Z
+              stars: 16980
+              license: Other
+              description: 'The Ruby Programming Language [mirror]'
+              latest_commit_date: '2020-07-15T02:22:10Z'
+              latest_commit_link: /ruby/ruby/commit/dfe88350df42a30aaeea71fa3b045f6d25fa5b75
+              contributors_count: 287
+              contributors_link: 'https://github.com/ruby/ruby/graphs/contributors'
+            repos:
+              - url: 'https://github.com/ruby/ruby'
+                stars: 16980
+            github_start_commit_data:
+              start_commit_link: /ruby/ruby/commit/392296c12de9d7f9be03a8205250ba0844cb9d38
+              start_date: '1998-01-16T12:13:05Z'
+            image_data:
+              fileName: ruby.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Rust
             homepage_url: 'https://www.rust-lang.org/'
             repo_url: 'https://github.com/rust-lang/rust'
@@ -2286,6 +2514,83 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-07-09T15:30:34.000Z
+          - item:
+            name: Scala
+            homepage_url: 'https://www.scala-lang.org/'
+            repo_url: 'https://github.com/scala/scala'
+            logo: scala.svg
+            crunchbase: 'https://www.crunchbase.com/organization/scala'
+            crunchbase_data:
+              name: Scala
+              description: 'Scala has a passion for creating intelligent digital signage solutions that move employees, consumers, and products.'
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'http://www.scala.com'
+              city: Malvern
+              region: Pennsylvania
+              country: United States
+              twitter: 'http://twitter.com/scalainc'
+              linkedin: 'https://www.linkedin.com/company/scala'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Scala
+                  value: 18317164
+                  color: '#c22d40'
+                - name: Java
+                  value: 310343
+                  color: '#b07219'
+                - name: CSS
+                  value: 60762
+                  color: '#563d7c'
+                - name: JavaScript
+                  value: 48199
+                  color: '#f1e05a'
+                - name: Shell
+                  value: 28030
+                  color: '#89e051'
+                - name: HTML
+                  value: 11440
+                  color: '#e34c26'
+                - name: Batchfile
+                  value: 2049
+                  color: '#C1F12E'
+                - name: Awk
+                  value: 1379
+                - name: Ruby
+                  value: 142
+                  color: '#701516'
+                - name: C
+                  value: 141
+                  color: '#555555'
+              contributions: >-
+                64;32;50;35;43;40;33;39;19;33;34;11;17;33;32;19;27;19;21;31;41;31;18;4;13;32;44;32;57;42;49;63;57;36;58;55;43;36;25;62;49;45;53;107;18;35;42;25;46;14;9;10
+              firstWeek: 2019-07-22Z
+              stars: 12798
+              license: Apache License 2.0
+              description: 'Scala 2 compiler and standard library. For bugs, see scala/bug'
+              latest_commit_date: '2020-07-13T19:40:17Z'
+              latest_commit_link: /scala/scala/commit/daa51f59f7f54fbe0db0b9fd3ee99317781bf1d9
+              release_date: '2020-07-13T06:03:35Z'
+              release_link: 'https://github.com/scala/scala/releases'
+              contributors_count: 576
+              contributors_link: 'https://github.com/scala/scala/graphs/contributors'
+            repos:
+              - url: 'https://github.com/scala/scala'
+                stars: 12798
+            github_start_commit_data:
+              start_commit_link: /scala/scala/commit/e566ca34a3fd246a4535c458ae47ff7ea62e2de7
+              start_date: '2003-02-13T13:38:33Z'
+            image_data:
+              fileName: scala.svg
+              hash: g6YqyQE0yIzq6N3zkO9dfhFTYB2l4P78upq25h9qkg4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-14T18:39:56.000Z
           - item:
             name: Swift
             homepage_url: 'https://developer.apple.com/swift/'
@@ -3434,6 +3739,142 @@ landscape:
         name: Cache
         items:
           - item:
+            name: DCache
+            homepage_url: 'https://github.com/tencent/dcache'
+            project: foundationproject
+            repo_url: 'https://github.com/tencent/dcache'
+            logo: dcache.svg
+            crunchbase: 'https://www.crunchbase.com/organization/tars-foundation'
+            crunchbase_data:
+              name: TARS Foundation
+              description: The neutral home for open source Microservices projects that empower any industry to quickly turn ideas into applications at scale.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://tarscloud.org/foundation/index'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TarsCloud'
+              linkedin: null
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+              stockExchange: null
+            github_data:
+              languages:
+                - name: C++
+                  value: 4343922
+                  color: '#f34b7d'
+                - name: TSQL
+                  value: 42336
+                - name: CMake
+                  value: 6984
+                - name: Shell
+                  value: 6361
+                  color: '#89e051'
+                - name: C
+                  value: 874
+                  color: '#555555'
+              contributions: 3;0;1;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4;1;2;0;3;0;0;1;0;0;0;0;0;5;2;1;0;0;0
+              firstWeek: 2019-07-22Z
+              stars: 556
+              license: Other
+              description: >-
+                A distributed in-memory NOSQL system based on TARS framework, support LRU algorithm and data persists on  back-end database. Users can easily
+                deploy, publish, and scale services on the web interface.
+              latest_commit_date: '2020-06-23T11:22:29Z'
+              latest_commit_link: /Tencent/DCache/commit/daac55bc6f9bb907c5f96668c9704c96687ea57d
+              release_date: '2019-06-20T03:45:37Z'
+              release_link: 'https://github.com/tencent/dcache/releases'
+              contributors_count: 11
+              contributors_link: 'https://github.com/tencent/dcache/graphs/contributors'
+            repos:
+              - url: 'https://github.com/tencent/dcache'
+                stars: 556
+            github_start_commit_data:
+              start_commit_link: /Tencent/DCache/commit/489c5a631867f94524d56bc6f1d31ffd6721203d
+              start_date: '2019-03-26T08:01:45Z'
+            image_data:
+              fileName: d-cache.svg
+              hash: tpGEssjfcXsFdxw4t1iihA+gM/klsyz1zz6FMS9al5A=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-03-11T08:57:52.000Z
+          - item:
+            name: memcached
+            homepage_url: 'https://memcached.org/'
+            repo_url: 'https://github.com/memcached/memcached'
+            logo: 'https://logoipsum.com/logo/logo-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/memcached'
+            crunchbase_data:
+              name: Memcached
+              description: Memcached is a distributed memory object caching system that enables its users to speed up dynamic web applications.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://memcached.org/'
+              city: Seattle
+              region: Washington
+              country: United States
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: C
+                  value: 894968
+                  color: '#555555'
+                - name: Perl
+                  value: 274031
+                  color: '#0298c3'
+                - name: M4
+                  value: 29400
+                - name: Python
+                  value: 21695
+                  color: '#3572A5'
+                - name: DTrace
+                  value: 10708
+                - name: C++
+                  value: 9102
+                  color: '#f34b7d'
+                - name: Shell
+                  value: 6233
+                  color: '#89e051'
+                - name: Makefile
+                  value: 5057
+                  color: '#427819'
+                - name: Roff
+                  value: 1894
+                  color: '#ecdebe'
+                - name: Objective-C
+                  value: 681
+                  color: '#438eff'
+                - name: Starlark
+                  value: 549
+              contributions: 0;1;0;0;5;0;4;0;0;8;8;5;3;5;1;0;6;5;3;2;4;5;0;0;0;2;2;4;4;0;2;3;6;16;9;3;8;3;13;1;2;7;3;2;0;0;0;0;0;0;0;0
+              firstWeek: 2019-07-22Z
+              stars: 10224
+              license: Other
+              description: memcached development tree
+              latest_commit_date: '2020-05-13T01:58:30Z'
+              latest_commit_link: /memcached/memcached/commit/14521bd820869f70fbcf6e2b57c3eba0fbb60367
+              contributors_count: 210
+              contributors_link: 'https://github.com/memcached/memcached/graphs/contributors'
+            repos:
+              - url: 'https://github.com/memcached/memcached'
+                stars: 10224
+            github_start_commit_data:
+              start_commit_link: /memcached/memcached/commit/32f382b605b4565bddfae5c9d082af3bfd30cf02
+              start_date: '2003-05-27T07:19:11Z'
+            image_data:
+              fileName: memcached.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Redis
             homepage_url: 'https://redis.io/'
             repo_url: 'https://github.com/antirez/redis'
@@ -3585,11 +4026,11 @@ landscape:
             twitter_data:
               latest_tweet_date: 2018-10-18T08:19:32.000Z
           - item:
-            name: Apache Hadoop
-            homepage_url: 'https://hadoop.apache.org/'
-            repo_url: 'https://github.com/apache/hadoop'
-            logo: apache-hadoop.svg
-            twitter: 'https://twitter.com/twitterhadoop'
+            name: Apache Cassandra
+            homepage_url: 'https://cassandra.apache.org/'
+            repo_url: 'https://github.com/apache/cassandra'
+            logo: cassandra.svg
+            twitter: 'https://twitter.com/cassandra'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
             crunchbase_data:
               name: Apache Software Foundation
@@ -3608,71 +4049,54 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 93255487
+                  value: 24191811
                   color: '#b07219'
-                - name: C++
-                  value: 2858990
-                  color: '#f34b7d'
-                - name: C
-                  value: 1974441
-                  color: '#555555'
-                - name: JavaScript
-                  value: 1245021
-                  color: '#f1e05a'
-                - name: Shell
-                  value: 464964
-                  color: '#89e051'
-                - name: HTML
-                  value: 419699
-                  color: '#e34c26'
-                - name: CSS
-                  value: 117128
-                  color: '#563d7c'
-                - name: CMake
-                  value: 115335
-                - name: Batchfile
-                  value: 78118
-                  color: '#C1F12E'
-                - name: TSQL
-                  value: 30600
                 - name: Python
-                  value: 23553
+                  value: 520680
                   color: '#3572A5'
-                - name: TeX
-                  value: 19322
-                  color: '#3D6117'
-                - name: XSLT
-                  value: 18026
-                  color: '#EB8CEB'
-                - name: TLA
-                  value: 14997
-                - name: Dockerfile
-                  value: 6758
-                  color: '#384d54'
-              contributions: >-
-                68;31;50;81;79;67;67;55;52;64;61;56;62;26;24;20;25;26;38;27;24;30;20;12;17;33;32;19;29;9;25;18;36;18;22;27;29;15;25;17;26;26;23;29;27;19;19;20;17;16;23;21
+                - name: HTML
+                  value: 264240
+                  color: '#e34c26'
+                - name: Shell
+                  value: 93623
+                  color: '#89e051'
+                - name: GAP
+                  value: 89309
+                - name: PowerShell
+                  value: 39042
+                  color: '#012456'
+                - name: Batchfile
+                  value: 38885
+                  color: '#C1F12E'
+                - name: Lex
+                  value: 10151
+                  color: '#DBCA00'
+                - name: AMPL
+                  value: 801
+                  color: '#E6EFBB'
+              contributions: 8;4;0;19;13;9;5;8;5;1;4;2;11;11;20;20;12;15;7;1;8;12;11;1;12;26;18;15;27;30;20;18;19;13;15;10;19;29;37;11;19;29;20;11;15;9;9;16;8;20;8;10
               firstWeek: 2019-07-14Z
-              stars: 10619
+              stars: 6032
               license: Apache License 2.0
-              description: Apache Hadoop
-              latest_commit_date: '2020-07-09T19:38:52Z'
-              latest_commit_link: /apache/hadoop/commit/0e694b20b9d59cc46882df506dcea386020b1e4d
-              contributors_count: 458
-              contributors_link: 'https://github.com/apache/hadoop/graphs/contributors'
+              description: Mirror of Apache Cassandra
+              latest_commit_date: '2020-07-10T08:37:40Z'
+              latest_commit_link: /apache/cassandra/commit/b6ce3b8091aced43adc27ff86b54a5622cdc59d2
+              contributors_count: 435
+              contributors_link: 'https://github.com/apache/cassandra/graphs/contributors'
             repos:
-              - url: 'https://github.com/apache/hadoop'
-                stars: 10619
+              - url: 'https://github.com/apache/cassandra'
+                stars: 6032
             github_start_commit_data:
-              start_commit_link: /apache/hadoop/commit/5128a9a453d64bfe1ed978cf9ffed27985eeef36
-              start_date: '2009-05-19T04:20:40Z'
+              start_commit_link: /apache/cassandra/commit/1f91e99223b0d1b7ed8390400d4a06ac08e4aa85
+              start_date: '2009-03-02T07:57:22Z'
             image_data:
-              fileName: apache-hadoop.svg
-              hash: rBj0S3od35Ek4rCug+6GyrXBV5xdtLIhXI8Kh4IgVfw=
+              fileName: apache-cassandra.svg
+              hash: uLwkSuNKMpkxb99oqZQlVm6eRWxS6ntIqggmIpc8ZNs=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-12-06T16:42:15.000Z
+              latest_tweet_date: 2020-04-24T12:08:57.000Z
           - item:
             name: Apache Ignite
             homepage_url: 'https://ignite.apache.org'
@@ -3778,6 +4202,72 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-07-06T15:58:43.000Z
+          - item:
+            name: Apache ShardingSphere
+            homepage_url: 'https://shardingsphere.apache.org/'
+            repo_url: 'https://github.com/apache/shardingsphere'
+            logo: shardingsphere.svg
+            twitter: 'https://twitter.com/ShardingSphere'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+            crunchbase_data:
+              name: Apache Software Foundation
+              description: 'Apache Software Foundation provides organizational, legal and financial support for Apache open-source software projects.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'http://www.apache.org'
+              city: Forest Hill
+              region: Maryland
+              country: United States
+              twitter: 'http://twitter.com/TheASF'
+              linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Java
+                  value: 7923249
+                  color: '#b07219'
+                - name: ANTLR
+                  value: 305942
+                  color: '#9DC3FF'
+                - name: TSQL
+                  value: 69922
+                - name: Shell
+                  value: 10690
+                  color: '#89e051'
+                - name: Batchfile
+                  value: 3667
+                  color: '#C1F12E'
+                - name: Dockerfile
+                  value: 3373
+                  color: '#384d54'
+              contributions: >-
+                228;239;132;78;73;94;103;79;67;54;61;39;58;104;36;92;56;22;46;42;27;43;28;56;76;96;95;59;40;58;83;61;52;73;71;62;55;67;43;53;51;102;40;182;176;56;52;41;71;30;24;67
+              firstWeek: 2019-07-14Z
+              stars: 11566
+              license: Apache License 2.0
+              description: Distributed database middleware
+              latest_commit_date: '2020-07-10T11:03:58Z'
+              latest_commit_link: /apache/shardingsphere/commit/9481645cbed4411407586e7f63190ca8e98cd446
+              release_date: '2020-06-12T06:26:57Z'
+              release_link: 'https://github.com/apache/shardingsphere/releases'
+              contributors_count: 193
+              contributors_link: 'https://github.com/apache/shardingsphere/graphs/contributors'
+            repos:
+              - url: 'https://github.com/apache/shardingsphere'
+                stars: 11566
+            github_start_commit_data:
+              start_commit_link: /apache/shardingsphere/commit/03acfb18e18681686232fc440e0c79ce0dde1f17
+              start_date: '2016-01-18T12:49:26Z'
+            image_data:
+              fileName: apache-sharding-sphere.svg
+              hash: MAuPjUni23HhtMqjrKLOvFXhs+37IrD/j5+wwBMJaPc=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-09T08:36:35.000Z
           - item:
             name: ArangoDB
             homepage_url: 'https://www.arangodb.com/'
@@ -3952,78 +4442,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-10-24T13:09:17.000Z
-          - item:
-            name: Apache Cassandra
-            homepage_url: 'https://cassandra.apache.org/'
-            repo_url: 'https://github.com/apache/cassandra'
-            logo: cassandra.svg
-            twitter: 'https://twitter.com/cassandra'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-            crunchbase_data:
-              name: Apache Software Foundation
-              description: 'Apache Software Foundation provides organizational, legal and financial support for Apache open-source software projects.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'http://www.apache.org'
-              city: Forest Hill
-              region: Maryland
-              country: United States
-              twitter: 'http://twitter.com/TheASF'
-              linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            github_data:
-              languages:
-                - name: Java
-                  value: 24191811
-                  color: '#b07219'
-                - name: Python
-                  value: 520680
-                  color: '#3572A5'
-                - name: HTML
-                  value: 264240
-                  color: '#e34c26'
-                - name: Shell
-                  value: 93623
-                  color: '#89e051'
-                - name: GAP
-                  value: 89309
-                - name: PowerShell
-                  value: 39042
-                  color: '#012456'
-                - name: Batchfile
-                  value: 38885
-                  color: '#C1F12E'
-                - name: Lex
-                  value: 10151
-                  color: '#DBCA00'
-                - name: AMPL
-                  value: 801
-                  color: '#E6EFBB'
-              contributions: 8;4;0;19;13;9;5;8;5;1;4;2;11;11;20;20;12;15;7;1;8;12;11;1;12;26;18;15;27;30;20;18;19;13;15;10;19;29;37;11;19;29;20;11;15;9;9;16;8;20;8;10
-              firstWeek: 2019-07-14Z
-              stars: 6032
-              license: Apache License 2.0
-              description: Mirror of Apache Cassandra
-              latest_commit_date: '2020-07-10T08:37:40Z'
-              latest_commit_link: /apache/cassandra/commit/b6ce3b8091aced43adc27ff86b54a5622cdc59d2
-              contributors_count: 435
-              contributors_link: 'https://github.com/apache/cassandra/graphs/contributors'
-            repos:
-              - url: 'https://github.com/apache/cassandra'
-                stars: 6032
-            github_start_commit_data:
-              start_commit_link: /apache/cassandra/commit/1f91e99223b0d1b7ed8390400d4a06ac08e4aa85
-              start_date: '2009-03-02T07:57:22Z'
-            image_data:
-              fileName: apache-cassandra.svg
-              hash: uLwkSuNKMpkxb99oqZQlVm6eRWxS6ntIqggmIpc8ZNs=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-04-24T12:08:57.000Z
           - item:
             name: Couchbase
             homepage_url: 'https://www.couchbase.com/'
@@ -7141,72 +7559,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-04-03T03:41:28.000Z
-          - item:
-            name: Apache ShardingSphere
-            homepage_url: 'https://shardingsphere.apache.org/'
-            repo_url: 'https://github.com/apache/shardingsphere'
-            logo: shardingsphere.svg
-            twitter: 'https://twitter.com/ShardingSphere'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-            crunchbase_data:
-              name: Apache Software Foundation
-              description: 'Apache Software Foundation provides organizational, legal and financial support for Apache open-source software projects.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'http://www.apache.org'
-              city: Forest Hill
-              region: Maryland
-              country: United States
-              twitter: 'http://twitter.com/TheASF'
-              linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            github_data:
-              languages:
-                - name: Java
-                  value: 7923249
-                  color: '#b07219'
-                - name: ANTLR
-                  value: 305942
-                  color: '#9DC3FF'
-                - name: TSQL
-                  value: 69922
-                - name: Shell
-                  value: 10690
-                  color: '#89e051'
-                - name: Batchfile
-                  value: 3667
-                  color: '#C1F12E'
-                - name: Dockerfile
-                  value: 3373
-                  color: '#384d54'
-              contributions: >-
-                228;239;132;78;73;94;103;79;67;54;61;39;58;104;36;92;56;22;46;42;27;43;28;56;76;96;95;59;40;58;83;61;52;73;71;62;55;67;43;53;51;102;40;182;176;56;52;41;71;30;24;67
-              firstWeek: 2019-07-14Z
-              stars: 11566
-              license: Apache License 2.0
-              description: Distributed database middleware
-              latest_commit_date: '2020-07-10T11:03:58Z'
-              latest_commit_link: /apache/shardingsphere/commit/9481645cbed4411407586e7f63190ca8e98cd446
-              release_date: '2020-06-12T06:26:57Z'
-              release_link: 'https://github.com/apache/shardingsphere/releases'
-              contributors_count: 193
-              contributors_link: 'https://github.com/apache/shardingsphere/graphs/contributors'
-            repos:
-              - url: 'https://github.com/apache/shardingsphere'
-                stars: 11566
-            github_start_commit_data:
-              start_commit_link: /apache/shardingsphere/commit/03acfb18e18681686232fc440e0c79ce0dde1f17
-              start_date: '2016-01-18T12:49:26Z'
-            image_data:
-              fileName: apache-sharding-sphere.svg
-              hash: MAuPjUni23HhtMqjrKLOvFXhs+37IrD/j5+wwBMJaPc=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-09T08:36:35.000Z
           - item:
             name: Stolon
             description: Cloud Native PostgreSQL High Availability
@@ -10469,115 +10821,6 @@ landscape:
       - subcategory:
         name: Log
         items:
-          - item:
-            name: Elastic
-            homepage_url: 'https://www.elastic.co/'
-            repo_url: 'https://github.com/elastic/elasticsearch'
-            logo: elastic.svg
-            crunchbase: 'https://www.crunchbase.com/organization/elasticsearch'
-            crunchbase_data:
-              name: Elastic
-              description: 'Elastic builds software to make data usable in real time and at scale for search, logging, security, and analytics use cases.'
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: 'https://www.elastic.co'
-              city: Mountain View
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/elastic'
-              linkedin: 'https://www.linkedin.com/company/elastic-co/'
-              acquisitions:
-                - date: '2015-03-10'
-                  acquiree: Elastic Cloud
-                - date: '2015-05-27'
-                  acquiree: Packetbeat
-                - date: '2016-09-15'
-                  acquiree: Prelert
-                - date: '2017-06-22'
-                  acquiree: Opbeat
-                - date: '2017-11-09'
-                  acquiree: Swiftype
-                - date: '2018-06-28'
-                  acquiree: Insight.io
-                - date: '2019-06-05'
-                  acquiree: Endgame
-                  price: 234000000
-                - date: '2019-08-21'
-                  acquiree: 'Perched, LLC.'
-              parents: []
-              ticker: ESTC
-              funding: 161999996
-              stockExchange: nyse
-              kind: market_cap
-            github_data:
-              languages:
-                - name: Java
-                  value: 105256646
-                  color: '#b07219'
-                - name: Groovy
-                  value: 116279
-                  color: '#e69f56'
-                - name: Shell
-                  value: 75443
-                  color: '#89e051'
-                - name: ANTLR
-                  value: 31169
-                  color: '#9DC3FF'
-                - name: TSQL
-                  value: 22296
-                - name: Batchfile
-                  value: 21346
-                  color: '#C1F12E'
-                - name: Python
-                  value: 12626
-                  color: '#3572A5'
-                - name: Dockerfile
-                  value: 5931
-                  color: '#384d54'
-                - name: CSS
-                  value: 5424
-                  color: '#563d7c'
-                - name: Emacs Lisp
-                  value: 3341
-                  color: '#c065db'
-                - name: HTML
-                  value: 2244
-                  color: '#e34c26'
-                - name: PowerShell
-                  value: 1332
-                  color: '#012456'
-                - name: FreeMarker
-                  value: 45
-                  color: '#0050b2'
-              contributions: >-
-                184;123;111;123;132;129;128;101;129;95;136;138;133;130;106;146;49;87;128;102;71;100;95;52;20;132;145;103;143;130;143;104;141;123;130;144;219;159;156;141;139;158;143;159;106;94;113;122;152;81;176;166
-              firstWeek: 2019-07-14Z
-              stars: 49875
-              license: Other
-              description: 'Open Source, Distributed, RESTful Search Engine'
-              latest_commit_date: '2020-07-09T23:25:27Z'
-              latest_commit_link: /elastic/elasticsearch/commit/aacf62487465d1c656ddcb30ab50d4489854b80a
-              release_date: '2020-06-18T13:28:31Z'
-              release_link: 'https://github.com/elastic/elasticsearch/releases'
-              contributors_count: 1642
-              contributors_link: 'https://github.com/elastic/elasticsearch/graphs/contributors'
-            repos:
-              - url: 'https://github.com/elastic/elasticsearch'
-                stars: 49875
-            github_start_commit_data:
-              start_commit_link: /elastic/elasticsearch/commit/ec72ca8b7a115f9b2eea3c76c518062b99a1d015
-              start_date: '2010-02-08T13:22:27Z'
-            yahoo_finance_data:
-              market_cap: 8384995328
-              effective_ticker: ESTC
-            image_data:
-              fileName: elastic.svg
-              hash: 3LAvXpEtNSROlAZ75aAuk1XUGawPZIYBx6uT0DCtqYg=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-09T20:41:29.000Z
           - item:
             name: Fluentd
             homepage_url: 'https://www.fluentd.org/'
@@ -15335,6 +15578,97 @@ landscape:
         name: Tracing
         items:
           - item:
+            name: Apache SkyWalking
+            homepage_url: 'https://skywalking.apache.org/'
+            repo_url: 'https://github.com/apache/skywalking'
+            logo: sky-walking.svg
+            twitter: 'https://twitter.com/AsfSkyWalking'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+            crunchbase_data:
+              name: Apache Software Foundation
+              description: 'Apache Software Foundation provides organizational, legal and financial support for Apache open-source software projects.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'http://www.apache.org'
+              city: Forest Hill
+              region: Maryland
+              country: United States
+              twitter: 'http://twitter.com/TheASF'
+              linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Java
+                  value: 8967226
+                  color: '#b07219'
+                - name: Shell
+                  value: 150268
+                  color: '#89e051'
+                - name: TSQL
+                  value: 93026
+                - name: FreeMarker
+                  value: 10846
+                  color: '#0050b2'
+                - name: Kotlin
+                  value: 7757
+                  color: '#F18E33'
+                - name: ANTLR
+                  value: 7666
+                  color: '#9DC3FF'
+                - name: Batchfile
+                  value: 6450
+                  color: '#C1F12E'
+                - name: Scala
+                  value: 6067
+                  color: '#c22d40'
+                - name: Python
+                  value: 5919
+                  color: '#3572A5'
+                - name: Smarty
+                  value: 5594
+                - name: Makefile
+                  value: 3803
+                  color: '#427819'
+                - name: Thrift
+                  value: 2814
+                - name: Dockerfile
+                  value: 2512
+                  color: '#384d54'
+                - name: Go
+                  value: 1282
+                  color: '#00ADD8'
+                - name: PHP
+                  value: 1058
+                  color: '#4F5D95'
+              contributions: >-
+                22;24;14;16;19;14;14;18;11;9;15;9;20;25;29;24;19;21;31;15;18;19;22;22;17;12;14;6;6;15;17;20;12;6;27;22;18;13;2;15;13;16;10;18;4;9;7;21;11;10;10;20
+              firstWeek: 2019-07-14Z
+              stars: 13943
+              license: Apache License 2.0
+              description: 'APM, Application Performance Monitoring System'
+              latest_commit_date: '2020-07-10T03:07:08Z'
+              latest_commit_link: /apache/skywalking/commit/9f5e719cfae607b4b76b53ca078b28e23c9126ec
+              release_date: '2020-06-21T02:39:02Z'
+              release_link: 'https://github.com/apache/skywalking/releases'
+              contributors_count: 259
+              contributors_link: 'https://github.com/apache/skywalking/graphs/contributors'
+            repos:
+              - url: 'https://github.com/apache/skywalking'
+                stars: 13943
+            github_start_commit_data:
+              start_commit_link: /apache/skywalking/commit/78befc0eb756f166a838337f0eacc699155ff602
+              start_date: '2015-11-07T03:30:37Z'
+            image_data:
+              fileName: apache-sky-walking.svg
+              hash: m7UU0Y79hTO/i6osVJ8AJD4sbKr1ig3i5Ylbm8Hv+sQ=
+            best_practice_data:
+              badge: 3898
+              percentage: 2
+            twitter_data:
+              latest_tweet_date: 2020-07-10T01:44:36.000Z
+          - item:
             name: Elastic APM
             homepage_url: 'https://www.elastic.co/apm'
             repo_url: 'https://github.com/elastic/apm-server'
@@ -15757,97 +16091,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-06-18T05:54:14.000Z
           - item:
-            name: Apache SkyWalking
-            homepage_url: 'https://skywalking.apache.org/'
-            repo_url: 'https://github.com/apache/skywalking'
-            logo: sky-walking.svg
-            twitter: 'https://twitter.com/AsfSkyWalking'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-            crunchbase_data:
-              name: Apache Software Foundation
-              description: 'Apache Software Foundation provides organizational, legal and financial support for Apache open-source software projects.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'http://www.apache.org'
-              city: Forest Hill
-              region: Maryland
-              country: United States
-              twitter: 'http://twitter.com/TheASF'
-              linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            github_data:
-              languages:
-                - name: Java
-                  value: 8967226
-                  color: '#b07219'
-                - name: Shell
-                  value: 150268
-                  color: '#89e051'
-                - name: TSQL
-                  value: 93026
-                - name: FreeMarker
-                  value: 10846
-                  color: '#0050b2'
-                - name: Kotlin
-                  value: 7757
-                  color: '#F18E33'
-                - name: ANTLR
-                  value: 7666
-                  color: '#9DC3FF'
-                - name: Batchfile
-                  value: 6450
-                  color: '#C1F12E'
-                - name: Scala
-                  value: 6067
-                  color: '#c22d40'
-                - name: Python
-                  value: 5919
-                  color: '#3572A5'
-                - name: Smarty
-                  value: 5594
-                - name: Makefile
-                  value: 3803
-                  color: '#427819'
-                - name: Thrift
-                  value: 2814
-                - name: Dockerfile
-                  value: 2512
-                  color: '#384d54'
-                - name: Go
-                  value: 1282
-                  color: '#00ADD8'
-                - name: PHP
-                  value: 1058
-                  color: '#4F5D95'
-              contributions: >-
-                22;24;14;16;19;14;14;18;11;9;15;9;20;25;29;24;19;21;31;15;18;19;22;22;17;12;14;6;6;15;17;20;12;6;27;22;18;13;2;15;13;16;10;18;4;9;7;21;11;10;10;20
-              firstWeek: 2019-07-14Z
-              stars: 13943
-              license: Apache License 2.0
-              description: 'APM, Application Performance Monitoring System'
-              latest_commit_date: '2020-07-10T03:07:08Z'
-              latest_commit_link: /apache/skywalking/commit/9f5e719cfae607b4b76b53ca078b28e23c9126ec
-              release_date: '2020-06-21T02:39:02Z'
-              release_link: 'https://github.com/apache/skywalking/releases'
-              contributors_count: 259
-              contributors_link: 'https://github.com/apache/skywalking/graphs/contributors'
-            repos:
-              - url: 'https://github.com/apache/skywalking'
-                stars: 13943
-            github_start_commit_data:
-              start_commit_link: /apache/skywalking/commit/78befc0eb756f166a838337f0eacc699155ff602
-              start_date: '2015-11-07T03:30:37Z'
-            image_data:
-              fileName: apache-sky-walking.svg
-              hash: m7UU0Y79hTO/i6osVJ8AJD4sbKr1ig3i5Ylbm8Hv+sQ=
-            best_practice_data:
-              badge: 3898
-              percentage: 2
-            twitter_data:
-              latest_tweet_date: 2020-07-10T01:44:36.000Z
-          - item:
             name: SOFATracer
             homepage_url: 'https://www.sofastack.tech/en/'
             repo_url: 'https://github.com/sofastack/sofa-tracer'
@@ -16236,6 +16479,63 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-07-01T18:12:28.000Z
           - item:
+            name: Apache APISIX
+            homepage_url: 'https://apisix.apache.org/'
+            repo_url: 'https://github.com/apache/incubator-apisix'
+            logo: apisix.svg
+            twitter: 'https://twitter.com/apacheapisix'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+            crunchbase_data:
+              name: Apache Software Foundation
+              description: 'Apache Software Foundation provides organizational, legal and financial support for Apache open-source software projects.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'http://www.apache.org'
+              city: Forest Hill
+              region: Maryland
+              country: United States
+              twitter: 'http://twitter.com/TheASF'
+              linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Lua
+                  value: 494638
+                  color: '#000080'
+                - name: Shell
+                  value: 45923
+                  color: '#89e051'
+                - name: Makefile
+                  value: 6053
+                  color: '#427819'
+              contributions: 31;32;26;27;13;23;13;24;27;24;28;12;15;14;14;21;24;18;8;16;7;12;6;4;7;13;27;10;3;7;7;15;11;12;8;36;20;23;12;12;8;14;7;13;1;15;11;17;12;19;12;9
+              firstWeek: 2019-07-14Z
+              stars: 2705
+              license: Apache License 2.0
+              description: The Cloud-Native API Gateway
+              latest_commit_date: '2020-07-10T10:47:11Z'
+              latest_commit_link: /apache/incubator-apisix/commit/54abe58315c1143cf1cfb23c7c93b26321b6a11e
+              release_date: '2020-06-30T08:46:57Z'
+              release_link: 'https://github.com/apache/incubator-apisix/releases'
+              contributors_count: 94
+              contributors_link: 'https://github.com/apache/incubator-apisix/graphs/contributors'
+            repos:
+              - url: 'https://github.com/apache/incubator-apisix'
+                stars: 2705
+            github_start_commit_data:
+              start_commit_link: /apache/incubator-apisix/commit/7742c553d1292743369e00a805115b77c478ba7c
+              start_date: '2019-04-10T02:02:06Z'
+            image_data:
+              fileName: apache-apisix.svg
+              hash: lyH7/OIvIxpFS15+4wvaCry+SA+15satywkZDOtOo70=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-21T12:58:44.000Z
+          - item:
             name: APIOAK
             homepage_url: 'https://apioak.com/'
             repo_url: 'https://github.com/apioak/apioak'
@@ -16293,63 +16593,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-10T11:40:29.000Z
-          - item:
-            name: Apache APISIX
-            homepage_url: 'https://apisix.apache.org/'
-            repo_url: 'https://github.com/apache/incubator-apisix'
-            logo: apisix.svg
-            twitter: 'https://twitter.com/apacheapisix'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-            crunchbase_data:
-              name: Apache Software Foundation
-              description: 'Apache Software Foundation provides organizational, legal and financial support for Apache open-source software projects.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'http://www.apache.org'
-              city: Forest Hill
-              region: Maryland
-              country: United States
-              twitter: 'http://twitter.com/TheASF'
-              linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
-              acquisitions: []
-              parents: []
-              stockExchange: null
-            github_data:
-              languages:
-                - name: Lua
-                  value: 494638
-                  color: '#000080'
-                - name: Shell
-                  value: 45923
-                  color: '#89e051'
-                - name: Makefile
-                  value: 6053
-                  color: '#427819'
-              contributions: 31;32;26;27;13;23;13;24;27;24;28;12;15;14;14;21;24;18;8;16;7;12;6;4;7;13;27;10;3;7;7;15;11;12;8;36;20;23;12;12;8;14;7;13;1;15;11;17;12;19;12;9
-              firstWeek: 2019-07-14Z
-              stars: 2705
-              license: Apache License 2.0
-              description: The Cloud-Native API Gateway
-              latest_commit_date: '2020-07-10T10:47:11Z'
-              latest_commit_link: /apache/incubator-apisix/commit/54abe58315c1143cf1cfb23c7c93b26321b6a11e
-              release_date: '2020-06-30T08:46:57Z'
-              release_link: 'https://github.com/apache/incubator-apisix/releases'
-              contributors_count: 94
-              contributors_link: 'https://github.com/apache/incubator-apisix/graphs/contributors'
-            repos:
-              - url: 'https://github.com/apache/incubator-apisix'
-                stars: 2705
-            github_start_commit_data:
-              start_commit_link: /apache/incubator-apisix/commit/7742c553d1292743369e00a805115b77c478ba7c
-              start_date: '2019-04-10T02:02:06Z'
-            image_data:
-              fileName: apache-apisix.svg
-              hash: lyH7/OIvIxpFS15+4wvaCry+SA+15satywkZDOtOo70=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-21T12:58:44.000Z
           - item:
             name: Gloo
             homepage_url: 'https://www.solo.io'
@@ -17866,6 +18109,24 @@ landscape:
             homepage_url: 'https://caffe.berkeleyvision.org/'
             repo_url: 'https://github.com/BVLC/caffe'
             logo: caffe.svg
+            crunchbase: 'https://www.crunchbase.com/organization/berkeley-artificial-intelligence-research'
+            crunchbase_data:
+              name: Berkeley Artificial Intelligence Research
+              description: The Berkeley Artificial Intelligence Research (BAIR) Lab brings together UC Berkeley researchers across the areas of computer vision.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'http://bair.berkeley.edu/'
+              city: Berkeley
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/berkeley_ai?lang=en'
+              linkedin: 'https://www.linkedin.com/company/bair-lab/'
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/university-of-california-berkeley'
+              funding: 1000000
+              stockExchange: null
+              kind: funding
             github_data:
               languages:
                 - name: C++
@@ -17914,6 +18175,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-14T17:57:30.000Z
           - item:
             name: Keras
             homepage_url: 'https://keras.io/'
@@ -18093,7 +18356,7 @@ landscape:
             homepage_url: 'https://pypi.org/project/tensorflow/'
             repo_url: 'https://github.com/tensorflow/tensorflow'
             logo: tensorflow.svg
-            crunchbase: 'hhttps://www.crunchbase.com/organization/tensorflow'
+            crunchbase: 'https://www.crunchbase.com/organization/tensorflow'
             crunchbase_data:
               name: TensorFlow
               description: 'TensorFlow is a fast, flexible, and scalable open-source machine learning library for research and production.'
@@ -18453,7 +18716,7 @@ landscape:
         name: Premier
         items:
           - item:
-            name: Arm
+            name: Arm (member)
             homepage_url: 'https://www.arm.com/'
             logo: arm.svg
             twitter: 'https://twitter.com/Arm'
@@ -18513,7 +18776,7 @@ landscape:
               parents: []
               stockExchange: lse
             image_data:
-              fileName: arm.svg
+              fileName: arm-member.svg
               hash: 8cw8D2vLbz0J3Xab35cnpnxXCAoTiTR56BAPei5AGoc=
             best_practice_data:
               badge: false
@@ -18521,7 +18784,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-07-06T17:18:10.000Z
           - item:
-            name: Tencent
+            name: Tencent (member)
             homepage_url: 'https://www.tencent.com/en-us/'
             logo: tencent.svg
             twitter: 'https://twitter.com/tencentglobal'
@@ -18578,7 +18841,7 @@ landscape:
               market_cap: 673563337697
               effective_ticker: 0700.HK
             image_data:
-              fileName: tencent.svg
+              fileName: tencent-member.svg
               hash: k2ASvH2lDQ44OKQxs0iT94cZEl1nj45G/+bCxkhaZk8=
             best_practice_data:
               badge: false
@@ -18589,7 +18852,7 @@ landscape:
         name: General
         items:
           - item:
-            name: AfterShip
+            name: AfterShip (member)
             homepage_url: 'https://www.aftership.com/'
             logo: aftership.svg
             crunchbase: 'https://www.crunchbase.com/organization/aftership'
@@ -18610,7 +18873,7 @@ landscape:
               stockExchange: null
               kind: funding
             image_data:
-              fileName: after-ship.svg
+              fileName: after-ship-member.svg
               hash: 4kmotyMc25OdcrlYf2jb3ChGZWaQInwQthvC86jjMiU=
             best_practice_data:
               badge: false
@@ -18618,7 +18881,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-07-09T00:34:13.000Z
           - item:
-            name: Ampere
+            name: Ampere (member)
             homepage_url: 'https://amperecomputing.com/'
             logo: ampere.svg
             crunchbase: 'https://www.crunchbase.com/organization/ampere-computing'
@@ -18639,7 +18902,7 @@ landscape:
               stockExchange: null
               kind: funding
             image_data:
-              fileName: ampere.svg
+              fileName: ampere-member.svg
               hash: 2QagpdVuT34jTY62DRrDuqZhDmgrVOuEbj/+l0cEPOw=
             best_practice_data:
               badge: false
@@ -18647,11 +18910,11 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-07-08T18:07:01.000Z
           - item:
-            name: API7
+            name: API7 (member)
             homepage_url: 'https://www.iresty.com/'
             logo: api7.svg
-            crunchbase: 'https://www.crunchbase.com/organization/apisix'
             twitter: 'https://twitter.com/apacheapisix'
+            crunchbase: 'https://www.crunchbase.com/organization/apisix'
             crunchbase_data:
               name: API7
               description: API7 is an open source software startup company delivering a cloud-native microservices API gateway
@@ -18667,7 +18930,7 @@ landscape:
               parents: []
               stockExchange: null
             image_data:
-              fileName: api7.svg
+              fileName: api7-member.svg
               hash: kpZTBcJyA1rA63xDJFbhvY0EsrYRiAnCViWflCC2XP8=
             best_practice_data:
               badge: false
@@ -18675,7 +18938,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-06-21T12:58:44.000Z
           - item:
-            name: Kong
+            name: Kong (member)
             homepage_url: 'https://konghq.com/'
             logo: kong.svg
             crunchbase: 'https://www.crunchbase.com/organization/konghq'
@@ -18700,7 +18963,7 @@ landscape:
               stockExchange: null
               kind: funding
             image_data:
-              fileName: kong.svg
+              fileName: kong-member.svg
               hash: NXeZw2rp2m7P9gSBeiZiJeBmjn71Nvf4dm7/bCgGL2s=
             best_practice_data:
               badge: false
@@ -18708,7 +18971,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-07-10T06:07:53.000Z
           - item:
-            name: Zenlayer
+            name: Zenlayer (member)
             homepage_url: 'https://www.zenlayer.com/'
             logo: zenlayer.svg
             crunchbase: 'https://www.crunchbase.com/organization/zenlayer'
@@ -18733,7 +18996,7 @@ landscape:
               stockExchange: null
               kind: funding
             image_data:
-              fileName: zenlayer.svg
+              fileName: zenlayer-member.svg
               hash: A9IF6l2aIYIbvY7gKB7B2UC9iXfQGZ6VWBAitvYVMLM=
             best_practice_data:
               badge: false

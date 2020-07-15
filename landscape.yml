@@ -87,7 +87,9 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/gnu'
           - item:
             name: C
+            homepage_url: 'https://en.wikipedia.org/wiki/C_(programming_language)'
             logo: c.svg
+            crunchbase: 'https://www.crunchbase.com/organization/international-organization-for-standardization'
           - item:
             name: C#
             homepage_url: 'https://docs.microsoft.com/en-us/dotnet/csharp/'
@@ -98,6 +100,7 @@ landscape:
             name: C++
             homepage_url: 'https://www.cplusplus.com/'
             logo: c++.svg
+            crunchbase: 'https://www.crunchbase.com/organization/international-organization-for-standardization'
           - item:
             name: Go
             homepage_url: 'https://golang.org/'
@@ -226,11 +229,11 @@ landscape:
             twitter: 'https://twitter.com/ApacheCarbonDat'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
-            name: Apache Hadoop
-            homepage_url: 'https://hadoop.apache.org/'
-            repo_url: 'https://github.com/apache/hadoop'
-            logo: apache-hadoop.svg
-            twitter: 'https://twitter.com/twitterhadoop'
+            name: Apache Cassandra
+            homepage_url: 'https://cassandra.apache.org/'
+            repo_url: 'https://github.com/apache/cassandra'
+            logo: cassandra.svg
+            twitter: 'https://twitter.com/cassandra'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
             name: Apache Ignite
@@ -238,6 +241,13 @@ landscape:
             repo_url: 'https://github.com/apache/ignite'
             logo: apache-ignite.svg
             twitter: 'https://twitter.com/ApacheIgnite'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Apache ShardingSphere
+            homepage_url: 'https://shardingsphere.apache.org/'
+            repo_url: 'https://github.com/apache/shardingsphere'
+            logo: shardingsphere.svg
+            twitter: 'https://twitter.com/ShardingSphere'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
             name: ArangoDB
@@ -252,13 +262,6 @@ landscape:
             logo: bigchaindb.svg
             twitter: 'https://twitter.com/BigchainDB'
             crunchbase: 'https://www.crunchbase.com/organization/bigchaindb'
-          - item:
-            name: Apache Cassandra
-            homepage_url: 'https://cassandra.apache.org/'
-            repo_url: 'https://github.com/apache/cassandra'
-            logo: cassandra.svg
-            twitter: 'https://twitter.com/cassandra'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
             name: Couchbase
             homepage_url: 'https://www.couchbase.com/'
@@ -411,13 +414,6 @@ landscape:
             logo: seata.svg
             twitter: 'https://twitter.com/seataio'
             crunchbase: 'https://www.crunchbase.com/organization/ant-financial'
-          - item:
-            name: Apache ShardingSphere
-            homepage_url: 'https://shardingsphere.apache.org/'
-            repo_url: 'https://github.com/apache/shardingsphere'
-            logo: shardingsphere.svg
-            twitter: 'https://twitter.com/ShardingSphere'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
             name: Stolon
             description: Cloud Native PostgreSQL High Availability
@@ -636,12 +632,6 @@ landscape:
       - subcategory:
         name: Log
         items:
-          - item:
-            name: Elastic
-            homepage_url: 'https://www.elastic.co/'
-            repo_url: 'https://github.com/elastic/elasticsearch'
-            logo: elastic.svg
-            crunchbase: 'https://www.crunchbase.com/organization/elasticsearch'
           - item:
             name: Fluentd
             homepage_url: 'https://www.fluentd.org/'
@@ -1127,6 +1117,13 @@ landscape:
         name: Tracing
         items:
           - item:
+            name: Apache SkyWalking
+            homepage_url: 'https://skywalking.apache.org/'
+            repo_url: 'https://github.com/apache/skywalking'
+            logo: sky-walking.svg
+            twitter: 'https://twitter.com/AsfSkyWalking'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
             name: Elastic APM
             homepage_url: 'https://www.elastic.co/apm'
             repo_url: 'https://github.com/elastic/apm-server'
@@ -1170,13 +1167,6 @@ landscape:
             logo: pinpoint.svg
             crunchbase: 'https://www.crunchbase.com/organization/pinpoint-282b'
           - item:
-            name: Apache SkyWalking
-            homepage_url: 'https://skywalking.apache.org/'
-            repo_url: 'https://github.com/apache/skywalking'
-            logo: sky-walking.svg
-            twitter: 'https://twitter.com/AsfSkyWalking'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
             name: SOFATracer
             homepage_url: 'https://www.sofastack.tech/en/'
             repo_url: 'https://github.com/sofastack/sofa-tracer'
@@ -1209,18 +1199,18 @@ landscape:
             logo: ambassador.svg
             crunchbase: 'https://www.crunchbase.com/organization/datawire'
           - item:
-            name: APIOAK
-            homepage_url: 'https://apioak.com/'
-            repo_url: 'https://github.com/apioak/apioak'
-            logo: apioak.svg
-            crunchbase: 'https://www.crunchbase.com/organization/apioak'
-          - item:
             name: Apache APISIX
             homepage_url: 'https://apisix.apache.org/'
             repo_url: 'https://github.com/apache/incubator-apisix'
             logo: apisix.svg
             twitter: 'https://twitter.com/apacheapisix'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: APIOAK
+            homepage_url: 'https://apioak.com/'
+            repo_url: 'https://github.com/apioak/apioak'
+            logo: apioak.svg
+            crunchbase: 'https://www.crunchbase.com/organization/apioak'
           - item:
             name: Gloo
             homepage_url: 'https://www.solo.io'
@@ -1327,6 +1317,7 @@ landscape:
             homepage_url: 'https://caffe.berkeleyvision.org/'
             repo_url: 'https://github.com/BVLC/caffe'
             logo: caffe.svg
+            crunchbase: 'https://www.crunchbase.com/organization/berkeley-artificial-intelligence-research'
           - item:
             name: Keras
             homepage_url: 'https://keras.io/'
@@ -1344,7 +1335,7 @@ landscape:
             homepage_url: 'https://pypi.org/project/tensorflow/'
             repo_url: 'https://github.com/tensorflow/tensorflow'
             logo: tensorflow.svg
-            crunchbase: 'hhttps://www.crunchbase.com/organization/tensorflow'
+            crunchbase: 'https://www.crunchbase.com/organization/tensorflow'
       - subcategory:
         name: Edge
         items:
@@ -1395,13 +1386,13 @@ landscape:
         name: Premier
         items:
           - item:
-            name: Arm
+            name: Arm (member)
             homepage_url: 'https://www.arm.com/'
             logo: arm.svg
             twitter: 'https://twitter.com/Arm'
             crunchbase: 'https://www.crunchbase.com/organization/arm'
           - item:
-            name: Tencent
+            name: Tencent (member)
             homepage_url: 'https://www.tencent.com/en-us/'
             logo: tencent.svg
             twitter: 'https://twitter.com/tencentglobal'
@@ -1410,28 +1401,28 @@ landscape:
         name: General
         items:
           - item:
-            name: AfterShip
+            name: AfterShip (member)
             homepage_url: 'https://www.aftership.com/'
             logo: aftership.svg
             crunchbase: 'https://www.crunchbase.com/organization/aftership'
           - item:
-            name: Ampere
+            name: Ampere (member)
             homepage_url: 'https://amperecomputing.com/'
             logo: ampere.svg
             crunchbase: 'https://www.crunchbase.com/organization/ampere-computing'
           - item:
-            name: API7
+            name: API7 (member)
             homepage_url: 'https://www.iresty.com/'
             logo: api7.svg
-            crunchbase: 'https://www.crunchbase.com/organization/apisix'
             twitter: 'https://twitter.com/apacheapisix'
+            crunchbase: 'https://www.crunchbase.com/organization/apisix'
           - item:
-            name: Kong
+            name: Kong (member)
             homepage_url: 'https://konghq.com/'
             logo: kong.svg
             crunchbase: 'https://www.crunchbase.com/organization/konghq'
           - item:
-            name: Zenlayer
+            name: Zenlayer (member)
             homepage_url: 'https://www.zenlayer.com/'
             logo: zenlayer.svg
             crunchbase: 'https://www.crunchbase.com/organization/zenlayer'
