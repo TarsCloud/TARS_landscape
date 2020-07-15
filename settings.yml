@@ -17,8 +17,9 @@ global:
     ms_validate: null
   membership: TARS Foundation Member
   flags:
+    companies: TARS Foundation Member
     hide_license_for_categories:
-      - TARS Foundation Member
+      - .ORG
 twitter:
   search: landscape.tarscloud.org
   url: 'https://landscape.tarscloud.org'
