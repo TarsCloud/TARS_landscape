@@ -36,7 +36,7 @@ relation:
           tag: Foundation Project
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: TARS Foundation Project
+          big_picture_label: TARS
           big_picture_color: 'rgb(24,54,114)'
     - id: company
       label: TARS Foundation Member
@@ -182,21 +182,21 @@ big_picture:
           - type: text
             text: |
               This landscape is intended as a map to explore the TARS community, and also shows the member organizations of the TARS Foundation.
-            top: 56
+            top: 49
             left: 141
             right: 21
             font_size: 10
           - type: image
             image: qr.svg
-            top: 20
-            left: 27
-            width: 81
-            height: 81
+            top: 12
+            left: 25
+            width: 88
+            height: 88
             title: QR Code
           - type: title
             title: l.tarscloud.org
-            top: 106
-            left: 30
+            top: 103
+            left: 33
             font_size: 12
           - type: image
             image: left-logo.svg
