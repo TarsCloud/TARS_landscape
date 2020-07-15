@@ -1,4 +1,4 @@
-
+[![Dependency Status](https://img.shields.io/david/TarsCloud/TARS_landscape.svg?style=flat-square)](https://david-dm.io/TarsCloud/TARS_landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/f10af739-2511-4295-9a8c-ed65416144ea/deploy-status)](https://app.netlify.com/sites/tars-landscape/deploys)
 
 # TARS Landscape
 
