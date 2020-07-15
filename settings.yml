@@ -1,20 +1,20 @@
 global:
   name: TARS Foundation Landscape
   short_name: TARS
-  repo: tarscloud/TARS-landscape
+  repo: tarscloud/TARS_landscape
   website: 'https://landscape.tarscloud.org'
   short_domain: l.tarscloud.org
   company_url: 'https://tarscloud.org'
   email: tars@tarscloud.org
   self: 'https://www.crunchbase.com/organization/tars-foundation'
-  slack_channel: 
+  slack_channel: null
   meta:
     title: TARS Foundation Landscape
     fb_admin: alex.contini.94
     description: 'Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets'
     twitter: '@tarscloud'
-    google_site_verification: 
-    ms_validate: 
+    google_site_verification: null
+    ms_validate: null
   membership: TARS Foundation Member
   flags:
     hide_license_for_categories:
@@ -109,7 +109,7 @@ big_picture:
         top: 220
         left: 0
         color: 'rgb(4,81,49)'
-        fit_width: true    
+        fit_width: true
       - type: HorizontalCategory
         category: Application
         rows: 4
@@ -118,9 +118,9 @@ big_picture:
         top: 419
         left: 745
         color: 'rgb(7,136,62)'
-        fit_width: true           
+        fit_width: true
       - type: HorizontalCategory
-        category: Services Governance
+        category: Service Governance
         rows: 4
         width: 1614
         height: 148
@@ -136,7 +136,7 @@ big_picture:
         top: 220
         left: 961
         color: 'rgb(87,43,10)'
-        fit_width: true        
+        fit_width: true
       - type: HorizontalCategory
         category: Storage
         rows: 4
@@ -154,7 +154,7 @@ big_picture:
         top: 220
         left: 344
         color: 'rgb(29,119,164)'
-        fit_width: true        
+        fit_width: true
       - type: HorizontalCategory
         category: Programming Language
         rows: 5
@@ -163,7 +163,7 @@ big_picture:
         top: 220
         left: 574
         color: 'rgb(193,83,21)'
-        fit_width: true            
+        fit_width: true
       - type: HorizontalCategory
         category: TARS Foundation Member
         rows: 4
@@ -213,4 +213,4 @@ big_picture:
 test:
   header: TARS Foundation Landscape
   section: TARS Foundation Member
-  logo: twitter.svg
+  logo: tars.svg
