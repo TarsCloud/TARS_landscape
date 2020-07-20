@@ -211,12 +211,9 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/ibm'
           - item:
             name: Tencent Cloud
-            description: >-
-              Tencent Cloud offers high performing technology with the right amount of human touch to help you build and scale the solution optimized for your
-              business. Tencent Kubernetes Engine helps customers quickly build a native Kubernetes architecture in Tencent Cloud.
             homepage_url: 'https://intl.cloud.tencent.com/product/tke'
             logo: tencent-cloud.svg
-            crunchbase: 'https://www.crunchbase.com/organization/tencent'            
+            crunchbase: 'https://www.crunchbase.com/organization/tencent'
       - subcategory:
         name: Containers
         items:
@@ -227,7 +224,7 @@ landscape:
             repo_url: 'https://github.com/docker/docker-ce'
             logo: docker-desktop.svg
             twitter: 'https://twitter.com/Docker'
-            crunchbase: 'https://www.crunchbase.com/organization/docker'            
+            crunchbase: 'https://www.crunchbase.com/organization/docker'
           - item:
             name: Kubernetes
             description: 'Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications'
@@ -235,7 +232,7 @@ landscape:
             repo_url: 'https://github.com/kubernetes/kubernetes'
             logo: kubernetes.svg
             twitter: 'https://twitter.com/kubernetesio'
-            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'            
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
   - category:
     name: Storage
     subcategories:
@@ -290,7 +287,7 @@ landscape:
             homepage_url: 'https://impala.apache.org/'
             repo_url: 'https://github.com/apache/impala'
             logo: apache-impala.svg
-            crunchbase: 'https://www.crunchbase.com/organization/apache'         
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
             name: Apache Ignite
             homepage_url: 'https://ignite.apache.org'
@@ -318,7 +315,7 @@ landscape:
             repo_url: 'https://github.com/apache/spark'
             logo: apache-spark.svg
             twitter: 'https://twitter.com/apachespark'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'            
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
             name: ArangoDB
             homepage_url: 'https://www.arangodb.com/'
@@ -363,7 +360,7 @@ landscape:
             homepage_url: 'https://www.elastic.co/elasticsearch/'
             repo_url: 'https://github.com/elastic/elasticsearch'
             logo: elasticsearch.svg
-            crunchbase: 'https://www.crunchbase.com/organization/elasticsearch'               
+            crunchbase: 'https://www.crunchbase.com/organization/elasticsearch'
           - item:
             name: FoundationDB
             homepage_url: 'https://www.foundationdb.org/'
@@ -575,7 +572,7 @@ landscape:
             homepage_url: 'https://github.com/TarsCloud/TarsProtocol'
             project: foundationproject
             repo_url: 'https://github.com/TarsCloud/TarsProtocol'
-            logo: tars.svg
+            logo: tars-protocol.svg
             crunchbase: 'https://www.crunchbase.com/organization/tars-foundation'
       - subcategory:
         name: Protocol
@@ -584,7 +581,7 @@ landscape:
             name: TarsTup
             homepage_url: 'https://github.com/TarsCloud/TarsTup'
             repo_url: 'https://github.com/TarsCloud/TarsTup'
-            project: foundationproject            
+            project: foundationproject
             logo: tars-tup.svg
             crunchbase: 'https://www.crunchbase.com/organization/tars-foundation'
           - item:
@@ -1290,7 +1287,7 @@ landscape:
             repo_url: 'https://github.com/envoyproxy/envoy'
             logo: envoy.svg
             twitter: 'https://twitter.com/envoyproxy'
-            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'            
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
           - item:
             name: Gloo
             homepage_url: 'https://www.solo.io'
@@ -1337,9 +1334,9 @@ landscape:
             name: TarsGateway
             homepage_url: 'https://github.com/TarsCloud/TarsGateway'
             repo_url: 'https://github.com/TarsCloud/TarsGateway'
-            project: foundationproject            
+            project: foundationproject
             logo: tars-gateway.svg
-            crunchbase: 'https://www.crunchbase.com/organization/tars-foundation'            
+            crunchbase: 'https://www.crunchbase.com/organization/tars-foundation'
           - item:
             name: Tyk
             homepage_url: 'https://tyk.io/'
