@@ -169,7 +169,7 @@ landscape:
     name: Infrastructure
     subcategories:
       - subcategory:
-        name: Infrastructure
+        name: Chips
         items:
           - item:
             name: Arm
@@ -177,12 +177,57 @@ landscape:
             logo: arm.svg
             crunchbase: 'https://www.crunchbase.com/organization/arm'
           - item:
+            name: AMD
+            homepage_url: 'hhttps://www.amd.com/en'
+            logo: amd.svg
+            crunchbase: 'https://www.crunchbase.com/organization/amd'
+          - item:
+            name: Intel
+            homepage_url: 'https://www.intel.com/content/www/us/en/homepage.html'
+            logo: intel.svg
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
+      - subcategory:
+        name: Cloud
+        items:
+          - item:
+            name: Amazon Web Services
+            homepage_url: 'https://aws.amazon.com/'
+            logo: amazon-web-services.svg
+            crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
+          - item:
+            name: DigitalOcean
+            homepage_url: 'https://www.digitalocean.com/'
+            logo: digital-ocean
+            crunchbase: 'https://www.crunchbase.com/organization/digitalocean'
+          - item:
+            name: Google Cloud
+            homepage_url: 'https://twitter.com/googlecloud'
+            logo: google_cloud.svg
+            crunchbase: 'https://www.crunchbase.com/organization/google-cloud-platform'
+          - item:
+            name: IBM Cloud
+            homepage_url: 'https://www.ibm.com/cloud/learn/introduction-to-private-cloud'
+            logo: ibm-cloud.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ibm'
+          - item:
+            name: Tencent Cloud
+            description: >-
+              Tencent Cloud offers high performing technology with the right amount of human touch to help you build and scale the solution optimized for your
+              business. Tencent Kubernetes Engine helps customers quickly build a native Kubernetes architecture in Tencent Cloud.
+            homepage_url: 'https://intl.cloud.tencent.com/product/tke'
+            logo: tencent-cloud.svg
+            crunchbase: 'https://www.crunchbase.com/organization/tencent'            
+      - subcategory:
+        name: Containers
+        items:
+          - item:
             name: Docker Desktop
             description: 'Docker Desktop is an easy-to-install desktop app for building, debugging and testing Dockerized apps on a Mac or Windows.'
             homepage_url: 'https://www.docker.com/products/docker-desktop'
+            repo_url: 'https://github.com/docker/docker-ce'
             logo: docker-desktop.svg
             twitter: 'https://twitter.com/Docker'
-            crunchbase: 'https://www.crunchbase.com/organization/docker'
+            crunchbase: 'https://www.crunchbase.com/organization/docker'            
           - item:
             name: Kubernetes
             description: 'Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications'
@@ -190,7 +235,7 @@ landscape:
             repo_url: 'https://github.com/kubernetes/kubernetes'
             logo: kubernetes.svg
             twitter: 'https://twitter.com/kubernetesio'
-            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'            
   - category:
     name: Storage
     subcategories:
@@ -234,11 +279,31 @@ landscape:
             twitter: 'https://twitter.com/cassandra'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
+            name: Apache Hadoop
+            homepage_url: 'https://hadoop.apache.org/'
+            repo_url: 'https://github.com/apache/hadoop'
+            logo: apache-hadoop.svg
+            twitter: 'https://twitter.com/twitterhadoop'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Apache Impala
+            homepage_url: 'https://impala.apache.org/'
+            repo_url: 'https://github.com/apache/impala'
+            logo: apache-impala.svg
+            crunchbase: 'https://www.crunchbase.com/organization/apache'         
+          - item:
             name: Apache Ignite
             homepage_url: 'https://ignite.apache.org'
             repo_url: 'https://github.com/apache/ignite'
             logo: apache-ignite.svg
             twitter: 'https://twitter.com/ApacheIgnite'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Apache Kafka
+            homepage_url: 'https://kafka.apache.org/'
+            repo_url: 'https://github.com/apache/kafka'
+            logo: kafka.svg
+            twitter: 'https://twitter.com/apachekafka'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
             name: Apache ShardingSphere
@@ -247,6 +312,13 @@ landscape:
             logo: shardingsphere.svg
             twitter: 'https://twitter.com/ShardingSphere'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Apache Spark
+            homepage_url: 'https://spark.apache.org/'
+            repo_url: 'https://github.com/apache/spark'
+            logo: apache-spark.svg
+            twitter: 'https://twitter.com/apachespark'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'            
           - item:
             name: ArangoDB
             homepage_url: 'https://www.arangodb.com/'
@@ -286,6 +358,12 @@ landscape:
             repo_url: 'https://github.com/dgraph-io/dgraph'
             logo: dgraph.svg
             crunchbase: 'https://www.crunchbase.com/organization/dgraph'
+          - item:
+            name: Elasticsearch
+            homepage_url: 'https://www.elastic.co/elasticsearch/'
+            repo_url: 'https://github.com/elastic/elasticsearch'
+            logo: elasticsearch.svg
+            crunchbase: 'https://www.crunchbase.com/organization/elasticsearch'               
           - item:
             name: FoundationDB
             homepage_url: 'https://www.foundationdb.org/'
@@ -493,16 +571,22 @@ landscape:
             twitter: 'https://twitter.com/sofastack_io'
             crunchbase: 'https://www.crunchbase.com/organization/ant-financial'
           - item:
-            name: TARS
-            description: TARS is a high-performance RPC framework that provides an integrated solution of microservice governance.
-            homepage_url: 'https://tarscloud.org'
+            name: TarsProtocol
+            homepage_url: 'https://github.com/TarsCloud/TarsProtocol'
             project: foundationproject
-            repo_url: 'https://github.com/tarsCloud/tars'
+            repo_url: 'https://github.com/TarsCloud/TarsProtocol'
             logo: tars.svg
             crunchbase: 'https://www.crunchbase.com/organization/tars-foundation'
       - subcategory:
         name: Protocol
         items:
+          - item:
+            name: TarsTup
+            homepage_url: 'https://github.com/TarsCloud/TarsTup'
+            repo_url: 'https://github.com/TarsCloud/TarsTup'
+            project: foundationproject            
+            logo: tars-tup.svg
+            crunchbase: 'https://www.crunchbase.com/organization/tars-foundation'
           - item:
             name: Protocol Buffers
             homepage_url: 'https://developers.google.com/protocol-buffers'
@@ -1250,6 +1334,13 @@ landscape:
             twitter: 'https://twitter.com/AccentureTech'
             crunchbase: 'https://www.crunchbase.com/organization/accenture'
           - item:
+            name: TarsGateway
+            homepage_url: 'https://github.com/TarsCloud/TarsGateway'
+            repo_url: 'https://github.com/TarsCloud/TarsGateway'
+            project: foundationproject            
+            logo: tars-gateway.svg
+            crunchbase: 'https://www.crunchbase.com/organization/tars-foundation'            
+          - item:
             name: Tyk
             homepage_url: 'https://tyk.io/'
             repo_url: 'https://github.com/TykTechnologies/tyk'
@@ -1261,50 +1352,6 @@ landscape:
             repo_url: 'https://github.com/wso2/product-microgateway'
             logo: wso2.svg
             crunchbase: 'https://www.crunchbase.com/organization/wso2'
-      - subcategory:
-        name: Big data
-        items:
-          - item:
-            name: Apache Hadoop
-            homepage_url: 'https://hadoop.apache.org/'
-            repo_url: 'https://github.com/apache/hadoop'
-            logo: apache-hadoop.svg
-            twitter: 'https://twitter.com/twitterhadoop'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
-            name: Apache Impala
-            homepage_url: 'https://impala.apache.org/'
-            repo_url: 'https://github.com/apache/impala'
-            logo: apache-impala.svg
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
-            name: Apache Kafka
-            homepage_url: 'https://kafka.apache.org/'
-            repo_url: 'https://github.com/apache/kafka'
-            logo: kafka.svg
-            twitter: 'https://twitter.com/apachekafka'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
-            name: Apache Spark
-            homepage_url: 'https://spark.apache.org/'
-            repo_url: 'https://github.com/apache/spark'
-            logo: apache-spark.svg
-            twitter: 'https://twitter.com/apachespark'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
-            name: Elasticsearch
-            homepage_url: 'https://www.elastic.co/elasticsearch/'
-            repo_url: 'https://github.com/elastic/elasticsearch'
-            logo: elasticsearch.svg
-            crunchbase: 'https://www.crunchbase.com/organization/elasticsearch'
-      - subcategory:
-        name: Business
-        items:
-          - item:
-            name: AfterShip
-            homepage_url: 'https://www.aftership.com/'
-            logo: aftership.svg
-            crunchbase: 'https://www.crunchbase.com/organization/aftership'
       - subcategory:
         name: Deep Learning
         items:
