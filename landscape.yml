@@ -197,7 +197,7 @@ landscape:
           - item:
             name: DigitalOcean
             homepage_url: 'https://www.digitalocean.com/'
-            logo: digital-ocean
+            logo: digital-ocean.svg
             crunchbase: 'https://www.crunchbase.com/organization/digitalocean'
           - item:
             name: Google Cloud
@@ -643,13 +643,6 @@ landscape:
             repo_url: 'https://github.com/hashicorp/consul'
             logo: consul.svg
             crunchbase: 'https://www.crunchbase.com/organization/hashicorp'
-          - item:
-            name: Envoy
-            homepage_url: 'https://www.envoyproxy.io'
-            repo_url: 'https://github.com/envoyproxy/envoy'
-            logo: envoy.svg
-            twitter: 'https://twitter.com/envoyproxy'
-            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
           - item:
             name: Grey Matter
             homepage_url: 'https://greymatter.io/grey-matter'
@@ -1291,6 +1284,13 @@ landscape:
             repo_url: 'https://github.com/apioak/apioak'
             logo: apioak.svg
             crunchbase: 'https://www.crunchbase.com/organization/apioak'
+          - item:
+            name: Envoy
+            homepage_url: 'https://www.envoyproxy.io'
+            repo_url: 'https://github.com/envoyproxy/envoy'
+            logo: envoy.svg
+            twitter: 'https://twitter.com/envoyproxy'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'            
           - item:
             name: Gloo
             homepage_url: 'https://www.solo.io'
