@@ -650,6 +650,7 @@ landscape:
           - item:
             name: Humio
             homepage_url: 'https://www.humio.com/'
+            repo_url: 'https://github.com/humio/cloudwatch2humio'
             logo: humio.svg
             crunchbase: 'https://www.crunchbase.com/organization/humio'
           - item:
@@ -861,12 +862,6 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/open-tsbd'
           - item:
-            name: OverOps
-            description: Prevent rapid code changes from impacting customers.
-            homepage_url: 'https://www.overops.com/'
-            logo: overops.svg
-            crunchbase: 'https://www.crunchbase.com/organization/overops'
-          - item:
             name: Prometheus
             homepage_url: 'https://prometheus.io/'
             repo_url: 'https://github.com/prometheus/prometheus'
@@ -923,11 +918,6 @@ landscape:
             logo: thanos.svg
             twitter: 'https://twitter.com/ThanosMetrics'
             crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
-          - item:
-            name: Tingyun
-            homepage_url: 'https://www.tingyun.com/tingyun_app.html'
-            logo: tingyun.svg
-            crunchbase: 'https://www.crunchbase.com/organization/tingyun'
           - item:
             name: Trickster
             homepage_url: 'https://github.com/tricksterproxy/trickster'
