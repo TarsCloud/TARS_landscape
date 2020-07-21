@@ -650,6 +650,7 @@ landscape:
           - item:
             name: Humio
             homepage_url: 'https://www.humio.com/'
+            repo_url: 'https://github.com/humio/cloudwatch2humio'
             logo: humio.svg
             crunchbase: 'https://www.crunchbase.com/organization/humio'
           - item:
@@ -778,6 +779,7 @@ landscape:
           - item:
             name: Flowmill
             homepage_url: 'https://www.flowmill.com/'
+            repo_url: 'https://github.com/Flowmill/flowmill-k8s'
             logo: flowmill.svg
             twitter: 'https://twitter.com/FlowmillHQ'
             crunchbase: 'https://www.crunchbase.com/organization/flowmill'
@@ -844,6 +846,7 @@ landscape:
             name: NodeSource
             homepage_url: 'https://nodesource.com/'
             logo: nodesource.svg
+            repo_url: 'https://github.com/nodesource/distributions'
             crunchbase: 'https://www.crunchbase.com/organization/nodesource'
           - item:
             name: OpenMetrics
@@ -860,12 +863,6 @@ landscape:
             logo: opentsdb.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/open-tsbd'
-          - item:
-            name: OverOps
-            description: Prevent rapid code changes from impacting customers.
-            homepage_url: 'https://www.overops.com/'
-            logo: overops.svg
-            crunchbase: 'https://www.crunchbase.com/organization/overops'
           - item:
             name: Prometheus
             homepage_url: 'https://prometheus.io/'
@@ -923,11 +920,6 @@ landscape:
             logo: thanos.svg
             twitter: 'https://twitter.com/ThanosMetrics'
             crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
-          - item:
-            name: Tingyun
-            homepage_url: 'https://www.tingyun.com/tingyun_app.html'
-            logo: tingyun.svg
-            crunchbase: 'https://www.crunchbase.com/organization/tingyun'
           - item:
             name: Trickster
             homepage_url: 'https://github.com/tricksterproxy/trickster'
