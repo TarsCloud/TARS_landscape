@@ -218,6 +218,19 @@ landscape:
         name: Container
         items:
           - item:
+            name: containerd
+            homepage_url: 'https://containerd.io/'
+            repo_url: 'https://github.com/containerd/containerd'
+            logo: containerd.svg
+            twitter: 'https://twitter.com/containerd'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: cri-o
+            homepage_url: 'https://cri-o.io/'
+            repo_url: 'https://github.com/cri-o/cri-o'
+            logo: cri-o.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
             name: Docker Desktop
             description: 'Docker Desktop is an easy-to-install desktop app for building, debugging and testing Dockerized apps on a Mac or Windows.'
             homepage_url: 'https://www.docker.com/products/docker-desktop'
@@ -231,6 +244,12 @@ landscape:
             repo_url: 'https://github.com/kubernetes/kubernetes'
             logo: kubernetes.svg
             twitter: 'https://twitter.com/kubernetesio'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: rktlet
+            homepage_url: 'https://github.com/kubernetes-retired/rktlet'
+            repo_url: 'https://github.com/kubernetes-retired/rktlet'
+            logo: rktlet.svg
             crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
   - category:
     name: Storage
