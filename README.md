@@ -22,8 +22,9 @@
 
 This landscape is intended as a map to explore the Microservice Ecosystem, and also shows the member companies of the TARS Foundation. It is modelled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code.
 
-## Current Version (TBD)
+## Current Version
 
+![img](https://landscape.tarscloud.org/images/landscape.png)
 
 ## Interactive Version
 
