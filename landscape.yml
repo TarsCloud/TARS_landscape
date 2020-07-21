@@ -169,13 +169,67 @@ landscape:
     name: Infrastructure
     subcategories:
       - subcategory:
-        name: Infrastructure
+        name: Chip
         items:
           - item:
             name: Arm
             homepage_url: 'https://www.arm.com/'
             logo: arm.svg
             crunchbase: 'https://www.crunchbase.com/organization/arm'
+          - item:
+            name: AMD
+            homepage_url: 'https://www.amd.com/en'
+            logo: amd.svg
+            crunchbase: 'https://www.crunchbase.com/organization/amd'
+          - item:
+            name: Intel
+            homepage_url: 'https://www.intel.com/content/www/us/en/homepage.html'
+            logo: intel.svg
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
+      - subcategory:
+        name: Cloud
+        items:
+          - item:
+            name: Amazon Web Services
+            homepage_url: 'https://aws.amazon.com/'
+            logo: amazon-web-services.svg
+            crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
+          - item:
+            name: DigitalOcean
+            homepage_url: 'https://www.digitalocean.com/'
+            logo: digital-ocean.svg
+            crunchbase: 'https://www.crunchbase.com/organization/digitalocean'
+          - item:
+            name: Google Cloud
+            homepage_url: 'https://twitter.com/googlecloud'
+            logo: google_cloud.svg
+            crunchbase: 'https://www.crunchbase.com/organization/google-cloud-platform'
+          - item:
+            name: IBM Cloud
+            homepage_url: 'https://www.ibm.com/cloud/learn/introduction-to-private-cloud'
+            logo: ibm-cloud.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ibm'
+          - item:
+            name: Tencent Cloud
+            homepage_url: 'https://intl.cloud.tencent.com/product/tke'
+            logo: tencent-cloud.svg
+            crunchbase: 'https://www.crunchbase.com/organization/tencent'
+      - subcategory:
+        name: Container
+        items:
+          - item:
+            name: containerd
+            homepage_url: 'https://containerd.io/'
+            repo_url: 'https://github.com/containerd/containerd'
+            logo: containerd.svg
+            twitter: 'https://twitter.com/containerd'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: cri-o
+            homepage_url: 'https://cri-o.io/'
+            repo_url: 'https://github.com/cri-o/cri-o'
+            logo: cri-o.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
           - item:
             name: Docker Desktop
             description: 'Docker Desktop is an easy-to-install desktop app for building, debugging and testing Dockerized apps on a Mac or Windows.'
@@ -191,9 +245,51 @@ landscape:
             logo: kubernetes.svg
             twitter: 'https://twitter.com/kubernetesio'
             crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: rktlet
+            homepage_url: 'https://github.com/kubernetes-retired/rktlet'
+            repo_url: 'https://github.com/kubernetes-retired/rktlet'
+            logo: rktlet.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
   - category:
     name: Storage
     subcategories:
+      - subcategory:
+        name: Big data
+        items:
+          - item:
+            name: Apache Hadoop
+            homepage_url: 'https://hadoop.apache.org/'
+            repo_url: 'https://github.com/apache/hadoop'
+            logo: apache-hadoop.svg
+            twitter: 'https://twitter.com/twitterhadoop'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Apache Impala
+            homepage_url: 'https://impala.apache.org/'
+            repo_url: 'https://github.com/apache/impala'
+            logo: apache-impala.svg
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Apache Kafka
+            homepage_url: 'https://kafka.apache.org/'
+            repo_url: 'https://github.com/apache/kafka'
+            logo: kafka.svg
+            twitter: 'https://twitter.com/apachekafka'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Apache Spark
+            homepage_url: 'https://spark.apache.org/'
+            repo_url: 'https://github.com/apache/spark'
+            logo: apache-spark.svg
+            twitter: 'https://twitter.com/apachespark'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Elasticsearch
+            homepage_url: 'https://www.elastic.co/elasticsearch/'
+            repo_url: 'https://github.com/elastic/elasticsearch'
+            logo: elasticsearch.svg
+            crunchbase: 'https://www.crunchbase.com/organization/elasticsearch'
       - subcategory:
         name: Cache
         items:
@@ -467,39 +563,8 @@ landscape:
             twitter: 'https://twitter.com/Ceph'
             crunchbase: 'https://www.crunchbase.com/organization/ceph-foundation'
   - category:
-    name: Development Framework
+    name: Protocol
     subcategories:
-      - subcategory:
-        name: Remote Procedure Call
-        items:
-          - item:
-            name: Apache Thrift
-            homepage_url: 'https://thrift.apache.org/'
-            repo_url: 'https://github.com/apache/thrift'
-            logo: apache-thrift.svg
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
-            name: gRPC
-            homepage_url: 'https://grpc.io/'
-            repo_url: 'https://github.com/grpc/grpc'
-            logo: grpc.svg
-            twitter: 'https://twitter.com/grpcio'
-            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
-          - item:
-            name: SOFARPC
-            homepage_url: 'https://www.sofastack.tech/en/'
-            repo_url: 'https://github.com/sofastack/sofa-rpc'
-            logo: sofastack-sofa-rpc.svg
-            twitter: 'https://twitter.com/sofastack_io'
-            crunchbase: 'https://www.crunchbase.com/organization/ant-financial'
-          - item:
-            name: TARS
-            description: TARS is a high-performance RPC framework that provides an integrated solution of microservice governance.
-            homepage_url: 'https://tarscloud.org'
-            project: foundationproject
-            repo_url: 'https://github.com/tarsCloud/tars'
-            logo: tars.svg
-            crunchbase: 'https://www.crunchbase.com/organization/tars-foundation'
       - subcategory:
         name: Protocol
         items:
@@ -509,9 +574,41 @@ landscape:
             repo_url: 'https://github.com/protocolbuffers/protobuf'
             logo: protocol-buffers.svg
             crunchbase: 'https://www.crunchbase.com/organization/google'
+          - item:
+            name: TarsProtocol
+            homepage_url: 'https://github.com/TarsCloud/TarsProtocol'
+            project: foundationproject
+            repo_url: 'https://github.com/TarsCloud/TarsProtocol'
+            logo: tars-protocol.svg
+            crunchbase: 'https://www.crunchbase.com/organization/tars-foundation'
+          - item:
+            name: TarsTup
+            homepage_url: 'https://github.com/TarsCloud/TarsTup'
+            project: foundationproject
+            repo_url: 'https://github.com/TarsCloud/TarsTup'
+            logo: tars-tup.svg
+            crunchbase: 'https://www.crunchbase.com/organization/tars-foundation'
   - category:
-    name: Service Governance
+    name: Platform
     subcategories:
+      - subcategory:
+        name: Framework
+        items:
+          - item:
+            name: gRPC
+            homepage_url: 'https://grpc.io/'
+            repo_url: 'https://github.com/grpc/grpc'
+            logo: grpc.svg
+            twitter: 'https://twitter.com/grpcio'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'        
+          - item:
+            name: TarsFramework
+            project: foundationproject
+            homepage_url: 'https://tarscloud.org'
+            repo_url: 'https://github.com/TarsCloud/TarsFramework'
+            logo: tars-framework.svg
+            twitter: 'https://twitter.com/tarscloud'
+            crunchbase: 'https://www.crunchbase.com/organization/tars-foundation'
       - subcategory:
         name: Service Discovery
         items:
@@ -559,13 +656,6 @@ landscape:
             repo_url: 'https://github.com/hashicorp/consul'
             logo: consul.svg
             crunchbase: 'https://www.crunchbase.com/organization/hashicorp'
-          - item:
-            name: Envoy
-            homepage_url: 'https://www.envoyproxy.io'
-            repo_url: 'https://github.com/envoyproxy/envoy'
-            logo: envoy.svg
-            twitter: 'https://twitter.com/envoyproxy'
-            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
           - item:
             name: Grey Matter
             homepage_url: 'https://greymatter.io/grey-matter'
@@ -1200,6 +1290,13 @@ landscape:
             logo: apioak.svg
             crunchbase: 'https://www.crunchbase.com/organization/apioak'
           - item:
+            name: Envoy
+            homepage_url: 'https://www.envoyproxy.io'
+            repo_url: 'https://github.com/envoyproxy/envoy'
+            logo: envoy.svg
+            twitter: 'https://twitter.com/envoyproxy'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
             name: Gloo
             homepage_url: 'https://www.solo.io'
             repo_url: 'https://github.com/solo-io/gloo'
@@ -1242,6 +1339,13 @@ landscape:
             twitter: 'https://twitter.com/AccentureTech'
             crunchbase: 'https://www.crunchbase.com/organization/accenture'
           - item:
+            name: TarsGateway
+            homepage_url: 'https://github.com/TarsCloud/TarsGateway'
+            project: foundationproject
+            repo_url: 'https://github.com/TarsCloud/TarsGateway'
+            logo: tars-gateway.svg
+            crunchbase: 'https://www.crunchbase.com/organization/tars-foundation'
+          - item:
             name: Tyk
             homepage_url: 'https://tyk.io/'
             repo_url: 'https://github.com/TykTechnologies/tyk'
@@ -1253,42 +1357,6 @@ landscape:
             repo_url: 'https://github.com/wso2/product-microgateway'
             logo: wso2.svg
             crunchbase: 'https://www.crunchbase.com/organization/wso2'
-      - subcategory:
-        name: Big data
-        items:
-          - item:
-            name: Apache Hadoop
-            homepage_url: 'https://hadoop.apache.org/'
-            repo_url: 'https://github.com/apache/hadoop'
-            logo: apache-hadoop.svg
-            twitter: 'https://twitter.com/twitterhadoop'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
-            name: Apache Impala
-            homepage_url: 'https://impala.apache.org/'
-            repo_url: 'https://github.com/apache/impala'
-            logo: apache-impala.svg
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
-            name: Apache Kafka
-            homepage_url: 'https://kafka.apache.org/'
-            repo_url: 'https://github.com/apache/kafka'
-            logo: kafka.svg
-            twitter: 'https://twitter.com/apachekafka'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
-            name: Apache Spark
-            homepage_url: 'https://spark.apache.org/'
-            repo_url: 'https://github.com/apache/spark'
-            logo: apache-spark.svg
-            twitter: 'https://twitter.com/apachespark'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
-            name: Elasticsearch
-            homepage_url: 'https://www.elastic.co/elasticsearch/'
-            repo_url: 'https://github.com/elastic/elasticsearch'
-            logo: elasticsearch.svg
-            crunchbase: 'https://www.crunchbase.com/organization/elasticsearch'
       - subcategory:
         name: Business
         items:
@@ -1375,6 +1443,23 @@ landscape:
             repo_url: 'https://github.com/State-of-the-Edge/glossary'
             logo: stateoftheedge.svg
             crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
+      - subcategory:
+        name: TARS LAB
+        items:
+          - item:
+            name: TarsBenchmark
+            homepage_url: 'https://github.com/TarsCloud/TarsBenchmark'
+            project: foundationproject
+            repo_url: 'https://github.com/TarsCloud/TarsBenchmark'
+            logo: tars-benchmark.svg
+            crunchbase: 'https://www.crunchbase.com/organization/tars-foundation'
+          - item:
+            name: TarsJMeter
+            homepage_url: 'https://github.com/TarsCloud/TarsJMeter'
+            project: foundationproject
+            repo_url: 'https://github.com/TarsCloud/TarsJMeter'
+            logo: tars-jmeter.svg
+            crunchbase: 'https://www.crunchbase.com/organization/tars-foundation'
   - category:
     name: TARS Foundation Member
     subcategories:
