@@ -104,111 +104,111 @@ big_picture:
     elements:
       - type: HorizontalCategory
         category: DevOps
-        rows: 3
-        width: 317
+        rows: 2
+        width: 314
         height: 148
-        top: 220
-        left: 0
+        top: 0
+        left: 972
         color: 'rgb(4,81,49)'
         fit_width: true
       - type: HorizontalCategory
         category: Application
         rows: 4
-        width: 560
+        width: 936
         height: 148
-        top: 419
-        left: 745
+        top: 0
+        left: 0
         color: 'rgb(7,136,62)'
         fit_width: true
       - type: HorizontalCategory
-        category: Service Governance
+        category: Platform
         rows: 4
-        width: 1614
-        height: 148
-        top: 0
+        width: 1785
+        height: 147
+        top: 190
         left: 0
         color: 'rgb(126,115,14)'
         fit_width: true
       - type: HorizontalCategory
-        category: Development Framework
-        rows: 3
-        width: 277
+        category: Protocol
+        rows: 1
+        width: 383
         height: 148
-        top: 220
-        left: 961
+        top: 380
+        left: 1410
         color: 'rgb(87,43,10)'
         fit_width: true
       - type: HorizontalCategory
         category: Storage
-        rows: 4
-        width: 718
+        rows: 3
+        width: 1367
         height: 148
-        top: 419
+        top: 380
         left: 0
         color: 'rgb(165,9,77)'
         fit_width: true
       - type: HorizontalCategory
         category: Infrastructure
-        rows: 3
-        width: 212
+        rows: 2
+        width: 820
         height: 148
-        top: 220
-        left: 344
+        top: 570
+        left: 0
         color: 'rgb(29,119,164)'
         fit_width: true
       - type: HorizontalCategory
         category: Programming Language
-        rows: 5
-        width: 369
+        rows: 3
+        width: 517
         height: 148
-        top: 220
-        left: 574
+        top: 570
+        left: 860
         color: 'rgb(193,83,21)'
         fit_width: true
       - type: HorizontalCategory
         category: TARS Foundation Member
-        rows: 4
-        width: 367
+        rows: 2
+        width: 463
         height: 148
-        top: 220
-        left: 1256
+        top: 0
+        left: 1300
         color: 'rgb(103,66,18)'
         fit_width: true
       - type: LandscapeInfo
-        width: 300
+        width: 393
         height: 148
-        top: 419
-        left: 1323
+        top: 570
+        left: 1410
         children:
           - type: text
             text: |
               This landscape is intended as a map to explore the TARS community, and also shows the member organizations of the TARS Foundation.
-            top: 49
-            left: 141
-            right: 21
+            top: 53
+            left: 140
+            right: 36
             font_size: 10
           - type: image
             image: qr.svg
-            top: 12
-            left: 25
-            width: 88
-            height: 88
+            top: 19
+            left: 28
+            width: 91
+            height: 91
             title: QR Code
           - type: title
             title: l.tarscloud.org
-            top: 103
-            left: 31
+            top: 112
+            left: 36
             font_size: 12
           - type: image
             image: left-logo.svg
             width: 85
-            right: 81
+            right: 145
             top: 20
             title: Landscape Logo
           - type: image
             image: right-logo.svg
             width: 60
-            right: 12
+            right: 40
             top: 20
             title: TARS Foundation Logo
 test:
