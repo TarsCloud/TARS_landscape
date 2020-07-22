@@ -172,15 +172,15 @@ landscape:
         name: Chip
         items:
           - item:
-            name: Arm
-            homepage_url: 'https://www.arm.com/'
-            logo: arm.svg
-            crunchbase: 'https://www.crunchbase.com/organization/arm'
-          - item:
             name: AMD
             homepage_url: 'https://www.amd.com/en'
             logo: amd.svg
             crunchbase: 'https://www.crunchbase.com/organization/amd'
+          - item:
+            name: Arm
+            homepage_url: 'https://www.arm.com/'
+            logo: arm.svg
+            crunchbase: 'https://www.crunchbase.com/organization/arm'
           - item:
             name: Intel
             homepage_url: 'https://www.intel.com/content/www/us/en/homepage.html'
@@ -600,11 +600,11 @@ landscape:
             repo_url: 'https://github.com/grpc/grpc'
             logo: grpc.svg
             twitter: 'https://twitter.com/grpcio'
-            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'        
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
           - item:
             name: TarsFramework
-            project: foundationproject
             homepage_url: 'https://tarscloud.org'
+            project: foundationproject
             repo_url: 'https://github.com/TarsCloud/TarsFramework'
             logo: tars-framework.svg
             twitter: 'https://twitter.com/tarscloud'
@@ -935,8 +935,8 @@ landscape:
           - item:
             name: NodeSource
             homepage_url: 'https://nodesource.com/'
-            logo: nodesource.svg
             repo_url: 'https://github.com/nodesource/distributions'
+            logo: nodesource.svg
             crunchbase: 'https://www.crunchbase.com/organization/nodesource'
           - item:
             name: OpenMetrics
