@@ -238,6 +238,13 @@ landscape:
             twitter: 'https://twitter.com/Docker'
             crunchbase: 'https://www.crunchbase.com/organization/docker'
           - item:
+            name: K8STARS
+            homepage_url: 'https://github.com/TarsCloud/K8STARS'
+            project: foundationproject
+            repo_url: 'https://github.com/TarsCloud/K8STARS'
+            logo: tars-docker.svg
+            crunchbase: 'https://www.crunchbase.com/organization/tars-foundation'
+          - item:
             name: Kubernetes
             description: 'Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications'
             homepage_url: 'https://kubernetes.io/'
@@ -251,6 +258,13 @@ landscape:
             repo_url: 'https://github.com/kubernetes-retired/rktlet'
             logo: rktlet.svg
             crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: TarsDocker
+            homepage_url: 'https://github.com/TarsCloud/TarsDocker'
+            project: foundationproject
+            repo_url: 'https://github.com/TarsCloud/TarsDocker'
+            logo: tars-docker.svg
+            crunchbase: 'https://www.crunchbase.com/organization/tars-foundation'
   - category:
     name: Storage
     subcategories:
@@ -1460,6 +1474,20 @@ landscape:
             repo_url: 'https://github.com/TarsCloud/TarsJMeter'
             logo: tars-jmeter.svg
             crunchbase: 'https://www.crunchbase.com/organization/tars-foundation'
+          # - item:
+          #   name: TarsJavaStart
+          #   homepage_url: 'https://github.com/TarsCloud/TarsJMeter'
+          #   project: foundationproject
+          #   repo_url: 'https://github.com/TarsCloud/TarsJMeter'
+          #   logo: tars-jmeter.svg
+          #   crunchbase: 'https://www.crunchbase.com/organization/tars-foundation'
+          # - item:
+          #   name: TarsTools
+          #   homepage_url: 'https://github.com/TarsCloud/TarsJMeter'
+          #   project: foundationproject
+          #   repo_url: 'https://github.com/TarsCloud/TarsJMeter'
+          #   logo: tars-jmeter.svg
+          #   crunchbase: 'https://www.crunchbase.com/organization/tars-foundation'
   - category:
     name: TARS Foundation Member
     subcategories:
