@@ -2,16 +2,16 @@ global:
   name: TARS Foundation Landscape
   short_name: TARS
   repo: tarscloud/TARS_landscape
-  website: 'https://landscape.tarscloud.org'
+  website: https://landscape.tarscloud.org
   short_domain: l.tarscloud.org
-  company_url: 'https://tarscloud.org'
+  company_url: https://tarscloud.org
   email: tars@tarscloud.org
-  self: 'https://www.crunchbase.com/organization/tars-foundation'
+  self: https://www.crunchbase.com/organization/tars-foundation
   slack_channel: null
   meta:
     title: TARS Foundation Landscape
     fb_admin: alex.contini.94
-    description: 'Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets'
+    description: Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets
     twitter: '@tarscloud'
     google_site_verification: null
     ms_validate: null
@@ -22,7 +22,7 @@ global:
       - TARS Foundation Member
 twitter:
   search: landscape.tarscloud.org
-  url: 'https://landscape.tarscloud.org'
+  url: https://landscape.tarscloud.org
   text: TARS Foundation Landscape
 relation:
   label: TARS Relation
@@ -38,7 +38,7 @@ relation:
           color: '#3570af'
           big_picture_order: 1
           big_picture_label: LF TARS
-          big_picture_color: 'rgb(24,54,114)'
+          big_picture_color: rgb(24,54,114)
     - id: company
       label: TARS Foundation Member
       tag: Company
@@ -67,7 +67,7 @@ membership:
     name: LF
     label: Project
     funding: Linux Foundation
-    crunchbase_and_children: 'https://www.crunchbase.com/organization/linux-foundation'
+    crunchbase_and_children: https://www.crunchbase.com/organization/linux-foundation
   'false':
     funding: 'No'
 home:
@@ -106,7 +106,7 @@ big_picture:
         height: 148
         top: 0
         left: 993
-        color: 'rgb(4,81,49)'
+        color: rgb(4,81,49)
         fit_width: true
       - type: HorizontalCategory
         category: Application
@@ -115,7 +115,7 @@ big_picture:
         height: 148
         top: 0
         left: 0
-        color: 'rgb(7,136,62)'
+        color: rgb(7,136,62)
         fit_width: true
       - type: HorizontalCategory
         category: Platform
@@ -124,7 +124,7 @@ big_picture:
         height: 148
         top: 190
         left: 0
-        color: 'rgb(126,115,14)'
+        color: rgb(126,115,14)
         fit_width: true
       - type: HorizontalCategory
         category: Protocol
@@ -133,7 +133,7 @@ big_picture:
         height: 148
         top: 380
         left: 1405
-        color: 'rgb(87,43,10)'
+        color: rgb(87,43,10)
         fit_width: true
       - type: HorizontalCategory
         category: Storage
@@ -142,7 +142,7 @@ big_picture:
         height: 148
         top: 380
         left: 0
-        color: 'rgb(165,9,77)'
+        color: rgb(165,9,77)
         fit_width: true
       - type: HorizontalCategory
         category: Infrastructure
@@ -151,7 +151,7 @@ big_picture:
         height: 148
         top: 570
         left: 0
-        color: 'rgb(29,119,164)'
+        color: rgb(29,119,164)
         fit_width: true
       - type: HorizontalCategory
         category: Programming Language
@@ -160,7 +160,7 @@ big_picture:
         height: 148
         top: 570
         left: 860
-        color: 'rgb(193,83,21)'
+        color: rgb(193,83,21)
         fit_width: true
       - type: HorizontalCategory
         category: TARS Foundation Member
@@ -169,7 +169,7 @@ big_picture:
         height: 148
         top: 0
         left: 1330
-        color: 'rgb(103,66,18)'
+        color: rgb(103,66,18)
         fit_width: true
       - type: LandscapeInfo
         width: 393
