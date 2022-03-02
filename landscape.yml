@@ -152,17 +152,17 @@ landscape:
             logo: ibm-cloud.svg
             crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
-            name: Tencent Cloud
-            homepage_url: https://intl.cloud.tencent.com/products/tke
-            logo: tencent-cloud.svg
-            crunchbase: https://www.crunchbase.com/organization/tencent
-          - item:
             name: OpenStack
             homepage_url: https://www.openstack.org/
             repo_url: https://github.com/openstack/openstack
             url_for_bestpractices: https://github.com/openstack
             logo: open-stack.svg
             crunchbase: https://www.crunchbase.com/organization/openstack
+          - item:
+            name: Tencent Cloud
+            homepage_url: https://intl.cloud.tencent.com/products/tke
+            logo: tencent-cloud.svg
+            crunchbase: https://www.crunchbase.com/organization/tencent
       - subcategory:
         name: Container
         items:
@@ -611,13 +611,6 @@ landscape:
         name: Edge
         items:
           - item:
-            name: KubeEdge
-            homepage_url: https://kubeedge.io/en/
-            repo_url: https://github.com/kubeedge/kubeedge
-            logo: kube-edge.svg
-            twitter: https://twitter.com/KubeEdge
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
             name: Akraino
             homepage_url: https://www.lfedge.org/projects/akraino/
             repo_url: https://github.com/akraino-edge-stack/eliot
@@ -653,6 +646,13 @@ landscape:
             repo_url: https://github.com/lf-edge/edge-home-orchestration-go
             logo: homeedge.svg
             crunchbase: https://www.crunchbase.com/organization/lf-edge
+          - item:
+            name: KubeEdge
+            homepage_url: https://kubeedge.io/en/
+            repo_url: https://github.com/kubeedge/kubeedge
+            logo: kube-edge.svg
+            twitter: https://twitter.com/KubeEdge
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
           - item:
             name: Open Horizon
             homepage_url: https://www.lfedge.org/projects/openhorizon/
@@ -803,6 +803,11 @@ landscape:
             twitter: https://twitter.com/apacheapisix
             crunchbase: https://www.crunchbase.com/organization/apisix
           - item:
+            name: Eolink
+            homepage_url: https://www.eolink.com
+            logo: eolink.svg
+            crunchbase: https://www.crunchbase.com/organization/eolink
+          - item:
             name: Kong (member)
             homepage_url: https://konghq.com/
             logo: kong.svg
@@ -812,19 +817,9 @@ landscape:
             homepage_url: https://www.zenlayer.com/
             logo: zenlayer.svg
             crunchbase: https://www.crunchbase.com/organization/zenlayer
-          - item:
-            name: Eolink
-            homepage_url: https://www.eolink.com
-            logo: eolink.svg
-            crunchbase: https://www.crunchbase.com/organization/eolink
       - subcategory:
         name: Associate
         items:
-          - item:
-            name: Ramanujan College, University of Delhi
-            homepage_url: https://ramanujancollege.ac.in/
-            logo: universityofdelhi.svg
-            crunchbase: https://www.crunchbase.com/organization/university-of-delhi
           - item:
             name: Nanjing University
             homepage_url: https://www.nju.edu.cn/main.htm
@@ -837,3 +832,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/nextarch-foundation
             organization:
               name: NextArch Foundation
+          - item:
+            name: Ramanujan College, University of Delhi
+            homepage_url: https://ramanujancollege.ac.in/
+            logo: universityofdelhi.svg
+            crunchbase: https://www.crunchbase.com/organization/university-of-delhi
