@@ -45,13 +45,13 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 3199513
+                  value: 3203016
                   color: '#00ADD8'
                 - name: TypeScript
                   value: 627797
                   color: '#2b7489'
                 - name: Makefile
-                  value: 35003
+                  value: 35013
                   color: '#427819'
                 - name: SCSS
                   value: 29077
@@ -76,20 +76,20 @@ landscape:
                   value: 472
                   color: '#e34c26'
               contributions: >-
-                16;25;15;20;21;7;23;22;12;17;8;29;36;35;14;10;14;13;10;14;6;2;7;13;17;27;26;29;23;21;36;19;18;30;25;18;39;18;37;29;33;24;26;14;6;14;15;29;9;11;23;15
+                16;24;20;18;21;8;20;25;10;19;5;40;28;37;9;14;10;14;10;13;7;0;12;10;21;26;26;28;21;27;32;17;26;24;23;19;42;17;33;36;28;24;24;15;6;16;21;21;8;11;26;15
               firstWeek: 2021-08-01Z
-              stars: 11440
+              stars: 11448
               license: Apache License 2.0
               description: Workflow engine for Kubernetes
-              latest_commit_date: '2022-07-28T20:54:56Z'
-              latest_commit_link: /argoproj/argo-workflows/commit/51538235c7a70b89855dd3b96d97387472bdbade
+              latest_commit_date: '2022-07-29T22:31:26Z'
+              latest_commit_link: /argoproj/argo-workflows/commit/fd6c7a7ec1f2053f9fdd03451d7d29b1339c0408
               release_date: '2022-06-24T01:18:03Z'
               release_link: https://github.com/argoproj/argo-workflows/releases
-              contributors_count: 611
+              contributors_count: 616
               contributors_link: https://github.com/argoproj/argo-workflows/graphs/contributors
             repos:
               - url: https://github.com/argoproj/argo-workflows
-                stars: 11440
+                stars: 11448
             github_start_commit_data:
               start_commit_link: /argoproj/argo/commit/3ed1dfeb073829d3c4f92b95c9a74118caaec1b4
               start_date: '2017-10-17T21:38:48Z'
@@ -169,18 +169,18 @@ landscape:
                   value: 269
                   color: '#384d54'
               contributions: >-
-                26;48;39;74;84;232;92;90;63;166;125;163;277;327;121;91;80;260;168;105;198;101;71;205;166;163;232;226;185;183;308;164;286;259;208;322;329;200;286;188;197;143;263;180;384;264;161;220;240;291;120;175
+                34;36;45;94;99;237;86;64;69;163;138;271;174;333;99;92;77;303;121;108;194;90;98;192;198;188;182;241;184;167;305;213;263;288;216;317;354;141;315;129;206;140;294;184;388;257;136;283;244;222;111;215
               firstWeek: 2021-08-01Z
-              stars: 661
+              stars: 662
               license: Unknown License
               description: Documentation for CircleCI.
-              latest_commit_date: '2022-07-28T17:56:20Z'
-              latest_commit_link: /circleci/circleci-docs/commit/af038969c074d6235fcd640203af1522d4cb6b5c
-              contributors_count: 790
+              latest_commit_date: '2022-07-29T15:37:37Z'
+              latest_commit_link: /circleci/circleci-docs/commit/07df90d69440af5bc85005b5c176a3e63d1e7302
+              contributors_count: 791
               contributors_link: https://github.com/circleci/circleci-docs/graphs/contributors
             repos:
               - url: https://github.com/circleci/circleci-docs
-                stars: 661
+                stars: 662
             github_start_commit_data:
               start_commit_link: /circleci/circleci-docs/commit/93893a57b836ccfe173cf130e87a09bc1dab19b4
               start_date: '2016-03-15T22:04:34Z'
@@ -191,7 +191,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T23:06:40.000Z
+              latest_tweet_date: 2022-07-29T18:41:17.000Z
           - item:
             name: GitLab
             homepage_url: https://about.gitlab.com/
@@ -240,20 +240,20 @@ landscape:
             github_data:
               languages:
                 - name: Ruby
-                  value: 53464219
+                  value: 53454667
                   color: '#701516'
                 - name: JavaScript
-                  value: 14496330
+                  value: 14520626
                   color: '#f1e05a'
                 - name: Vue
-                  value: 5006655
+                  value: 5009229
                   color: '#2c3e50'
                 - name: PLpgSQL
-                  value: 2558466
+                  value: 2558698
                 - name: Haml
-                  value: 1604306
+                  value: 1604654
                 - name: SCSS
-                  value: 901106
+                  value: 899380
                 - name: Go
                   value: 747484
                   color: '#00ADD8'
@@ -281,23 +281,23 @@ landscape:
                   value: 79
                   color: '#db5855'
               contributions: >-
-                46;43;45;44;42;41;43;42;36;43;40;46;42;45;44;44;45;40;44;45;44;34;28;41;45;45;43;44;45;43;42;48;43;44;39;46;38;43;43;45;46;42;47;40;46;44;43;40;43;43;44;41
+                46;43;45;44;42;41;43;41;36;44;40;47;41;45;44;44;45;40;44;45;44;31;31;41;45;45;44;43;45;43;42;48;43;44;38;47;38;44;44;45;44;42;47;40;46;44;43;40;43;43;45;40
               firstWeek: 2021-08-01Z
-              stars: 22987
+              stars: 22988
               license: Other
               description: GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-              latest_commit_date: '2022-07-28T21:09:42Z'
-              latest_commit_link: /gitlabhq/gitlabhq/commit/9037472904908109f5622a8a1e808c6225eced56
+              latest_commit_date: '2022-07-29T21:08:53Z'
+              latest_commit_link: /gitlabhq/gitlabhq/commit/a5c89610f3a29118fd7cb1de80ad1f8f0be5363e
               contributors_count: 2997
               contributors_link: https://github.com/gitlabhq/gitlabhq/graphs/contributors
             repos:
               - url: https://github.com/gitlabhq/gitlabhq
-                stars: 22987
+                stars: 22988
             github_start_commit_data:
               start_commit_link: /gitlabhq/gitlabhq/commit/93efff945215a4407afcaf0cba15ac601b56df0d
               start_date: '2011-10-08T21:34:49Z'
             yahoo_finance_data:
-              market_cap: 7800691200
+              market_cap: 8477980160
               effective_ticker: GTLB
             image_data:
               fileName: git-lab.svg
@@ -306,7 +306,7 @@ landscape:
               badge: 42
               percentage: 99
             twitter_data:
-              latest_tweet_date: 2022-07-28T17:55:01.000Z
+              latest_tweet_date: 2022-07-29T18:12:01.000Z
           - item:
             name: Jenkins
             homepage_url: https://jenkins.io/
@@ -349,7 +349,7 @@ landscape:
                   value: 216201
                   color: '#563d7c'
                 - name: Less
-                  value: 188945
+                  value: 188989
                 - name: Groovy
                   value: 78196
                   color: '#e69f56'
@@ -379,20 +379,20 @@ landscape:
                   value: 163
                   color: '#384d54'
               contributions: >-
-                12;6;17;21;17;18;13;25;16;18;34;30;28;7;41;21;24;32;48;32;39;33;33;21;8;31;26;18;19;28;24;27;33;15;18;20;24;38;19;17;19;23;12;23;15;23;17;24;57;54;23;50
+                13;8;16;22;16;18;12;23;19;16;35;35;22;21;27;20;26;35;46;32;40;32;30;24;6;36;23;18;19;31;20;29;32;12;21;22;30;28;18;22;20;19;14;21;20;20;16;24;63;45;47;27
               firstWeek: 2021-08-01Z
-              stars: 19255
+              stars: 19258
               license: MIT License
               description: Jenkins automation server
-              latest_commit_date: '2022-07-28T14:45:24Z'
-              latest_commit_link: /jenkinsci/jenkins/commit/d5cdf39e8b09c82fd9c618849a84d194a814e064
+              latest_commit_date: '2022-07-29T18:27:01Z'
+              latest_commit_link: /jenkinsci/jenkins/commit/1c40a8b32900b8cbfb5a1d1899e3ae5617c85625
               release_date: '2022-07-26T13:17:20Z'
               release_link: https://github.com/jenkinsci/jenkins/releases
               contributors_count: 1035
               contributors_link: https://github.com/jenkinsci/jenkins/graphs/contributors
             repos:
               - url: https://github.com/jenkinsci/jenkins
-                stars: 19255
+                stars: 19258
             github_start_commit_data:
               start_commit_link: /jenkinsci/jenkins/commit/8a0dc230f44e84e5a7f7920cf9a31f09a54999ac
               start_date: '2006-11-05T21:16:01Z'
@@ -403,7 +403,7 @@ landscape:
               badge: 3538
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2022-07-27T14:13:35.000Z
+              latest_tweet_date: 2022-07-29T22:08:50.000Z
           - item:
             name: Travis CI
             homepage_url: https://travis-ci.com/
@@ -457,7 +457,7 @@ landscape:
                   color: '#384d54'
                 - name: Procfile
                   value: 112
-              contributions: 1;1;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;1;1;0;0;0;0;0;1;1;0;0;0;0;1;0;0;0;0;0;1;0;0;1
+              contributions: 1;1;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;1;1;0;0;0;0;0;2;0;0;0;0;0;1;0;0;0;0;0;1;0;1;0
               firstWeek: 2021-08-01Z
               stars: 598
               license: MIT License
@@ -1172,23 +1172,23 @@ landscape:
                 - name: C#
                   value: 2954
                   color: '#178600'
-              contributions: 4;5;4;12;3;9;10;8;10;7;4;17;9;12;11;8;0;2;2;9;2;5;29;3;14;11;21;10;10;16;10;5;7;9;11;7;10;9;12;10;6;2;8;6;2;4;3;5;5;4;6;4
+              contributions: 6;3;5;11;8;4;11;12;5;8;5;15;10;13;12;5;0;3;1;10;1;14;21;10;7;13;20;10;13;14;9;4;7;9;13;6;9;9;13;9;5;2;11;3;2;5;2;5;6;3;6;4
               firstWeek: 2021-08-01Z
-              stars: 9013
+              stars: 9016
               license: Unknown License
               description: The official repo for the design of the C# programming language
-              latest_commit_date: '2022-07-27T19:18:23Z'
-              latest_commit_link: /dotnet/csharplang/commit/88ced287a827f98c47ec02fdfeb8e5d3ee09b1e6
+              latest_commit_date: '2022-07-29T00:03:16Z'
+              latest_commit_link: /dotnet/csharplang/commit/e367f900272b8a1dc16b7f7139db271d0f0ad8c6
               contributors_count: 137
               contributors_link: https://github.com/dotnet/csharplang/graphs/contributors
             repos:
               - url: https://github.com/dotnet/csharplang
-                stars: 9013
+                stars: 9016
             github_start_commit_data:
               start_commit_link: /dotnet/csharplang/commit/f23184baaccbd403436c6a705f4fc06f90df3086
               start_date: '2017-01-06T21:10:56Z'
             yahoo_finance_data:
-              market_cap: 2063124267008
+              market_cap: 2095443345408
               effective_ticker: MSFT
             image_data:
               fileName: c-c-sharp.svg
@@ -1197,7 +1197,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T22:00:00.000Z
+              latest_tweet_date: 2022-07-29T23:00:00.000Z
           - item:
             name: C++ (C plus plus)
             homepage_url: https://www.cplusplus.com/
@@ -1814,7 +1814,7 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 45554385
+                  value: 45554691
                   color: '#00ADD8'
                 - name: Assembly
                   value: 2677262
@@ -1855,23 +1855,23 @@ landscape:
                   value: 394
                   color: '#4d41b1'
               contributions: >-
-                79;64;114;90;115;84;93;110;97;114;85;99;97;151;132;108;98;71;83;68;56;12;21;57;48;51;69;79;69;32;70;74;84;91;87;72;53;65;71;86;81;76;56;28;72;42;30;45;23;21;19;18
+                87;61;110;103;110;83;86;115;106;109;85;96;100;153;126;117;88;71;83;73;42;11;26;55;47;57;73;70;65;46;64;80;79;91;93;61;52;75;62;95;84;78;43;30;70;42;27;47;17;26;18;14
               firstWeek: 2021-08-01Z
-              stars: 102092
+              stars: 102137
               license: BSD 3-Clause "New" or "Revised" License
               description: The Go programming language
-              latest_commit_date: '2022-07-28T21:13:04Z'
-              latest_commit_link: /golang/go/commit/5c8ec89cb53025bc76b242b0d2410bf5060b697e
+              latest_commit_date: '2022-07-29T22:09:32Z'
+              latest_commit_link: /golang/go/commit/9a2001a8cc75b1ceda17da828edcee93c9d9f42c
               contributors_count: 2243
               contributors_link: https://github.com/golang/go/graphs/contributors
             repos:
               - url: https://github.com/golang/go
-                stars: 102092
+                stars: 102137
             github_start_commit_data:
               start_commit_link: /golang/go/commit/7d7c6a97f815e9279d08cfaea7d5efb5e90695a8
               start_date: '1972-07-19T00:05:45Z'
             yahoo_finance_data:
-              market_cap: 1505391673344
+              market_cap: 1517638123520
               effective_ticker: GOOG
             image_data:
               fileName: go.svg
@@ -1880,7 +1880,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T21:21:43.000Z
+              latest_tweet_date: 2022-07-29T19:00:32.000Z
           - item:
             name: Java
             homepage_url: https://java.com/en
@@ -1912,7 +1912,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T23:00:21.000Z
+              latest_tweet_date: 2022-07-29T14:00:03.000Z
           - item:
             name: node.js
             homepage_url: https://nodejs.org/zh-cn/
@@ -1941,10 +1941,10 @@ landscape:
             github_data:
               languages:
                 - name: JavaScript
-                  value: 11943656
+                  value: 11950365
                   color: '#f1e05a'
                 - name: C++
-                  value: 4057823
+                  value: 4057391
                   color: '#f34b7d'
                 - name: Python
                   value: 2363977
@@ -1980,20 +1980,20 @@ landscape:
                   value: 157
                   color: '#6E4C13'
               contributions: >-
-                55;47;33;42;55;43;35;44;41;50;65;52;52;34;24;27;46;52;38;44;50;35;29;55;69;66;59;53;57;59;46;46;42;38;36;64;62;46;35;43;48;29;57;27;27;48;48;36;34;72;49;68
+                58;43;34;42;52;45;33;49;38;57;60;54;46;37;19;32;47;57;34;44;53;31;30;53;84;49;71;42;67;53;45;48;43;33;34;65;74;38;39;45;38;29;57;29;27;47;47;44;29;77;42;71
               firstWeek: 2021-08-01Z
-              stars: 89099
+              stars: 89134
               license: Other
               description: 'Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:'
-              latest_commit_date: '2022-07-28T22:00:40Z'
-              latest_commit_link: /nodejs/node/commit/28a9042ee6e95c52f2ec6abcb2da205e22ae2230
+              latest_commit_date: '2022-07-29T13:27:16Z'
+              latest_commit_link: /nodejs/node/commit/60898eed65d49ce7a1a4a43791451ddc17876222
               release_date: '2022-07-26T22:28:55Z'
               release_link: https://github.com/nodejs/node/releases
               contributors_count: 3508
               contributors_link: https://github.com/nodejs/node/graphs/contributors
             repos:
               - url: https://github.com/nodejs/node
-                stars: 89099
+                stars: 89134
             github_start_commit_data:
               start_commit_link: /nodejs/node/commit/9d7895c567e8f38abfff35da1b6d6d6a0a06f9aa
               start_date: '2009-02-16T00:02:00Z'
@@ -2034,10 +2034,10 @@ landscape:
             github_data:
               languages:
                 - name: C
-                  value: 77512817
+                  value: 77517418
                   color: '#555555'
                 - name: PHP
-                  value: 26857872
+                  value: 26859670
                   color: '#4F5D95'
                 - name: M4
                   value: 417862
@@ -2060,7 +2060,7 @@ landscape:
                   value: 97599
                   color: '#DBCA00'
                 - name: Yacc
-                  value: 84351
+                  value: 84311
                   color: '#4B6C4B'
                 - name: Makefile
                   value: 33018
@@ -2086,18 +2086,18 @@ landscape:
                   value: 411
                   color: '#e34c26'
               contributions: >-
-                77;85;80;78;136;106;112;238;190;155;152;93;85;78;114;106;55;114;82;78;55;85;37;56;27;17;30;36;45;33;38;23;44;32;34;56;86;70;89;56;48;51;90;82;97;76;76;59;55;58;85;90
+                75;86;78;88;133;95;147;222;187;172;120;113;55;101;103;110;72;105;67;73;63;91;23;54;30;14;35;29;50;34;33;29;42;31;40;61;87;60;84;65;44;48;95;87;106;63;79;57;56;54;107;94
               firstWeek: 2021-08-01Z
-              stars: 34096
+              stars: 34095
               license: Other
               description: The PHP Interpreter
-              latest_commit_date: '2022-07-28T20:29:42Z'
-              latest_commit_link: /php/php-src/commit/107ad28350e76f40d6e65ceac4e45cbf8cc3dc75
+              latest_commit_date: '2022-07-29T21:17:08Z'
+              latest_commit_link: /php/php-src/commit/fc394b476b57d27ca7573bc421b660c81ecd5fc7
               contributors_count: 1355
               contributors_link: https://github.com/php/php-src/graphs/contributors
             repos:
               - url: https://github.com/php/php-src
-                stars: 34096
+                stars: 34095
             github_start_commit_data:
               start_commit_link: /php/php-src/commit/f70a4db647886f65a3e24249351d2c8abc0cdfb3
               start_date: '1999-04-07T18:10:10Z'
@@ -2141,7 +2141,7 @@ landscape:
                   value: 32904285
                   color: '#3572A5'
                 - name: C
-                  value: 16201578
+                  value: 16203734
                   color: '#555555'
                 - name: C++
                   value: 317790
@@ -2194,18 +2194,18 @@ landscape:
                 - name: VBScript
                   value: 70
               contributions: >-
-                71;46;38;50;52;61;61;71;48;67;81;79;51;61;58;39;92;61;76;63;41;22;52;65;71;118;72;80;70;73;70;75;73;80;52;115;53;104;79;148;141;61;88;45;57;77;89;85;56;47;67;84
+                57;48;35;55;53;59;61;70;49;71;83;83;54;46;55;48;87;61;81;62;32;26;58;67;67;130;69;78;64;73;80;64;79;70;59;115;52;113;68;158;133;72;71;43;61;80;92;83;56;46;61;95
               firstWeek: 2021-08-01Z
-              stars: 46566
+              stars: 46586
               license: Other
               description: The Python programming language
-              latest_commit_date: '2022-07-28T23:04:26Z'
-              latest_commit_link: /python/cpython/commit/06fc249135e5b98a74fc0213e157e80412354659
-              contributors_count: 2126
+              latest_commit_date: '2022-07-29T19:27:15Z'
+              latest_commit_link: /python/cpython/commit/d92b19e1b500247f9a62b12b9da889b99fe333f6
+              contributors_count: 2127
               contributors_link: https://github.com/python/cpython/graphs/contributors
             repos:
               - url: https://github.com/python/cpython
-                stars: 46566
+                stars: 46586
             github_start_commit_data:
               start_commit_link: /python/cpython/commit/7f777ed95a19224294949e1b4ce56bbffcb1fe9f
               start_date: '1990-08-09T14:25:15Z'
@@ -2243,10 +2243,10 @@ landscape:
             github_data:
               languages:
                 - name: Ruby
-                  value: 33164686
+                  value: 33169170
                   color: '#701516'
                 - name: C
-                  value: 14578939
+                  value: 14580542
                   color: '#555555'
                 - name: C++
                   value: 1558256
@@ -2263,7 +2263,7 @@ landscape:
                 - name: M4
                   value: 181135
                 - name: Roff
-                  value: 117559
+                  value: 118431
                   color: '#ecdebe'
                 - name: Python
                   value: 44782
@@ -2271,7 +2271,7 @@ landscape:
                 - name: GDB
                   value: 36134
                 - name: Ragel
-                  value: 30047
+                  value: 29949
                   color: '#9d5200'
                 - name: HTML
                   value: 21096
@@ -2309,18 +2309,18 @@ landscape:
                   value: 81
                   color: '#384d54'
               contributions: >-
-                83;113;78;127;170;175;202;86;120;154;151;129;164;84;113;122;78;85;107;131;159;176;90;106;122;57;56;61;35;60;55;37;75;57;84;88;49;58;56;46;65;50;87;59;64;76;92;77;87;78;68;82
+                87;101;81;138;175;208;151;99;123;151;164;126;156;82;110;120;79;86;101;135;167;158;105;96;111;59;56;58;44;56;56;38;77;62;85;81;51;54;59;42;72;43;100;47;70;85;81;90;76;75;75;84
               firstWeek: 2021-08-01Z
-              stars: 19361
+              stars: 19364
               license: Other
               description: The Ruby Programming Language [mirror]
-              latest_commit_date: '2022-07-28T23:12:46Z'
-              latest_commit_link: /ruby/ruby/commit/0d68286be93b2c7e588e42849ead0526ff55126c
-              contributors_count: 576
+              latest_commit_date: '2022-07-29T19:51:10Z'
+              latest_commit_link: /ruby/ruby/commit/53175643ef826775d0a51fc48fdd79a4cf01dc70
+              contributors_count: 579
               contributors_link: https://github.com/ruby/ruby/graphs/contributors
             repos:
               - url: https://github.com/ruby/ruby
-                stars: 19361
+                stars: 19364
             github_start_commit_data:
               start_commit_link: /ruby/ruby/commit/392296c12de9d7f9be03a8205250ba0844cb9d38
               start_date: '1998-01-16T12:13:05Z'
@@ -2363,7 +2363,7 @@ landscape:
             github_data:
               languages:
                 - name: Rust
-                  value: 64154708
+                  value: 64216522
                   color: '#dea584'
                 - name: JavaScript
                   value: 260484
@@ -2372,16 +2372,16 @@ landscape:
                   value: 245447
                   color: '#e34c26'
                 - name: Python
-                  value: 217178
+                  value: 217250
                   color: '#3572A5'
                 - name: Makefile
-                  value: 177796
+                  value: 178512
                   color: '#427819'
                 - name: Shell
                   value: 169421
                   color: '#89e051'
                 - name: C++
-                  value: 149611
+                  value: 150247
                   color: '#f34b7d'
                 - name: TypeScript
                   value: 142402
@@ -2422,20 +2422,20 @@ landscape:
                   value: 526
                   color: '#302B6D'
               contributions: >-
-                473;449;410;490;537;435;394;433;396;578;625;518;460;367;384;339;409;389;494;512;434;343;443;470;518;432;517;434;433;457;412;528;424;478;530;557;544;465;411;466;559;439;581;463;599;459;486;589;527;429;447;335
+                459;480;380;516;513;434;403;402;444;573;630;519;422;374;376;360;385;414;500;497;428;370;446;463;518;444;474;447;448;441;459;498;427;451;557;563;526;459;417;496;527;448;558;501;575;450;513;594;505;426;444;357
               firstWeek: 2021-08-01Z
-              stars: 69630
+              stars: 69704
               license: Other
               description: Empowering everyone to build reliable and efficient software.
-              latest_commit_date: '2022-07-28T19:12:21Z'
-              latest_commit_link: /rust-lang/rust/commit/9067d5277d10f0f32a49ec9c125a33828e26a32b
+              latest_commit_date: '2022-07-29T18:44:53Z'
+              latest_commit_link: /rust-lang/rust/commit/3924dac7bb29bc8eb348059c901e8f912399c857
               release_date: '2022-07-19T13:40:54Z'
               release_link: https://github.com/rust-lang/rust/releases
-              contributors_count: 5369
+              contributors_count: 5373
               contributors_link: https://github.com/rust-lang/rust/graphs/contributors
             repos:
               - url: https://github.com/rust-lang/rust
-                stars: 69630
+                stars: 69704
             github_start_commit_data:
               start_commit_link: /rust-lang/rust/commit/c01efc669f09508b55eced32d3c88702578a7c3e
               start_date: '2010-06-16T21:30:45Z'
@@ -2500,7 +2500,7 @@ landscape:
                 - Semiconductor
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 148552138752
+              market_cap: 153089572864
               effective_ticker: AMD
             image_data:
               fileName: amd.svg
@@ -2863,7 +2863,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 162374189056
+              market_cap: 148471595008
               effective_ticker: INTC
             image_data:
               fileName: intel.svg
@@ -2872,7 +2872,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T19:37:28.000Z
+              latest_tweet_date: 2022-07-29T21:57:44.000Z
       - subcategory:
         name: Cloud
         items:
@@ -2924,7 +2924,7 @@ landscape:
                 - Web Development
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1244125724672
+              market_cap: 1373035298816
               effective_ticker: AMZN
             image_data:
               fileName: amazon-web-services.svg
@@ -2933,7 +2933,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T23:10:08.000Z
+              latest_tweet_date: 2022-07-29T19:50:14.000Z
           - item:
             name: DigitalOcean
             homepage_url: https://www.digitalocean.com/
@@ -2969,7 +2969,7 @@ landscape:
                 - Web Hosting
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 4064601088
+              market_cap: 4184057856
               effective_ticker: DOCN
             image_data:
               fileName: digital-ocean.svg
@@ -2978,7 +2978,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T20:26:02.000Z
+              latest_tweet_date: 2022-07-29T19:19:11.000Z
           - item:
             name: Google Cloud
             homepage_url: https://twitter.com/googlecloud
@@ -3021,7 +3021,7 @@ landscape:
                 - Developer Platform
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1505391673344
+              market_cap: 1517638123520
               effective_ticker: GOOG
             image_data:
               fileName: google-cloud.svg
@@ -3030,7 +3030,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T22:32:47.000Z
+              latest_tweet_date: 2022-07-29T22:03:00.000Z
           - item:
             name: IBM Cloud
             homepage_url: https://www.ibm.com/topics/supply-chain-management
@@ -3502,7 +3502,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 115822469120
+              market_cap: 117229682688
               effective_ticker: IBM
             image_data:
               fileName: ibm-cloud.svg
@@ -3511,7 +3511,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T20:35:32.000Z
+              latest_tweet_date: 2022-07-29T20:04:42.000Z
           - item:
             name: OpenStack
             homepage_url: https://www.openstack.org/
@@ -3545,18 +3545,18 @@ landscape:
                   value: 2056
                   color: '#3572A5'
               contributions: >-
-                316;303;305;474;358;383;573;478;566;489;369;282;282;284;263;279;345;377;371;274;365;121;211;437;336;398;337;424;397;524;421;495;531;392;312;356;272;298;337;349;433;311;346;395;233;285;348;309;292;258;347;241
+                248;323;393;384;401;391;568;509;628;386;355;263;258;332;225;313;363;338;379;313;308;144;189;478;300;411;394;356;436;527;429;534;450;377;323;329;335;260;347;359;406;317;360;370;246;275;341;314;300;266;329;245
               firstWeek: 2021-08-01Z
-              stars: 4415
+              stars: 4417
               license: Apache License 2.0
               description: Repository tracking all OpenStack repositories as submodules. Mirror of code maintained at opendev.org.
-              latest_commit_date: '2022-07-28T22:25:21Z'
-              latest_commit_link: /openstack/openstack/commit/fe5a58c3e859d37371ae1fde786648c972a803ba
-              contributors_count: 3975
+              latest_commit_date: '2022-07-29T23:27:55Z'
+              latest_commit_link: /openstack/openstack/commit/a4fe4f8c3c1c075a14c2d2d55e0dda8fb954c16e
+              contributors_count: 3976
               contributors_link: https://github.com/openstack/openstack/graphs/contributors
             repos:
               - url: https://github.com/openstack/openstack
-                stars: 4415
+                stars: 4417
             github_start_commit_data:
               start_commit_link: /openstack/openstack/commit/1a8546c90100e2e3116b1a74adbeed507ce5e250
               start_date: '2013-10-07T17:14:30Z'
@@ -3567,7 +3567,7 @@ landscape:
               badge: 246
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2022-07-27T14:47:01.000Z
+              latest_tweet_date: 2022-07-29T19:00:27.000Z
           - item:
             name: Tencent Cloud
             homepage_url: https://intl.cloud.tencent.com/products/tke
@@ -3657,7 +3657,7 @@ landscape:
                 - Social Media Marketing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 393075171350
+              market_cap: 375896603876
               effective_ticker: 0700.HK
             image_data:
               fileName: tencent-cloud.svg
@@ -3709,7 +3709,7 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 5136239
+                  value: 5136273
                   color: '#00ADD8'
                 - name: Shell
                   value: 68595
@@ -3727,20 +3727,20 @@ landscape:
                   value: 595
                   color: '#6E4C13'
               contributions: >-
-                21;43;12;19;22;26;42;30;27;30;43;12;22;24;33;30;31;23;54;28;20;6;11;39;30;16;29;27;20;18;19;21;37;27;18;50;16;45;42;29;25;20;22;22;23;32;35;21;11;13;31;30
+                12;45;14;23;19;32;35;32;26;33;36;15;24;26;32;28;29;35;41;31;15;8;12;39;32;16;28;29;16;16;23;22;37;26;18;50;18;49;37;29;29;19;18;25;27;25;33;21;9;18;28;32
               firstWeek: 2021-08-01Z
-              stars: 11589
+              stars: 11597
               license: Apache License 2.0
               description: An open and reliable container runtime
-              latest_commit_date: '2022-07-28T21:20:37Z'
-              latest_commit_link: /containerd/containerd/commit/d4b80b8123a71b479d6647138a2f3a0ebcd713cf
+              latest_commit_date: '2022-07-29T23:05:40Z'
+              latest_commit_link: /containerd/containerd/commit/4d395bffea6bdcb5b7e5cab6d5504f92b153ceb0
               release_date: '2022-06-06T17:39:54Z'
               release_link: https://github.com/containerd/containerd/releases
               contributors_count: 516
               contributors_link: https://github.com/containerd/containerd/graphs/contributors
             repos:
               - url: https://github.com/containerd/containerd
-                stars: 11589
+                stars: 11597
             github_start_commit_data:
               start_commit_link: /containerd/containerd/commit/15a96783ca2ac8c0eb2c400701e8eb335059c63b
               start_date: '2015-11-05T23:29:53Z'
@@ -3807,9 +3807,10 @@ landscape:
                 - name: Dockerfile
                   value: 1460
                   color: '#384d54'
-              contributions: 15;18;26;46;9;11;18;17;30;13;20;30;15;14;19;9;15;6;8;11;12;2;4;11;9;14;16;23;48;21;17;11;8;14;11;12;8;9;19;14;27;34;17;6;16;17;28;36;26;16;22;10
+              contributions: >-
+                19;15;34;38;6;17;14;18;30;18;14;32;15;15;16;11;11;8;6;18;6;1;5;10;11;15;19;20;47;25;13;11;12;11;9;12;9;14;18;15;23;32;18;6;25;8;31;39;21;16;25;10
               firstWeek: 2021-08-01Z
-              stars: 4093
+              stars: 4094
               license: Apache License 2.0
               description: Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
               latest_commit_date: '2022-07-28T21:45:40Z'
@@ -3820,7 +3821,7 @@ landscape:
               contributors_link: https://github.com/cri-o/cri-o/graphs/contributors
             repos:
               - url: https://github.com/cri-o/cri-o
-                stars: 4093
+                stars: 4094
             github_start_commit_data:
               start_commit_link: /cri-o/cri-o/commit/580db0719d68b3ff3bb30f60397c3892be383eb5
               start_date: '2016-09-09T19:56:31Z'
@@ -3831,7 +3832,7 @@ landscape:
               badge: 2298
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2022-07-28T15:14:29.000Z
+              latest_tweet_date: 2022-07-29T20:01:12.000Z
           - item:
             name: Docker Desktop
             description: Docker Desktop is an easy-to-install desktop app for building, debugging and testing Dockerized apps on a Mac or Windows.
@@ -3886,7 +3887,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T14:13:28.000Z
+              latest_tweet_date: 2022-07-29T14:43:25.000Z
           - item:
             name: K8STARS
             homepage_url: https://github.com/TarsCloud/K8STARS
@@ -3925,7 +3926,7 @@ landscape:
                 - name: Makefile
                   value: 1879
                   color: '#427819'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2021-08-01Z
               stars: 54
               license: BSD 3-Clause "New" or "Revised" License
@@ -3988,10 +3989,10 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 61309443
+                  value: 61455456
                   color: '#00ADD8'
                 - name: Shell
-                  value: 1799166
+                  value: 1799178
                   color: '#89e051'
                 - name: PowerShell
                   value: 144474
@@ -4018,20 +4019,20 @@ landscape:
                   value: 128
                   color: '#e34c26'
               contributions: >-
-                63;250;130;151;102;118;167;145;123;143;122;151;141;202;219;232;100;47;118;134;106;24;96;172;128;122;94;103;152;123;124;115;149;164;321;125;56;55;46;141;197;126;107;89;88;143;84;93;69;114;150;114
+                164;170;122;152;102;122;172;132;122;152;135;132;162;193;216;225;85;50;138;131;87;18;141;154;124;117;83;129;150;116;131;111;153;201;281;110;63;45;42;196;172;109;110;94;86;136;88;99;68;136;134;128
               firstWeek: 2021-08-01Z
-              stars: 90625
+              stars: 90657
               license: Apache License 2.0
               description: Production-Grade Container Scheduling and Management
-              latest_commit_date: '2022-07-28T23:23:21Z'
-              latest_commit_link: /kubernetes/kubernetes/commit/f3d90aef8d4a0a6934a4a51705c241a86f66b00c
+              latest_commit_date: '2022-07-29T22:41:14Z'
+              latest_commit_link: /kubernetes/kubernetes/commit/5d446b205e308e54119320b5645fe17ce88d39cf
               release_date: '2022-07-19T20:16:44Z'
               release_link: https://github.com/kubernetes/kubernetes/releases
-              contributors_count: 4414
+              contributors_count: 4415
               contributors_link: https://github.com/kubernetes/kubernetes/graphs/contributors
             repos:
               - url: https://github.com/kubernetes/kubernetes
-                stars: 90625
+                stars: 90657
             github_start_commit_data:
               start_commit_link: /kubernetes/kubernetes/commit/2c4b3a562ce34cddc3f8218a2c4d11c7310e6d56
               start_date: '2014-06-06T23:40:48Z'
@@ -4113,7 +4114,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T15:14:29.000Z
+              latest_tweet_date: 2022-07-29T20:01:12.000Z
           - item:
             name: TarsDocker
             homepage_url: https://github.com/TarsCloud/TarsDocker
@@ -4146,7 +4147,7 @@ landscape:
                 - name: Dockerfile
                   value: 15044
                   color: '#384d54'
-              contributions: 0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;5;3;0;0;0;0;0;0;0;0;2;1;0;6;2;0;0;0;0;0;0;0;1;1;3;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;5;3;0;0;0;0;0;0;0;2;0;1;0;8;0;0;0;0;0;0;0;1;1;0;3;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2021-08-01Z
               stars: 82
               license: BSD 3-Clause "New" or "Revised" License
@@ -4227,7 +4228,7 @@ landscape:
                 - name: Dockerfile
                   value: 187
                   color: '#384d54'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;3;0;8;0;0;1;0;0;0;0;3;5;4;0;0;7;1;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;3;0;8;0;0;1;0;0;0;0;3;6;3;0;0;7;1;0;0
               firstWeek: 2021-08-01Z
               stars: 703
               license: Other
@@ -4308,7 +4309,7 @@ landscape:
                   color: '#ecdebe'
                 - name: Starlark
                   value: 726
-              contributions: 7;2;2;0;0;1;0;0;1;2;0;1;0;1;1;1;1;0;5;1;3;0;0;1;1;7;8;14;9;5;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 5;2;2;0;0;1;0;0;1;2;1;0;0;1;1;1;1;1;4;3;1;0;0;2;0;10;9;11;10;3;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2021-08-01Z
               stars: 11991
               license: BSD 3-Clause "New" or "Revised" License
@@ -4391,9 +4392,9 @@ landscape:
                 - name: Smarty
                   value: 1047
               contributions: >-
-                25;26;7;7;5;9;25;7;15;27;19;18;18;20;15;12;24;19;13;8;19;13;27;19;25;27;23;36;16;19;16;16;17;13;19;19;17;19;18;10;15;9;8;19;16;14;10;15;13;12;14;10
+                31;19;4;7;8;17;15;11;13;28;16;19;17;23;15;16;17;21;11;11;16;15;27;19;27;23;26;34;16;20;14;19;14;12;22;18;17;17;21;7;17;7;11;19;15;12;15;11;13;11;14;11
               firstWeek: 2021-08-01Z
-              stars: 56113
+              stars: 56127
               license: BSD 3-Clause "New" or "Revised" License
               description: >-
                 Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings,
@@ -4406,7 +4407,7 @@ landscape:
               contributors_link: https://github.com/redis/redis/graphs/contributors
             repos:
               - url: https://github.com/redis/redis
-                stars: 56113
+                stars: 56127
             github_start_commit_data:
               start_commit_link: /redis/redis/commit/ed9b544e10b84cd43348ddfab7068b610a5df1f7
               start_date: '2009-03-22T09:30:00Z'
@@ -4417,7 +4418,7 @@ landscape:
               badge: 4833
               percentage: 94
             twitter_data:
-              latest_tweet_date: 2022-07-28T22:38:25.000Z
+              latest_tweet_date: 2022-07-29T14:05:01.000Z
       - subcategory:
         name: Databases
         items:
@@ -4476,7 +4477,7 @@ landscape:
                 - name: C#
                   value: 86
                   color: '#178600'
-              contributions: 5;5;2;4;2;1;3;5;4;1;1;0;2;0;0;0;0;3;11;1;10;0;1;0;2;2;0;0;0;0;2;1;1;2;0;0;0;0;1;0;1;0;0;0;1;2;2;1;0;0;0;0
+              contributions: 6;3;4;2;2;1;4;4;5;0;1;0;2;0;0;0;1;3;10;1;10;0;1;0;2;2;0;0;0;0;2;1;2;1;0;0;0;0;1;0;1;0;0;0;2;2;1;1;0;0;0;0
               firstWeek: 2021-08-01Z
               stars: 1326
               license: Apache License 2.0
@@ -4527,7 +4528,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 33084929
+                  value: 33088844
                   color: '#b07219'
                 - name: Python
                   value: 553911
@@ -4547,18 +4548,18 @@ landscape:
                   value: 801
                   color: '#E6EFBB'
               contributions: >-
-                22;19;33;18;31;28;19;31;36;36;18;27;17;10;23;27;12;5;9;15;4;1;6;18;8;24;8;43;25;24;18;27;30;29;29;22;18;12;14;19;27;26;29;27;26;13;26;16;11;20;20;22
+                16;21;34;18;30;28;19;31;48;22;25;23;15;11;20;31;8;5;13;12;4;0;12;12;15;17;19;32;36;13;21;31;26;28;32;19;16;13;19;20;23;29;26;28;23;19;20;19;11;24;15;22
               firstWeek: 2021-08-01Z
-              stars: 7431
+              stars: 7432
               license: Apache License 2.0
               description: Mirror of Apache Cassandra
-              latest_commit_date: '2022-07-28T20:28:20Z'
-              latest_commit_link: /apache/cassandra/commit/0e3bdeab73ad89b7f48fd366b1b2723f5800e784
+              latest_commit_date: '2022-07-29T17:35:55Z'
+              latest_commit_link: /apache/cassandra/commit/b94bf3f2186aa083a25ddb6cf7f6b2f45fc8b566
               contributors_count: 514
               contributors_link: https://github.com/apache/cassandra/graphs/contributors
             repos:
               - url: https://github.com/apache/cassandra
-                stars: 7431
+                stars: 7432
             github_start_commit_data:
               start_commit_link: /apache/cassandra/commit/1f91e99223b0d1b7ed8390400d4a06ac08e4aa85
               start_date: '2009-03-02T07:57:22Z'
@@ -4598,7 +4599,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 20083267
+                  value: 20064753
                   color: '#b07219'
                 - name: ANTLR
                   value: 798179
@@ -4616,22 +4617,22 @@ landscape:
                   value: 3214
                   color: '#C1F12E'
               contributions: >-
-                51;70;86;81;99;92;98;90;124;49;73;78;89;80;62;59;63;45;70;53;86;120;86;113;132;126;109;71;102;99;75;105;110;108;126;81;126;114;129;128;164;138;104;138;75;98;88;117;130;140;201;138
+                51;73;84;91;92;89;106;94;129;34;73;79;83;84;57;63;64;43;71;52;101;112;83;114;155;109;95;77;108;92;72;112;106;120;118;89;128;103;135;137;149;140;117;121;84;95;96;113;132;145;197;144
               firstWeek: 2021-08-01Z
-              stars: 16751
+              stars: 16767
               license: Apache License 2.0
               description: >-
                 Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features &
                 more
-              latest_commit_date: '2022-07-28T17:34:22Z'
-              latest_commit_link: /apache/shardingsphere/commit/63bf3a03a8299b2e49d76ea80690c8871d83cc72
+              latest_commit_date: '2022-07-29T15:53:40Z'
+              latest_commit_link: /apache/shardingsphere/commit/0d1b0917b0d61477198c12f69cc4fafbedf75753
               release_date: '2022-06-17T10:21:27Z'
               release_link: https://github.com/apache/shardingsphere/releases
               contributors_count: 504
               contributors_link: https://github.com/apache/shardingsphere/graphs/contributors
             repos:
               - url: https://github.com/apache/shardingsphere
-                stars: 16751
+                stars: 16767
             github_start_commit_data:
               start_commit_link: /apache/shardingsphere/commit/03acfb18e18681686232fc440e0c79ce0dde1f17
               start_date: '2016-01-18T12:49:26Z'
@@ -4675,13 +4676,13 @@ landscape:
             github_data:
               languages: []
               contributions: >-
-                30;16;21;34;43;16;21;38;12;33;39;36;13;47;31;18;16;22;42;40;26;3;20;30;26;24;45;34;20;30;22;40;35;26;29;49;37;70;61;34;28;28;29;21;32;28;31;26;10;23;17;13
+                28;18;16;36;48;10;20;40;13;38;37;30;25;41;26;19;13;22;47;40;21;2;24;31;25;31;47;22;20;37;24;33;37;27;30;52;39;73;58;27;31;26;26;25;30;35;23;23;19;16;18;15
               firstWeek: 2021-08-01Z
               stars: 192
               license: Apache License 2.0
               description: Top-level source repository for Couchbase Server source code and build projects
-              latest_commit_date: '2022-07-28T22:40:51Z'
-              latest_commit_link: /couchbase/manifest/commit/d8273936d3ec2a2652585593f06170a8eb1b3012
+              latest_commit_date: '2022-07-29T23:29:21Z'
+              latest_commit_link: /couchbase/manifest/commit/b5999c98128c1f73abbce686f4ac86e84b2e68e3
               contributors_count: 143
               contributors_link: https://github.com/couchbase/manifest/graphs/contributors
             repos:
@@ -4691,7 +4692,7 @@ landscape:
               start_commit_link: /couchbase/manifest/commit/bc3982536aa65e7c3501c1e8822b0d6c6b653266
               start_date: '2010-12-22T20:14:51Z'
             yahoo_finance_data:
-              market_cap: 690542080
+              market_cap: 720098752
               effective_ticker: BASE
             image_data:
               fileName: couchbase.svg
@@ -4700,7 +4701,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T17:19:29.000Z
+              latest_tweet_date: 2022-07-29T16:17:02.000Z
           - item:
             name: FoundationDB
             homepage_url: https://www.foundationdb.org/
@@ -5013,22 +5014,22 @@ landscape:
             github_data:
               languages:
                 - name: C++
-                  value: 16469659
+                  value: 16488249
                   color: '#f34b7d'
                 - name: C
-                  value: 5729540
+                  value: 5730944
                   color: '#555555'
                 - name: Java
                   value: 933332
                   color: '#b07219'
                 - name: Python
-                  value: 917477
+                  value: 921565
                   color: '#3572A5'
                 - name: Go
                   value: 338695
                   color: '#00ADD8'
                 - name: CMake
-                  value: 293416
+                  value: 295412
                 - name: C#
                   value: 277269
                   color: '#178600'
@@ -5039,7 +5040,7 @@ landscape:
                   value: 110002
                   color: '#701516'
                 - name: Shell
-                  value: 106847
+                  value: 106998
                   color: '#89e051'
                 - name: Assembly
                   value: 31242
@@ -5056,25 +5057,25 @@ landscape:
                 - name: Rich Text Format
                   value: 424
               contributions: >-
-                109;129;93;150;101;79;77;101;52;64;106;97;80;74;58;99;72;49;104;59;33;12;22;63;58;89;94;122;144;103;126;127;165;140;146;128;167;101;124;109;96;85;64;48;57;63;59;111;55;112;118;123
+                120;131;111;140;85;87;76;93;52;67;110;101;84;61;64;103;54;73;89;50;33;9;34;60;67;89;98;130;128;109;135;124;167;141;148;124;161;104;121;101;98;77;72;40;59;76;58;114;50;112;119;127
               firstWeek: 2021-08-01Z
-              stars: 11495
+              stars: 11497
               license: Apache License 2.0
               description: FoundationDB - the open source, distributed, transactional key-value store
-              latest_commit_date: '2022-07-28T22:26:15Z'
-              latest_commit_link: /apple/foundationdb/commit/83d23512d24edfc676906bdb3aa44e828c2cc57c
+              latest_commit_date: '2022-07-29T23:20:08Z'
+              latest_commit_link: /apple/foundationdb/commit/85f2200d6b25cb4ee38248000efdf1bc38ce08c8
               release_date: '2022-07-27T03:07:39Z'
               release_link: https://github.com/apple/foundationdb/releases
               contributors_count: 238
               contributors_link: https://github.com/apple/foundationdb/graphs/contributors
             repos:
               - url: https://github.com/apple/foundationdb
-                stars: 11495
+                stars: 11497
             github_start_commit_data:
               start_commit_link: /apple/foundationdb/commit/a674cb4ef422ed595bf8473fc0b83cda4c471dc7
               start_date: '2017-05-25T20:48:44Z'
             yahoo_finance_data:
-              market_cap: 2546741280768
+              market_cap: 2639649832960
               effective_ticker: AAPL
             image_data:
               fileName: foundation-db.svg
@@ -5184,9 +5185,9 @@ landscape:
                   value: 542
                   color: '#e34c26'
               contributions: >-
-                41;30;32;61;73;70;90;47;55;60;62;40;83;84;61;50;47;36;42;43;31;30;36;45;56;71;76;66;81;59;51;37;72;42;56;59;53;41;75;57;57;51;63;17;65;38;43;40;1;1;3;1
+                38;21;46;51;71;76;92;42;62;55;61;63;74;75;62;44;54;35;39;41;33;25;39;51;62;72;71;79;78;43;58;36;74;40;51;63;61;42;71;48;61;48;60;31;68;34;55;42;32;16;21;34
               firstWeek: 2021-08-01Z
-              stars: 4374
+              stars: 4377
               license: GNU General Public License v2.0
               description: >-
                 MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with
@@ -5197,7 +5198,7 @@ landscape:
               contributors_link: https://github.com/MariaDB/server/graphs/contributors
             repos:
               - url: https://github.com/MariaDB/server
-                stars: 4374
+                stars: 4377
             github_start_commit_data:
               start_commit_link: /MariaDB/server/commit/7eec25e393727b16bb916b50d82b0aa3084e065c
               start_date: '2000-07-31T19:10:05Z'
@@ -5208,7 +5209,7 @@ landscape:
               badge: 4597
               percentage: 66
             twitter_data:
-              latest_tweet_date: 2022-07-28T23:08:00.000Z
+              latest_tweet_date: 2022-07-29T23:04:00.000Z
           - item:
             name: MongoDB
             homepage_url: https://www.mongodb.com/
@@ -5250,16 +5251,16 @@ landscape:
             github_data:
               languages:
                 - name: C++
-                  value: 71684518
+                  value: 71748480
                   color: '#f34b7d'
                 - name: JavaScript
-                  value: 22002877
+                  value: 22008319
                   color: '#f1e05a'
                 - name: Python
-                  value: 4706196
+                  value: 4647374
                   color: '#3572A5'
                 - name: Shell
-                  value: 150732
+                  value: 149277
                   color: '#89e051'
                 - name: TLA
                   value: 127097
@@ -5291,23 +5292,23 @@ landscape:
                   value: 8
                   color: '#C1F12E'
               contributions: >-
-                133;134;95;110;97;103;132;126;129;135;139;160;140;135;150;151;128;97;97;104;142;34;54;130;140;156;143;163;162;109;137;174;153;157;179;166;206;137;146;163;148;115;126;115;152;130;119;118;93;153;79;111
+                150;107;109;97;119;101;115;124;141;136;150;153;139;131;157;153;104;109;86;120;128;27;68;147;128;161;136;166;155;109;144;179;150;172;166;181;185;139;153;152;146;116;139;119;137;136;107;131;93;144;70;129
               firstWeek: 2021-08-01Z
-              stars: 22189
+              stars: 22193
               license: Other
               description: The MongoDB Database
-              latest_commit_date: '2022-07-28T23:11:50Z'
-              latest_commit_link: /mongodb/mongo/commit/5f83f7ee5c4756c31dcf7e249aa200bf7718362e
+              latest_commit_date: '2022-07-29T22:33:04Z'
+              latest_commit_link: /mongodb/mongo/commit/d2089eb428cd924660b229eedcf4685c71c812b5
               contributors_count: 949
               contributors_link: https://github.com/mongodb/mongo/graphs/contributors
             repos:
               - url: https://github.com/mongodb/mongo
-                stars: 22189
+                stars: 22193
             github_start_commit_data:
               start_commit_link: /mongodb/mongo/commit/e73188b5512c82290a4070af4afddac20d0b981e
               start_date: '2007-10-19T23:35:48Z'
             yahoo_finance_data:
-              market_cap: 20230836224
+              market_cap: 21283893248
               effective_ticker: MDB
             image_data:
               fileName: mongo-db.svg
@@ -5316,7 +5317,7 @@ landscape:
               badge: 293
               percentage: 79
             twitter_data:
-              latest_tweet_date: 2022-07-28T18:30:05.000Z
+              latest_tweet_date: 2022-07-29T19:29:00.000Z
           - item:
             name: MySQL
             homepage_url: https://www.oracle.com/mysql/
@@ -5774,9 +5775,9 @@ landscape:
                   value: 280
                   color: '#dad8d8'
               contributions: >-
-                67;83;100;87;135;124;95;74;89;82;79;59;141;163;119;114;156;111;109;77;54;22;28;66;120;118;100;94;88;92;79;88;98;87;64;63;82;17;42;32;39;18;19;20;17;3;1;4;1;0;0;0
+                69;93;87;106;146;98;97;84;79;79;85;60;197;113;117;126;151;100;107;80;41;16;32;69;143;116;94;85;103;85;69;96;95;79;65;82;59;20;41;34;33;20;15;26;12;1;2;3;1;0;0;0
               firstWeek: 2021-08-01Z
-              stars: 8069
+              stars: 8070
               license: Other
               description: MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
               latest_commit_date: '2022-07-06T18:02:18Z'
@@ -5785,12 +5786,12 @@ landscape:
               contributors_link: https://github.com/mysql/mysql-server/graphs/contributors
             repos:
               - url: https://github.com/mysql/mysql-server
-                stars: 8069
+                stars: 8070
             github_start_commit_data:
               start_commit_link: /mysql/mysql-server/commit/7eec25e393727b16bb916b50d82b0aa3084e065c
               start_date: '2000-07-31T19:10:05Z'
             yahoo_finance_data:
-              market_cap: 205306216448
+              market_cap: 210636587008
               effective_ticker: ORCL
             image_data:
               fileName: my-sql.svg
@@ -5799,7 +5800,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-27T23:46:58.000Z
+              latest_tweet_date: 2022-07-29T20:46:56.000Z
           - item:
             name: Neo4j
             homepage_url: https://neo4j.com
@@ -5861,9 +5862,9 @@ landscape:
                 - name: HTML
                   value: 146
                   color: '#e34c26'
-              contributions: 46;53;77;46;37;58;64;78;99;91;63;67;60;26;9;15;5;6;15;17;8;3;1;5;5;7;16;9;6;11;6;14;18;8;6;4;8;3;4;0;7;11;8;3;9;8;7;7;9;2;4;3
+              contributions: 51;62;64;50;46;49;68;81;111;76;65;68;51;19;10;14;5;11;9;17;8;2;1;6;5;10;14;9;4;11;6;15;18;7;7;5;6;5;2;0;8;12;6;7;7;8;6;7;8;5;2;2
               firstWeek: 2021-08-01Z
-              stars: 10246
+              stars: 10247
               license: Other
               description: Graphs for Everyone
               latest_commit_date: '2022-07-22T12:57:50Z'
@@ -5874,7 +5875,7 @@ landscape:
               contributors_link: https://github.com/neo4j/neo4j/graphs/contributors
             repos:
               - url: https://github.com/neo4j/neo4j
-                stars: 10246
+                stars: 10247
             github_start_commit_data:
               start_commit_link: /neo4j/neo4j/commit/6a945ab06a928bbd0f93dc56af279ee35107d7c3
               start_date: '2007-05-24T01:34:45Z'
@@ -5885,7 +5886,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T17:00:39.000Z
+              latest_tweet_date: 2022-07-29T21:26:02.000Z
           - item:
             name: Percona Server for MySQL
             homepage_url: https://www.percona.com/software/mysql-database/percona-server
@@ -6017,7 +6018,7 @@ landscape:
                   value: 280
                   color: '#dad8d8'
               contributions: >-
-                96;100;127;94;142;131;101;94;95;53;55;65;102;127;82;93;68;29;38;25;18;13;9;12;12;38;32;9;34;24;23;21;12;10;22;37;11;7;7;6;9;31;13;6;5;4;28;0;0;0;0;0
+                92;114;111;111;151;106;108;95;89;46;56;64;155;85;82;91;63;24;34;22;23;8;11;14;13;45;21;11;37;20;28;19;12;8;28;34;5;9;7;7;24;14;13;7;5;3;27;0;0;0;0;0
               firstWeek: 2021-08-01Z
               stars: 911
               license: Other
@@ -6041,7 +6042,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T21:31:00.000Z
+              latest_tweet_date: 2022-07-29T18:03:01.000Z
           - item:
             name: PostgreSQL
             homepage_url: https://www.postgresql.org/
@@ -6069,12 +6070,12 @@ landscape:
             github_data:
               languages:
                 - name: C
-                  value: 43088758
+                  value: 43090906
                   color: '#555555'
                 - name: PLpgSQL
-                  value: 3078394
+                  value: 3079404
                 - name: Perl
-                  value: 1743546
+                  value: 1745185
                   color: '#0298c3'
                 - name: Yacc
                   value: 677449
@@ -6122,20 +6123,20 @@ landscape:
                   value: 1834
                   color: '#64b970'
               contributions: >-
-                53;50;29;34;52;44;38;30;28;42;31;30;36;39;52;28;38;48;34;28;26;10;26;39;55;37;42;30;75;43;33;44;39;78;83;83;114;41;22;20;43;45;28;26;19;16;21;21;59;78;72;55
+                49;43;29;33;54;45;37;28;28;46;27;29;36;38;57;24;38;49;32;29;24;12;25;42;56;41;41;32;70;42;35;38;45;85;84;109;78;44;19;15;60;33;27;24;18;18;22;21;65;81;69;51
               firstWeek: 2021-08-01Z
-              stars: 10665
+              stars: 10673
               license: Other
               description: >-
                 Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute,
                 please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
-              latest_commit_date: '2022-07-28T20:03:42Z'
-              latest_commit_link: /postgres/postgres/commit/bbe08b8869bd29d587f24ef18eb45c7d4d14afca
+              latest_commit_date: '2022-07-29T21:54:19Z'
+              latest_commit_link: /postgres/postgres/commit/b998196bb59af02e985cfc93e1704773b5690fbf
               contributors_count: 52
               contributors_link: https://github.com/postgres/postgres/graphs/contributors
             repos:
               - url: https://github.com/postgres/postgres
-                stars: 10665
+                stars: 10673
             github_start_commit_data:
               start_commit_link: /postgres/postgres/commit/d31084e9d1118b25fd16580d9d8c2924b5740dff
               start_date: '1996-07-09T06:22:35Z'
@@ -6186,7 +6187,7 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 31667368
+                  value: 31667272
                   color: '#00ADD8'
                 - name: Java
                   value: 990163
@@ -6212,7 +6213,7 @@ landscape:
                   value: 36085
                   color: '#563d7c'
                 - name: Dockerfile
-                  value: 28716
+                  value: 28648
                   color: '#384d54'
                 - name: Smarty
                   value: 27536
@@ -6234,20 +6235,20 @@ landscape:
                   value: 198
                   color: '#6E4C13'
               contributions: >-
-                64;84;79;121;168;126;138;175;191;93;100;157;142;155;137;235;145;86;128;158;88;57;66;119;141;115;246;86;158;185;123;97;41;41;52;49;41;19;24;40;56;45;26;26;54;17;25;22;18;23;27;42
+                80;69;89;142;147;130;153;181;167;88;97;178;130;157;144;234;127;101;137;142;78;62;84;108;144;121;231;98;161;197;116;76;31;44;53;50;37;19;26;41;62;39;20;34;52;13;25;24;21;18;38;45
               firstWeek: 2021-08-01Z
-              stars: 14425
+              stars: 14430
               license: Apache License 2.0
               description: Vitess is a database clustering system for horizontal scaling of MySQL.
-              latest_commit_date: '2022-07-28T15:54:04Z'
-              latest_commit_link: /vitessio/vitess/commit/22406441548e303b801da3ad277a06de0482f784
+              latest_commit_date: '2022-07-29T21:21:21Z'
+              latest_commit_link: /vitessio/vitess/commit/1babd4d1322831ee216ee0e812d2ccc75723eefb
               release_date: '2022-07-27T15:12:23Z'
               release_link: https://github.com/vitessio/vitess/releases
-              contributors_count: 373
+              contributors_count: 374
               contributors_link: https://github.com/vitessio/vitess/graphs/contributors
             repos:
               - url: https://github.com/vitessio/vitess
-                stars: 14425
+                stars: 14430
             github_start_commit_data:
               start_commit_link: /vitessio/vitess/commit/8d483dc19ef660938bae3564af95d48a8017275f
               start_date: '2012-02-25T07:19:43Z'
@@ -6290,7 +6291,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 98954191
+                  value: 98953558
                   color: '#b07219'
                 - name: C++
                   value: 3158543
@@ -6336,18 +6337,18 @@ landscape:
                   value: 4613
                   color: '#384d54'
               contributions: >-
-                23;14;11;9;12;23;33;29;24;17;20;23;16;10;18;19;21;13;33;20;20;9;11;12;10;14;16;9;9;22;11;16;14;19;19;10;13;20;22;18;17;17;12;19;10;17;29;14;8;9;13;21
+                18;11;13;9;11;28;31;27;25;21;18;21;15;14;13;22;21;11;36;23;15;7;13;10;10;18;13;10;15;15;14;17;10;20;19;9;15;18;24;15;18;16;16;17;11;16;30;10;8;12;14;26
               firstWeek: 2021-08-01Z
-              stars: 12790
+              stars: 12789
               license: Apache License 2.0
               description: Apache Hadoop
-              latest_commit_date: '2022-07-28T18:53:04Z'
-              latest_commit_link: /apache/hadoop/commit/e994635a9580ca99c1f3408a6a6a98360c3c17ec
+              latest_commit_date: '2022-07-29T15:23:11Z'
+              latest_commit_link: /apache/hadoop/commit/2680f17eb49d7d6e117156108f9a013b38141999
               contributors_count: 697
               contributors_link: https://github.com/apache/hadoop/graphs/contributors
             repos:
               - url: https://github.com/apache/hadoop
-                stars: 12790
+                stars: 12789
             github_start_commit_data:
               start_commit_link: /apache/hadoop/commit/5128a9a453d64bfe1ed978cf9ffed27985eeef36
               start_date: '2009-05-19T04:20:40Z'
@@ -6423,7 +6424,7 @@ landscape:
                 - name: Makefile
                   value: 2506
                   color: '#427819'
-              contributions: 7;9;5;4;9;5;2;6;7;8;4;8;4;5;5;7;7;4;7;5;1;1;1;5;2;1;12;6;10;15;4;5;11;7;11;11;12;7;5;5;8;11;12;8;10;10;16;10;8;3;9;3
+              contributions: 6;8;8;4;6;5;3;5;8;7;4;8;5;5;7;5;6;4;8;4;1;1;2;5;1;1;14;6;13;11;4;6;11;8;11;9;14;4;6;5;8;11;12;13;6;11;14;11;6;4;10;1
               firstWeek: 2021-08-01Z
               stars: 844
               license: Apache License 2.0
@@ -6445,7 +6446,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T13:24:24.000Z
+              latest_tweet_date: 2022-07-29T13:29:01.000Z
           - item:
             name: Apache Kafka
             homepage_url: https://kafka.apache.org/
@@ -6474,10 +6475,10 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 33141785
+                  value: 33139926
                   color: '#b07219'
                 - name: Scala
-                  value: 9857722
+                  value: 9863807
                   color: '#c22d40'
                 - name: Python
                   value: 1135448
@@ -6501,18 +6502,18 @@ landscape:
                   value: 3739
                   color: '#e34c26'
               contributions: >-
-                24;17;8;13;21;24;10;19;16;5;12;13;14;8;11;22;15;15;10;15;13;1;4;15;9;21;22;21;28;15;16;25;29;25;28;25;16;24;17;15;21;26;16;19;31;24;14;16;16;17;16;20
+                24;12;9;14;19;24;10;20;16;5;9;17;13;7;10;26;14;12;14;13;11;0;15;7;8;23;24;21;25;15;18;27;27;27;29;20;16;27;13;15;24;25;17;20;28;25;16;11;21;13;21;20
               firstWeek: 2021-08-01Z
-              stars: 22621
+              stars: 22626
               license: Apache License 2.0
               description: Mirror of Apache Kafka
-              latest_commit_date: '2022-07-28T21:18:35Z'
-              latest_commit_link: /apache/kafka/commit/517e4d92785d136c4db5aa59af1d4a3eda0c4bfd
+              latest_commit_date: '2022-07-29T21:47:25Z'
+              latest_commit_link: /apache/kafka/commit/f7ac5d3d00f3cd3caa25c3003900bdb245d5252e
               contributors_count: 1138
               contributors_link: https://github.com/apache/kafka/graphs/contributors
             repos:
               - url: https://github.com/apache/kafka
-                stars: 22621
+                stars: 22626
             github_start_commit_data:
               start_commit_link: /apache/kafka/commit/642da2f28c9bc6e373603d6d9119ce33684090f5
               start_date: '2011-08-01T23:41:24Z'
@@ -6552,7 +6553,7 @@ landscape:
             github_data:
               languages:
                 - name: Scala
-                  value: 43329803
+                  value: 43328844
                   color: '#c22d40'
                 - name: Python
                   value: 7628507
@@ -6612,18 +6613,18 @@ landscape:
                 - name: ReScript
                   value: 240
               contributions: >-
-                60;55;52;40;34;35;45;50;57;30;59;55;54;56;60;66;48;54;53;50;52;59;49;53;56;61;27;52;55;67;65;61;68;58;47;62;69;81;69;43;44;64;53;48;49;52;58;51;62;62;36;50
+                58;55;55;40;29;39;44;53;51;35;63;52;54;48;65;69;48;52;48;53;55;59;43;63;50;57;29;59;49;68;62;73;64;52;56;53;76;77;73;35;51;66;49;46;51;54;53;50;62;58;37;52
               firstWeek: 2021-08-01Z
-              stars: 33504
+              stars: 33510
               license: Apache License 2.0
               description: Apache Spark - A unified analytics engine for large-scale data processing
-              latest_commit_date: '2022-07-28T23:07:24Z'
-              latest_commit_link: /apache/spark/commit/144d4c546f7023b20e07619134feca1a46017a5f
-              contributors_count: 2691
+              latest_commit_date: '2022-07-29T17:33:53Z'
+              latest_commit_link: /apache/spark/commit/5eb5077acf47e911f7a5299bb029d4e5a2702f9f
+              contributors_count: 2692
               contributors_link: https://github.com/apache/spark/graphs/contributors
             repos:
               - url: https://github.com/apache/spark
-                stars: 33504
+                stars: 33510
             github_start_commit_data:
               start_commit_link: /apache/spark/commit/df29d0ea4c8b7137fdd1844219c7d489e3b0d9c9
               start_date: '2010-03-29T23:17:55Z'
@@ -6692,7 +6693,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 126864354
+                  value: 126910276
                   color: '#b07219'
                 - name: Groovy
                   value: 317464
@@ -6733,25 +6734,25 @@ landscape:
                   value: 45
                   color: '#0050b2'
               contributions: >-
-                113;115;105;95;63;115;130;120;108;141;128;232;166;116;130;50;68;77;105;84;73;24;52;81;132;120;109;127;109;84;109;101;100;117;91;80;65;64;91;109;119;102;128;55;99;69;116;123;65;81;62;129
+                134;103;96;94;67;126;124;126;100;146;153;213;169;108;117;53;70;77;109;80;70;18;64;101;117;121;103;130;115;77;104;112;88;124;98;52;77;73;88;112;127;81;134;51;109;73;121;110;62;84;61;129
               firstWeek: 2021-08-01Z
-              stars: 60541
+              stars: 60555
               license: Other
               description: Free and Open, Distributed, RESTful Search Engine
-              latest_commit_date: '2022-07-28T22:21:07Z'
-              latest_commit_link: /elastic/elasticsearch/commit/476da8c4ed88ee493b2e25effaf6bb0de26e7ac4
+              latest_commit_date: '2022-07-29T22:39:12Z'
+              latest_commit_link: /elastic/elasticsearch/commit/18245ec9ef3637ffb6f5e3300d8de25dbe0b0331
               release_date: '2022-07-28T14:47:14Z'
               release_link: https://github.com/elastic/elasticsearch/releases
               contributors_count: 1906
               contributors_link: https://github.com/elastic/elasticsearch/graphs/contributors
             repos:
               - url: https://github.com/elastic/elasticsearch
-                stars: 60541
+                stars: 60555
             github_start_commit_data:
               start_commit_link: /elastic/elasticsearch/commit/ec72ca8b7a115f9b2eea3c76c518062b99a1d015
               start_date: '2010-02-08T13:22:27Z'
             yahoo_finance_data:
-              market_cap: 7502287360
+              market_cap: 7578173440
               effective_ticker: ESTC
             image_data:
               fileName: elasticsearch.svg
@@ -6760,7 +6761,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T18:50:01.000Z
+              latest_tweet_date: 2022-07-29T19:00:01.000Z
       - subcategory:
         name: File System
         items:
@@ -6792,7 +6793,7 @@ landscape:
             github_data:
               languages:
                 - name: C++
-                  value: 44216143
+                  value: 44268310
                   color: '#f34b7d'
                 - name: Python
                   value: 9101636
@@ -6803,13 +6804,13 @@ landscape:
                   value: 3284231
                   color: '#555555'
                 - name: TypeScript
-                  value: 2465860
+                  value: 2466180
                   color: '#2b7489'
                 - name: Shell
                   value: 2080927
                   color: '#89e051'
                 - name: CMake
-                  value: 667942
+                  value: 667973
                 - name: Cython
                   value: 606572
                 - name: HTML
@@ -6865,18 +6866,18 @@ landscape:
                 - name: SWIG
                   value: 951
               contributions: >-
-                198;242;172;160;137;175;156;151;138;117;143;187;159;159;148;134;154;149;139;120;116;60;81;129;149;134;124;119;130;96;92;140;97;127;123;115;171;111;116;108;127;155;86;87;106;125;103;96;132;96;90;114
+                234;218;182;145;143;188;145;142;143;110;169;172;165;155;141;128;162;154;122;140;97;50;94;147;140;132;115;129;117;94;94;143;99;122;127;113;177;110;111;124;134;135;75;97;105;123;97;109;130;92;103;111
               firstWeek: 2021-08-01Z
-              stars: 10782
+              stars: 10785
               license: Other
               description: 'Ceph is a distributed object, block, and file storage platform '
-              latest_commit_date: '2022-07-28T21:38:28Z'
-              latest_commit_link: /ceph/ceph/commit/c5975ce85be966ffc5e4f916d5bf797e65b7a0f5
+              latest_commit_date: '2022-07-29T19:12:39Z'
+              latest_commit_link: /ceph/ceph/commit/1ee0fd839cc6ec488f0aa4ec8360f5d6523e4a16
               contributors_count: 1657
               contributors_link: https://github.com/ceph/ceph/graphs/contributors
             repos:
               - url: https://github.com/ceph/ceph
-                stars: 10782
+                stars: 10785
             github_start_commit_data:
               start_commit_link: /ceph/ceph/commit/7091d44931086985a26cca2d263e307ad2f82001
               start_date: '2001-04-28T22:22:35Z'
@@ -6887,7 +6888,7 @@ landscape:
               badge: 2220
               percentage: 96
             twitter_data:
-              latest_tweet_date: 2022-07-26T22:13:47.000Z
+              latest_tweet_date: 2022-07-29T20:30:20.000Z
   - category:
     name: Protocol
     subcategories:
@@ -7553,25 +7554,25 @@ landscape:
                 - name: Awk
                   value: 684
               contributions: >-
-                42;9;13;13;38;2;48;15;37;36;43;36;27;11;10;20;20;7;7;4;16;1;14;21;9;23;35;33;22;17;32;24;27;26;31;35;12;23;47;30;31;42;44;33;20;24;32;27;47;30;46;28
+                40;9;15;20;29;16;34;20;38;36;45;36;23;10;12;15;20;7;7;13;8;0;14;27;8;22;38;29;24;15;35;26;25;26;26;39;9;29;45;27;34;49;40;33;22;15;34;41;31;37;49;24
               firstWeek: 2021-08-01Z
-              stars: 55556
+              stars: 55569
               license: Other
               description: Protocol Buffers - Google's data interchange format
-              latest_commit_date: '2022-07-28T15:18:42Z'
-              latest_commit_link: /protocolbuffers/protobuf/commit/53f7830b2115af50f067fda004c72d2c3b99710e
+              latest_commit_date: '2022-07-29T01:50:59Z'
+              latest_commit_link: /protocolbuffers/protobuf/commit/a321b050f5d72f726d29d9f542bfaf2636b9138f
               release_date: '2022-07-25T23:09:37Z'
               release_link: https://github.com/protocolbuffers/protobuf/releases
               contributors_count: 992
               contributors_link: https://github.com/protocolbuffers/protobuf/graphs/contributors
             repos:
               - url: https://github.com/protocolbuffers/protobuf
-                stars: 55556
+                stars: 55569
             github_start_commit_data:
               start_commit_link: /protocolbuffers/protobuf/commit/40ee551715c3a784ea6132dbf604b0e665ca2def
               start_date: '2008-07-10T02:12:20Z'
             yahoo_finance_data:
-              market_cap: 1505391673344
+              market_cap: 1517638123520
               effective_ticker: GOOG
             image_data:
               fileName: protocol-buffers.svg
@@ -7580,7 +7581,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T21:21:43.000Z
+              latest_tweet_date: 2022-07-29T19:00:32.000Z
           - item:
             name: TarsProtocol
             homepage_url: https://github.com/TarsCloud/TarsProtocol
@@ -7609,7 +7610,7 @@ landscape:
               languages:
                 - name: CMake
                   value: 2705
-              contributions: 0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;2;0;2;0;0;0;0;1;5;1;1;0;0;3;0;0;0;0;0
+              contributions: 0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;2;0;0;0;0;1;0;5;1;1;0;0;3;0;0;0;0;0
               firstWeek: 2021-08-01Z
               stars: 32
               license: BSD 3-Clause "New" or "Revised" License
@@ -7682,7 +7683,7 @@ landscape:
                 - name: Makefile
                   value: 3406
                   color: '#427819'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2021-08-01Z
               stars: 50
               license: BSD 3-Clause "New" or "Revised" License
@@ -7750,7 +7751,7 @@ landscape:
             github_data:
               languages:
                 - name: C++
-                  value: 16179856
+                  value: 16184451
                   color: '#f34b7d'
                 - name: Python
                   value: 3810669
@@ -7759,7 +7760,7 @@ landscape:
                   value: 1377920
                   color: '#555555'
                 - name: Starlark
-                  value: 793984
+                  value: 794529
                 - name: Shell
                   value: 765716
                   color: '#89e051'
@@ -7817,20 +7818,20 @@ landscape:
                   value: 14
                   color: '#e34c26'
               contributions: >-
-                37;60;45;49;54;50;50;41;57;55;58;54;31;48;38;52;43;24;47;36;17;18;13;38;39;55;30;34;42;48;30;32;40;39;43;41;33;47;29;38;47;34;54;43;56;33;26;44;39;43;44;39
+                43;52;42;60;50;51;44;45;51;65;53;51;31;52;40;49;34;32;51;30;16;16;13;40;43;54;28;37;43;42;33;33;39;42;41;40;37;45;23;43;45;39;53;42;52;36;26;44;40;51;35;38
               firstWeek: 2021-08-01Z
-              stars: 35084
+              stars: 35092
               license: Apache License 2.0
               description: The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-              latest_commit_date: '2022-07-28T23:13:56Z'
-              latest_commit_link: /grpc/grpc/commit/57e06148e54d02c8e6616f738ebc93c91b06a534
+              latest_commit_date: '2022-07-29T18:06:06Z'
+              latest_commit_link: /grpc/grpc/commit/658632fcd82aa673addc2b4b91860d4e2738f574
               release_date: '2022-07-19T20:06:54Z'
               release_link: https://github.com/grpc/grpc/releases
               contributors_count: 853
               contributors_link: https://github.com/grpc/grpc/graphs/contributors
             repos:
               - url: https://github.com/grpc/grpc
-                stars: 35084
+                stars: 35092
             github_start_commit_data:
               start_commit_link: /grpc/grpc/commit/0e905e63db21bcdd85d3d1af051fcdc5bb5caa38
               start_date: '2014-11-22T00:16:16Z'
@@ -7886,7 +7887,7 @@ landscape:
                 - name: C
                   value: 1016
                   color: '#555555'
-              contributions: 0;0;9;12;0;0;1;0;0;1;7;25;0;0;1;5;0;5;5;9;3;0;0;0;2;0;8;4;4;4;21;5;7;15;6;6;0;2;22;9;4;15;9;3;4;5;7;8;1;0;0;0
+              contributions: 0;0;19;2;0;0;1;0;0;3;5;25;0;0;1;5;0;7;7;5;3;0;0;0;2;0;8;4;4;4;21;5;8;14;10;2;0;4;23;7;3;16;8;4;8;0;7;8;1;0;0;0
               firstWeek: 2021-08-01Z
               stars: 164
               license: BSD 3-Clause "New" or "Revised" License
@@ -7990,9 +7991,9 @@ landscape:
                 - name: Dockerfile
                   value: 1030
                   color: '#384d54'
-              contributions: 2;2;0;2;5;2;2;2;2;2;1;1;1;1;1;1;1;1;1;0;1;1;1;2;0;2;7;3;3;1;4;2;1;1;4;3;2;1;0;1;4;2;1;1;0;0;3;3;0;2;0;1
+              contributions: 1;2;0;2;6;1;2;2;2;2;1;1;1;1;1;1;1;1;1;0;1;1;1;2;0;5;6;1;4;0;4;2;1;1;4;3;2;1;0;3;2;2;1;1;0;0;3;3;0;2;0;1
               firstWeek: 2021-08-01Z
-              stars: 10666
+              stars: 10670
               license: Apache License 2.0
               description: Apache ZooKeeper
               latest_commit_date: '2022-07-26T07:39:20Z'
@@ -8001,7 +8002,7 @@ landscape:
               contributors_link: https://github.com/apache/zookeeper/graphs/contributors
             repos:
               - url: https://github.com/apache/zookeeper
-                stars: 10666
+                stars: 10670
             github_start_commit_data:
               start_commit_link: /apache/zookeeper/commit/31275a67f8fa261dec38e0c5b6445d2b3d88975c
               start_date: '2008-05-19T17:51:27Z'
@@ -8012,7 +8013,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T20:18:14.000Z
+              latest_tweet_date: 2022-07-29T22:58:32.000Z
           - item:
             name: CoreDNS
             homepage_url: https://coredns.io/
@@ -8060,9 +8061,9 @@ landscape:
                 - name: Dockerfile
                   value: 254
                   color: '#384d54'
-              contributions: 7;6;11;2;7;6;12;7;5;7;8;2;6;6;8;9;13;4;4;10;10;1;4;8;7;12;14;14;10;17;10;16;19;9;6;11;8;5;16;11;5;11;9;13;7;5;11;17;13;7;14;5
+              contributions: 7;6;11;3;6;8;12;5;6;8;6;2;7;5;9;9;13;3;9;5;11;0;4;9;6;13;14;16;13;11;10;16;19;9;6;12;7;5;17;10;6;11;13;8;7;5;16;12;14;6;15;5
               firstWeek: 2021-08-01Z
-              stars: 9523
+              stars: 9529
               license: Apache License 2.0
               description: CoreDNS is a DNS server that chains plugins
               latest_commit_date: '2022-07-28T14:51:08Z'
@@ -8073,7 +8074,7 @@ landscape:
               contributors_link: https://github.com/coredns/coredns/graphs/contributors
             repos:
               - url: https://github.com/coredns/coredns
-                stars: 9523
+                stars: 9529
             github_start_commit_data:
               start_commit_link: /coredns/coredns/commit/3ec0d9fe6b133a64712ae69fd712c14ad1a71f4d
               start_date: '2016-03-18T20:57:35Z'
@@ -8124,7 +8125,7 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 5261937
+                  value: 5261946
                   color: '#00ADD8'
                 - name: Shell
                   value: 134366
@@ -8135,7 +8136,7 @@ landscape:
                 - name: Procfile
                   value: 36955
                 - name: Makefile
-                  value: 17892
+                  value: 18037
                   color: '#427819'
                 - name: Python
                   value: 10960
@@ -8143,20 +8144,20 @@ landscape:
                 - name: Dockerfile
                   value: 5895
                   color: '#384d54'
-              contributions: 18;14;5;5;6;6;8;9;16;27;15;19;17;5;5;8;10;5;6;5;16;11;5;9;49;30;26;5;37;35;26;15;30;38;12;54;41;24;28;12;28;26;24;8;11;33;22;25;10;23;10;21
+              contributions: 18;11;5;6;5;6;7;10;17;29;11;22;15;4;5;9;11;6;4;6;16;10;5;12;49;35;17;8;37;37;22;16;31;40;16;52;36;25;30;14;24;36;11;8;17;33;18;25;11;20;14;21
               firstWeek: 2021-08-01Z
-              stars: 40691
+              stars: 40699
               license: Apache License 2.0
               description: Distributed reliable key-value store for the most critical data of a distributed system
-              latest_commit_date: '2022-07-28T12:57:49Z'
-              latest_commit_link: /etcd-io/etcd/commit/223b33f23c0cd61c3b8f2549344a884ffb1dcaef
+              latest_commit_date: '2022-07-29T07:47:43Z'
+              latest_commit_link: /etcd-io/etcd/commit/046c46e52e829580131ca131e90b82ac96348225
               release_date: '2022-07-12T08:43:08Z'
               release_link: https://github.com/etcd-io/etcd/releases
-              contributors_count: 858
+              contributors_count: 859
               contributors_link: https://github.com/etcd-io/etcd/graphs/contributors
             repos:
               - url: https://github.com/etcd-io/etcd
-                stars: 40691
+                stars: 40699
             github_start_commit_data:
               start_commit_link: /etcd-io/etcd/commit/20ca21a3f7122cf7caa91cb0e9b9c69be9279950
               start_date: '2013-06-07T00:43:32Z'
@@ -8226,9 +8227,9 @@ landscape:
                 - name: Shell
                   value: 889
                   color: '#89e051'
-              contributions: 0;1;4;1;0;0;0;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 1;1;3;1;0;0;0;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2021-08-01Z
-              stars: 11397
+              stars: 11398
               license: Apache License 2.0
               description: AWS Service registry for resilient mid-tier load balancing and failover.
               latest_commit_date: '2021-11-16T19:49:37Z'
@@ -8239,12 +8240,12 @@ landscape:
               contributors_link: https://github.com/Netflix/eureka/graphs/contributors
             repos:
               - url: https://github.com/Netflix/eureka
-                stars: 11397
+                stars: 11398
             github_start_commit_data:
               start_commit_link: /Netflix/eureka/commit/fc7003ca080348d037ff918ba646034c33d6c85c
               start_date: '2001-01-03T18:11:32Z'
             yahoo_finance_data:
-              market_cap: 100512448512
+              market_cap: 100014374912
               effective_ticker: NFLX
             image_data:
               fileName: netflix-eureka.svg
@@ -8369,7 +8370,7 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 13315891
+                  value: 13331520
                   color: '#00ADD8'
                 - name: SCSS
                   value: 2915760
@@ -8396,27 +8397,27 @@ landscape:
                   value: 1205
                   color: '#e34c26'
               contributions: >-
-                61;43;38;51;48;41;62;108;70;54;56;64;81;56;63;54;34;50;110;101;49;8;35;156;82;78;68;67;46;69;59;33;33;39;49;51;44;40;87;39;52;32;51;47;42;76;110;40;20;44;50;69
+                57;46;36;58;45;33;95;82;68;53;57;68;81;50;63;54;33;67;101;92;47;5;50;158;78;88;67;56;47;77;47;27;34;44;55;50;47;40;78;41;53;37;46;51;33;84;106;33;26;45;55;62
               firstWeek: 2021-08-01Z
-              stars: 25140
+              stars: 25144
               license: Mozilla Public License 2.0
               description: >-
                 Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed
                 infrastructure.
-              latest_commit_date: '2022-07-28T19:31:02Z'
-              latest_commit_link: /hashicorp/consul/commit/92c615c35f781634e90956b71012a09aa11045e1
+              latest_commit_date: '2022-07-29T22:09:57Z'
+              latest_commit_link: /hashicorp/consul/commit/1348e44f8f01611a6df70f9428cdab8a3eccab96
               release_date: '2022-07-13T23:35:57Z'
               release_link: https://github.com/hashicorp/consul/releases
               contributors_count: 924
               contributors_link: https://github.com/hashicorp/consul/graphs/contributors
             repos:
               - url: https://github.com/hashicorp/consul
-                stars: 25140
+                stars: 25144
             github_start_commit_data:
               start_commit_link: /hashicorp/consul/commit/0a7996bc4f504894dbd09bac349a2d9999ec9dd6
               start_date: '2013-11-04T22:15:27Z'
             yahoo_finance_data:
-              market_cap: 6676544512
+              market_cap: 6682076672
               effective_ticker: HCP
             image_data:
               fileName: consul.svg
@@ -8425,7 +8426,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T21:40:01.000Z
+              latest_tweet_date: 2022-07-29T22:36:00.000Z
           - item:
             name: Istio
             homepage_url: https://istio.io/
@@ -9013,7 +9014,7 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 12036661
+                  value: 12044572
                   color: '#00ADD8'
                 - name: Shell
                   value: 148232
@@ -9041,25 +9042,25 @@ landscape:
                   value: 317
                   color: '#701516'
               contributions: >-
-                57;42;57;34;41;36;51;44;25;34;43;39;31;48;52;48;43;37;53;30;32;14;30;40;33;51;29;55;57;44;69;67;63;72;48;40;54;44;57;43;41;62;42;34;40;41;37;60;49;59;37;53
+                63;34;62;29;47;41;39;44;27;32;45;38;34;49;65;38;34;42;50;32;27;17;31;40;35;55;28;50;61;42;73;66;65;74;45;34;58;46;55;42;45;58;40;32;46;40;41;54;49;60;46;41
               firstWeek: 2021-08-01Z
-              stars: 30964
+              stars: 30968
               license: Apache License 2.0
               description: Connect, secure, control, and observe services.
-              latest_commit_date: '2022-07-28T20:28:38Z'
-              latest_commit_link: /istio/istio/commit/f15e4a14798b987d3afe0787d14de09f860c58c3
+              latest_commit_date: '2022-07-29T22:28:08Z'
+              latest_commit_link: /istio/istio/commit/59c8b93892c3dc9a4e99a4e329e7fa51c45ed9ab
               release_date: '2022-07-25T19:02:58Z'
               release_link: https://github.com/istio/istio/releases
               contributors_count: 947
               contributors_link: https://github.com/istio/istio/graphs/contributors
             repos:
               - url: https://github.com/istio/istio
-                stars: 30964
+                stars: 30968
             github_start_commit_data:
               start_commit_link: /istio/istio/commit/0216e811e9da88b867742710f7d166cef2eabfbc
               start_date: '2016-11-18T23:57:24Z'
             yahoo_finance_data:
-              market_cap: 1505391673344
+              market_cap: 1517638123520
               effective_ticker: GOOG
             image_data:
               fileName: istio.svg
@@ -9068,7 +9069,7 @@ landscape:
               badge: 1395
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2022-07-28T22:01:04.000Z
+              latest_tweet_date: 2022-07-29T22:01:00.000Z
           - item:
             name: Linkerd
             homepage_url: https://linkerd.io/
@@ -9114,18 +9115,18 @@ landscape:
                   value: 435410
                   color: '#f1e05a'
                 - name: Rust
-                  value: 345082
+                  value: 349359
                   color: '#dea584'
                 - name: Shell
-                  value: 93147
+                  value: 93224
                   color: '#89e051'
                 - name: Dockerfile
-                  value: 23896
+                  value: 24195
                   color: '#384d54'
                 - name: Smarty
                   value: 16373
                 - name: Makefile
-                  value: 15075
+                  value: 15092
                   color: '#427819'
                 - name: CSS
                   value: 6471
@@ -9144,20 +9145,20 @@ landscape:
                 - name: jq
                   value: 332
               contributions: >-
-                23;23;30;25;29;35;30;31;24;24;29;22;21;30;28;24;28;27;25;26;39;9;20;22;27;40;37;54;28;33;23;27;28;41;23;24;30;26;31;50;31;25;30;31;25;23;39;22;32;26;40;44
+                21;26;31;24;24;38;31;38;15;32;18;23;21;32;31;21;28;26;32;18;39;8;22;26;26;42;33;54;36;25;28;25;26;39;29;23;25;28;36;47;25;28;31;28;26;22;38;28;28;39;29;49
               firstWeek: 2021-08-01Z
-              stars: 8679
+              stars: 8682
               license: Apache License 2.0
               description: Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-              latest_commit_date: '2022-07-28T20:35:14Z'
-              latest_commit_link: /linkerd/linkerd2/commit/21bf27e541a9f0eb33c319325d6c4a35f20fb58a
+              latest_commit_date: '2022-07-29T21:24:52Z'
+              latest_commit_link: /linkerd/linkerd2/commit/75bbbb9146fce7fb4ca70b67cc615d268c6f51bf
               release_date: '2022-07-28T15:58:32Z'
               release_link: https://github.com/linkerd/linkerd2/releases
               contributors_count: 264
               contributors_link: https://github.com/linkerd/linkerd2/graphs/contributors
             repos:
               - url: https://github.com/linkerd/linkerd2
-                stars: 8679
+                stars: 8682
             github_start_commit_data:
               start_commit_link: /linkerd/linkerd2/commit/b104bd0676091740b48ca7490596a7cd12327284
               start_date: '2017-12-05T00:17:02Z'
@@ -9224,9 +9225,9 @@ landscape:
                 - name: Groovy
                   value: 11488
                   color: '#e69f56'
-              contributions: 5;7;3;3;2;0;2;0;0;0;0;1;0;6;4;16;1;4;2;6;0;0;6;1;2;3;24;1;11;0;2;6;2;3;2;2;0;0;0;1;0;0;0;0;2;0;0;3;1;3;1;0
+              contributions: 7;4;3;3;2;0;2;0;0;0;0;1;3;6;1;16;1;4;4;4;0;0;7;0;2;6;21;2;10;1;3;6;0;3;2;2;0;0;0;1;0;0;0;0;2;0;0;3;1;3;1;0
               firstWeek: 2021-08-01Z
-              stars: 12075
+              stars: 12079
               license: Apache License 2.0
               description: Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
               latest_commit_date: '2022-07-15T16:35:58Z'
@@ -9237,12 +9238,12 @@ landscape:
               contributors_link: https://github.com/Netflix/zuul/graphs/contributors
             repos:
               - url: https://github.com/Netflix/zuul
-                stars: 12075
+                stars: 12079
             github_start_commit_data:
               start_commit_link: /Netflix/zuul/commit/697fd66aae9beed107e13f49a741455f1d9d8dd9
               start_date: '2012-03-18T08:07:52Z'
             yahoo_finance_data:
-              market_cap: 100512448512
+              market_cap: 100014374912
               effective_ticker: NFLX
             image_data:
               fileName: netflix-zuul.svg
@@ -9299,7 +9300,7 @@ landscape:
                 - name: HTML
                   value: 7514
                   color: '#e34c26'
-              contributions: 22;4;2;5;5;0;11;0;8;3;8;5;3;19;6;3;5;1;1;0;5;6;1;4;9;1;3;5;10;4;8;2;4;18;8;5;7;0;0;2;9;17;10;16;3;15;0;0;12;0;0;3
+              contributions: 21;3;2;9;1;1;10;0;8;6;6;4;3;20;5;3;5;1;1;1;5;5;3;5;6;1;3;5;10;4;8;2;4;22;4;5;7;0;0;2;9;18;9;17;4;13;0;2;10;0;0;3
               firstWeek: 2021-08-01Z
               stars: 11374
               license: Apache License 2.0
@@ -9323,7 +9324,7 @@ landscape:
               badge: 1189
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2022-06-12T21:22:01.000Z
+              latest_tweet_date: 2022-07-29T19:22:23.000Z
           - item:
             name: Grafana Loki
             homepage_url: https://grafana.com/oss/loki
@@ -9407,20 +9408,20 @@ landscape:
                 - name: Open Policy Agent
                   value: 546
               contributions: >-
-                14;21;15;20;23;7;18;18;13;25;19;15;38;48;29;21;17;24;21;11;25;5;34;35;31;29;43;20;24;17;35;36;20;26;18;16;56;22;18;52;14;25;26;26;35;39;26;22;25;34;29;17
+                14;21;20;16;19;14;14;16;15;29;15;19;37;51;21;23;15;26;20;17;17;5;40;39;27;34;37;19;24;20;36;32;28;18;16;25;49;28;12;53;13;29;25;24;37;39;22;27;28;28;30;17
               firstWeek: 2021-08-01Z
-              stars: 16618
+              stars: 16627
               license: GNU Affero General Public License v3.0
               description: Like Prometheus, but for logs.
-              latest_commit_date: '2022-07-28T18:29:22Z'
-              latest_commit_link: /grafana/loki/commit/de288ccbb82c522c3c463cacc164a10aba690b79
+              latest_commit_date: '2022-07-29T16:03:06Z'
+              latest_commit_link: /grafana/loki/commit/3bbc5a92f109edcd73da8509848bf7f14ab08740
               release_date: '2022-07-18T11:36:22Z'
               release_link: https://github.com/grafana/loki/releases
               contributors_count: 565
               contributors_link: https://github.com/grafana/loki/graphs/contributors
             repos:
               - url: https://github.com/grafana/loki
-                stars: 16618
+                stars: 16627
             github_start_commit_data:
               start_commit_link: /grafana/loki/commit/511006e57b5250c9918f1250b10641485fd91c1a
               start_date: '2018-04-15T13:31:38Z'
@@ -9431,7 +9432,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-27T21:31:41.000Z
+              latest_tweet_date: 2022-07-29T20:12:35.000Z
       - subcategory:
         name: Monitoring
         items:
@@ -9471,7 +9472,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T19:33:22.000Z
+              latest_tweet_date: 2022-07-29T13:51:01.000Z
           - item:
             name: Grafana
             homepage_url: https://grafana.com/
@@ -9511,10 +9512,10 @@ landscape:
             github_data:
               languages:
                 - name: TypeScript
-                  value: 16298639
+                  value: 16320642
                   color: '#2b7489'
                 - name: Go
-                  value: 10425682
+                  value: 10448013
                   color: '#00ADD8'
                 - name: JavaScript
                   value: 356317
@@ -9537,7 +9538,7 @@ landscape:
                 - name: CUE
                   value: 37717
                 - name: Dockerfile
-                  value: 35158
+                  value: 35145
                   color: '#384d54'
                 - name: Python
                   value: 23487
@@ -9561,22 +9562,22 @@ landscape:
                   value: 168
                   color: '#6E4C13'
               contributions: >-
-                83;68;88;90;92;73;115;94;96;100;97;120;117;121;122;140;161;119;77;93;116;23;74;123;95;106;122;177;127;126;122;96;88;112;85;154;125;97;127;154;80;155;219;146;160;200;163;142;102;134;155;171
+                76;65;96;86;93;80;108;101;94;98;104;116;113;123;129;143;146;124;66;112;97;17;97;117;94;107;134;181;122;122;131;72;94;111;98;146;128;107;129;152;57;187;210;147;163;187;165;141;120;125;140;171
               firstWeek: 2021-08-01Z
-              stars: 50148
+              stars: 50167
               license: GNU Affero General Public License v3.0
               description: >-
                 The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like
                 Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-              latest_commit_date: '2022-07-28T21:51:37Z'
-              latest_commit_link: /grafana/grafana/commit/7c40257bafc951fd7d2ecf111d95cfd8d2462283
+              latest_commit_date: '2022-07-29T20:19:28Z'
+              latest_commit_link: /grafana/grafana/commit/046a2602ffa8cefa3e2fdaab4d9ba3fdf2c9fc1c
               release_date: '2022-07-26T14:26:52Z'
               release_link: https://github.com/grafana/grafana/releases
-              contributors_count: 1996
+              contributors_count: 1997
               contributors_link: https://github.com/grafana/grafana/graphs/contributors
             repos:
               - url: https://github.com/grafana/grafana
-                stars: 50148
+                stars: 50167
             github_start_commit_data:
               start_commit_link: /grafana/grafana/commit/75d03fc49ab4f95ee414f730563f14cbdad9ee64
               start_date: '2013-01-26T04:00:59Z'
@@ -9587,7 +9588,7 @@ landscape:
               badge: 3252
               percentage: 42
             twitter_data:
-              latest_tweet_date: 2022-07-27T21:31:41.000Z
+              latest_tweet_date: 2022-07-29T20:12:35.000Z
           - item:
             name: Netdata
             homepage_url: https://www.netdata.cloud
@@ -9626,7 +9627,7 @@ landscape:
                   value: 1501985
                   color: '#f1e05a'
                 - name: Python
-                  value: 1350409
+                  value: 1350599
                   color: '#3572A5'
                 - name: Jupyter Notebook
                   value: 826534
@@ -9662,20 +9663,20 @@ landscape:
                   value: 71
                   color: '#4F5D95'
               contributions: >-
-                12;27;18;13;13;12;16;35;36;26;26;27;38;21;23;29;14;20;12;21;20;6;7;25;48;21;17;18;28;53;36;39;51;34;39;38;37;35;26;47;42;50;36;34;26;28;36;39;41;40;17;21
+                13;28;17;15;8;15;17;39;32;28;22;33;32;24;26;25;13;19;14;17;26;0;7;33;46;19;16;23;31;49;37;37;52;37;40;30;37;34;32;48;42;45;36;37;22;37;28;54;30;36;17;24
               firstWeek: 2021-08-01Z
-              stars: 60084
+              stars: 60096
               license: GNU General Public License v3.0
               description: Real-time performance monitoring, done right! https://www.netdata.cloud
-              latest_commit_date: '2022-07-28T20:59:32Z'
-              latest_commit_link: /netdata/netdata/commit/ed52c959de2e0232170087a3e743562522c1ebfa
+              latest_commit_date: '2022-07-29T20:16:16Z'
+              latest_commit_link: /netdata/netdata/commit/e2be6f942a409150a0e5b50e9db55ec559846a96
               release_date: '2022-06-10T14:15:47Z'
               release_link: https://github.com/netdata/netdata/releases
               contributors_count: 555
               contributors_link: https://github.com/netdata/netdata/graphs/contributors
             repos:
               - url: https://github.com/netdata/netdata
-                stars: 60084
+                stars: 60096
             github_start_commit_data:
               start_commit_link: /netdata/netdata/commit/f994501cb7f44f37d594f65bc228be700c019bed
               start_date: '2013-06-17T18:39:10Z'
@@ -9686,7 +9687,7 @@ landscape:
               badge: 2231
               percentage: 93
             twitter_data:
-              latest_tweet_date: 2022-07-13T10:45:38.000Z
+              latest_tweet_date: 2022-07-29T15:30:12.000Z
           - item:
             name: Prometheus
             homepage_url: https://prometheus.io/
@@ -9758,20 +9759,20 @@ landscape:
                   value: 1270
                   color: '#384d54'
               contributions: >-
-                31;21;10;41;33;41;36;20;20;15;9;34;36;25;36;64;45;32;37;27;32;14;20;27;17;8;30;5;21;15;3;36;13;10;16;12;18;13;13;15;6;5;33;8;31;20;19;9;24;10;23;5
+                26;21;8;45;37;38;41;11;21;13;10;41;30;25;37;73;38;30;42;25;33;9;24;23;16;9;30;5;21;13;13;29;12;11;15;19;17;8;11;16;5;4;35;10;34;16;18;18;14;20;13;4
               firstWeek: 2021-08-01Z
-              stars: 43559
+              stars: 43578
               license: Apache License 2.0
               description: The Prometheus monitoring system and time series database.
-              latest_commit_date: '2022-07-27T16:40:16Z'
-              latest_commit_link: /prometheus/prometheus/commit/58ba1d0afaa9186225e6ae90e57c2ec80de097df
+              latest_commit_date: '2022-07-29T01:39:03Z'
+              latest_commit_link: /prometheus/prometheus/commit/be330ac0356fb447613b29501ca4e882211a0b78
               release_date: '2022-07-14T15:41:38Z'
               release_link: https://github.com/prometheus/prometheus/releases
-              contributors_count: 826
+              contributors_count: 827
               contributors_link: https://github.com/prometheus/prometheus/graphs/contributors
             repos:
               - url: https://github.com/prometheus/prometheus
-                stars: 43559
+                stars: 43578
             github_start_commit_data:
               start_commit_link: /prometheus/prometheus/commit/734d28b515026ca9f429eba0a7d09954bceb6387
               start_date: '2012-11-24T11:14:12Z'
@@ -9839,7 +9840,7 @@ landscape:
                 - name: Python
                   value: 6063
                   color: '#3572A5'
-              contributions: 0;0;1;0;0;1;2;0;1;1;0;0;1;0;0;4;7;6;2;9;4;0;1;1;0;0;0;4;6;0;2;2;1;0;5;0;3;0;3;2;0;0;0;1;1;0;1;0;0;4;1;0
+              contributions: 0;0;1;0;0;1;2;0;2;0;0;0;1;0;0;5;8;4;5;9;1;0;1;1;0;0;0;4;6;1;2;1;1;1;4;0;3;0;4;1;0;0;0;1;1;0;1;0;0;4;1;0
               firstWeek: 2021-08-01Z
               stars: 6961
               license: Other
@@ -9863,7 +9864,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T21:09:05.000Z
+              latest_tweet_date: 2022-07-29T20:47:03.000Z
           - item:
             name: Zabbix
             homepage_url: https://www.zabbix.com/
@@ -9890,10 +9891,10 @@ landscape:
             github_data:
               languages:
                 - name: PHP
-                  value: 19054363
+                  value: 19057533
                   color: '#4F5D95'
                 - name: C
-                  value: 16316958
+                  value: 16316955
                   color: '#555555'
                 - name: Go
                   value: 1444214
@@ -9902,10 +9903,10 @@ landscape:
                   value: 1049581
                   color: '#f1e05a'
                 - name: CSS
-                  value: 984259
+                  value: 983413
                   color: '#563d7c'
                 - name: SCSS
-                  value: 257020
+                  value: 257550
                 - name: M4
                   value: 200990
                 - name: Makefile
@@ -9929,18 +9930,18 @@ landscape:
                   value: 456
                   color: '#EB8CEB'
               contributions: >-
-                134;129;185;229;201;257;212;196;240;215;181;211;241;196;176;162;113;178;187;200;181;70;107;225;201;208;167;188;116;152;113;127;92;107;249;212;202;132;240;204;238;226;252;165;251;94;115;42;45;82;49;9
+                126;151;178;246;205;246;209;191;233;217;190;217;223;196;186;127;137;177;190;204;163;65;126;233;214;208;149;180;126;140;109;115;99;143;232;222;202;136;225;202;231;260;225;166;245;121;96;50;71;65;40;22
               firstWeek: 2021-08-01Z
-              stars: 2383
+              stars: 2384
               license: GNU General Public License v2.0
               description: Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
-              latest_commit_date: '2022-07-28T14:23:42Z'
-              latest_commit_link: /zabbix/zabbix/commit/4b785508dc6c047e1d7d9c690b735a0cd6d62000
+              latest_commit_date: '2022-07-29T19:29:08Z'
+              latest_commit_link: /zabbix/zabbix/commit/d0c3b7b19c723c093116bfefdeaad1312aaca6ba
               contributors_count: 130
               contributors_link: https://github.com/zabbix/zabbix/graphs/contributors
             repos:
               - url: https://github.com/zabbix/zabbix
-                stars: 2383
+                stars: 2384
             github_start_commit_data:
               start_commit_link: /zabbix/zabbix/commit/cedf98f7d6709022f5a7119da6323c1922bc07b6
               start_date: '2001-03-28T06:45:24Z'
@@ -9951,7 +9952,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T11:01:07.000Z
+              latest_tweet_date: 2022-07-29T14:19:03.000Z
       - subcategory:
         name: Configuration
         items:
@@ -10021,25 +10022,25 @@ landscape:
                 - name: Batchfile
                   value: 2286
                   color: '#C1F12E'
-              contributions: 1;10;4;3;10;3;8;2;3;5;6;6;4;3;2;4;3;3;3;3;3;2;3;4;2;3;3;0;1;1;0;1;3;5;3;6;3;1;3;1;3;0;3;4;3;4;3;3;5;4;1;4
+              contributions: 4;7;4;7;6;4;7;2;3;5;6;6;4;3;2;4;3;3;4;2;3;2;3;4;3;3;2;0;2;0;0;1;4;4;3;6;3;1;3;1;3;0;3;5;3;4;2;5;5;2;3;3
               firstWeek: 2021-08-01Z
-              stars: 27064
+              stars: 27068
               license: Apache License 2.0
               description: Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
-              latest_commit_date: '2022-07-26T02:26:48Z'
-              latest_commit_link: /apolloconfig/apollo/commit/0f7dc800a89716efe68b9eb836544ee25964a72f
+              latest_commit_date: '2022-07-29T01:30:35Z'
+              latest_commit_link: /apolloconfig/apollo/commit/4a61fcbb4aa789ef7d1752b9c46348cd766c84a4
               release_date: '2022-06-04T06:13:12Z'
               release_link: https://github.com/apolloconfig/apollo/releases
               contributors_count: 145
               contributors_link: https://github.com/apolloconfig/apollo/graphs/contributors
             repos:
               - url: https://github.com/apolloconfig/apollo
-                stars: 27064
+                stars: 27068
             github_start_commit_data:
               start_commit_link: /ctripcorp/apollo/commit/7f86c5ee0a0cbe99f3e893ac3e8b76518c218520
               start_date: '2016-03-04T10:24:23Z'
             yahoo_finance_data:
-              market_cap: 20835164805
+              market_cap: 20899073086
               effective_ticker: CTRP.VI
             image_data:
               fileName: apollo.svg
@@ -10077,7 +10078,7 @@ landscape:
             github_data:
               languages:
                 - name: C
-                  value: 5349982
+                  value: 5350744
                   color: '#555555'
                 - name: Shell
                   value: 281652
@@ -10119,13 +10120,13 @@ landscape:
                   color: '#384d54'
                 - name: Smarty
                   value: 216
-              contributions: 14;9;9;7;2;2;2;5;3;4;10;12;15;6;4;6;16;4;5;4;1;1;5;8;7;11;1;3;3;4;2;27;3;8;7;10;1;0;5;3;1;1;0;11;11;13;4;5;2;0;7;2
+              contributions: 14;5;10;7;2;1;2;5;3;8;8;11;19;2;5;5;15;5;4;4;1;1;7;8;5;12;0;5;1;4;12;17;6;5;9;8;1;1;4;3;1;1;6;8;12;9;4;5;2;0;7;5
               firstWeek: 2021-08-01Z
               stars: 414
               license: Other
               description: CFEngine Community
-              latest_commit_date: '2022-07-28T07:17:05Z'
-              latest_commit_link: /cfengine/core/commit/01f1fed74c37df57de50b6e5edec247038764227
+              latest_commit_date: '2022-07-29T09:52:29Z'
+              latest_commit_link: /cfengine/core/commit/118ce5f33cc0f03ba53c600c1239e69ad8150768
               contributors_count: 143
               contributors_link: https://github.com/cfengine/core/graphs/contributors
             repos:
@@ -10203,7 +10204,7 @@ landscape:
                 - name: Batchfile
                   value: 594
                   color: '#C1F12E'
-              contributions: 32;19;13;17;18;20;28;8;16;30;17;17;19;14;16;13;8;13;10;19;11;0;11;21;5;4;4;4;11;4;14;4;12;5;1;13;5;7;8;4;7;8;2;0;0;3;3;7;9;4;3;2
+              contributions: 28;15;16;15;22;26;21;5;18;29;20;12;20;17;17;14;5;17;10;16;7;0;12;21;5;7;0;7;10;6;10;8;11;2;7;7;5;9;6;7;4;8;2;0;1;4;1;8;8;6;3;0
               firstWeek: 2021-08-01Z
               stars: 6631
               license: Apache License 2.0
@@ -10225,7 +10226,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T16:52:11.000Z
+              latest_tweet_date: 2022-07-29T22:16:04.000Z
       - subcategory:
         name: Tracing
         items:
@@ -10257,7 +10258,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 5777236
+                  value: 5777404
                   color: '#b07219'
                 - name: Shell
                   value: 34684
@@ -10295,20 +10296,20 @@ landscape:
                 - name: PHP
                   value: 1052
                   color: '#4F5D95'
-              contributions: 12;10;14;13;21;20;13;9;23;2;17;14;15;11;7;5;11;12;8;4;6;4;3;6;8;7;8;4;9;5;11;7;13;16;15;29;14;9;12;11;21;13;17;12;9;11;8;3;6;7;5;6
+              contributions: 7;13;12;17;19;18;13;10;23;0;20;13;15;10;7;4;12;15;4;4;8;2;4;8;5;8;7;5;8;5;12;10;11;17;18;24;16;8;10;12;23;14;15;11;10;11;6;4;5;9;5;7
               firstWeek: 2021-08-01Z
-              stars: 19857
+              stars: 19863
               license: Apache License 2.0
               description: APM, Application Performance Monitoring System
-              latest_commit_date: '2022-07-28T08:57:08Z'
-              latest_commit_link: /apache/skywalking/commit/e26f63f3b97eb9b58e114db7ee19ab6ec399c676
+              latest_commit_date: '2022-07-29T13:20:11Z'
+              latest_commit_link: /apache/skywalking/commit/554c55457dcf9aca4d896c2af32ea8a3e6778ebd
               release_date: '2022-06-10T03:01:22Z'
               release_link: https://github.com/apache/skywalking/releases
-              contributors_count: 431
+              contributors_count: 432
               contributors_link: https://github.com/apache/skywalking/graphs/contributors
             repos:
               - url: https://github.com/apache/skywalking
-                stars: 19857
+                stars: 19863
             github_start_commit_data:
               start_commit_link: /apache/skywalking/commit/78befc0eb756f166a838337f0eacc699155ff602
               start_date: '2015-11-07T03:30:37Z'
@@ -10319,7 +10320,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-23T13:39:24.000Z
+              latest_tweet_date: 2022-07-29T11:05:48.000Z
           - item:
             name: Jaeger
             homepage_url: https://www.jaegertracing.io/
@@ -10385,9 +10386,9 @@ landscape:
                 - name: sed
                   value: 158
                   color: '#64b970'
-              contributions: 4;10;8;9;2;7;10;2;4;10;2;10;4;11;3;3;6;4;6;8;6;2;1;4;3;8;4;9;6;3;5;8;5;4;3;2;11;5;7;3;9;10;6;10;12;2;6;3;9;5;1;3
+              contributions: 7;10;6;8;2;9;7;2;4;10;8;6;3;10;3;3;7;6;3;12;3;1;1;4;7;4;8;5;7;2;6;10;3;4;3;1;13;4;6;3;9;10;7;10;11;2;7;4;8;4;2;4
               firstWeek: 2021-08-01Z
-              stars: 16119
+              stars: 16125
               license: Apache License 2.0
               description: CNCF Jaeger, a Distributed Tracing Platform
               latest_commit_date: '2022-07-28T19:45:03Z'
@@ -10398,7 +10399,7 @@ landscape:
               contributors_link: https://github.com/jaegertracing/jaeger/graphs/contributors
             repos:
               - url: https://github.com/jaegertracing/jaeger
-                stars: 16119
+                stars: 16125
             github_start_commit_data:
               start_commit_link: /jaegertracing/jaeger/commit/4dc35c9e83518c339cbf0bc52c7b39cd028e7659
               start_date: '2016-04-18T22:22:11Z'
@@ -10460,20 +10461,20 @@ landscape:
                 - name: Roff
                   value: 107
                   color: '#ecdebe'
-              contributions: 6;8;3;7;5;3;6;10;12;11;8;17;10;10;13;6;9;15;4;13;6;0;8;8;2;7;7;10;11;7;10;10;6;12;14;7;12;7;7;4;4;7;12;10;2;8;3;10;5;11;6;6
+              contributions: 6;8;3;7;4;5;6;9;14;9;8;19;11;12;7;8;8;15;3;15;4;0;8;8;3;8;8;8;14;5;11;9;5;13;12;9;11;7;6;4;5;11;10;8;1;8;7;8;3;12;6;7
               firstWeek: 2021-08-01Z
-              stars: 2746
+              stars: 2747
               license: Apache License 2.0
               description: Specifications for OpenTelemetry
-              latest_commit_date: '2022-07-28T15:08:32Z'
-              latest_commit_link: /open-telemetry/opentelemetry-specification/commit/3de977792acf35f46d656b3665e888a65de56760
+              latest_commit_date: '2022-07-29T18:31:23Z'
+              latest_commit_link: /open-telemetry/opentelemetry-specification/commit/39bacbbb15812126290b795efa0c44cbcf064b40
               release_date: '2022-06-10T14:10:56Z'
               release_link: https://github.com/open-telemetry/opentelemetry-specification/releases
-              contributors_count: 199
+              contributors_count: 200
               contributors_link: https://github.com/open-telemetry/opentelemetry-specification/graphs/contributors
             repos:
               - url: https://github.com/open-telemetry/opentelemetry-specification
-                stars: 2746
+                stars: 2747
             github_start_commit_data:
               start_commit_link: /open-telemetry/opentelemetry-specification/commit/4e9fb68f21822414e252aae3943d3426fce0eb4d
               start_date: '2019-05-01T20:05:13Z'
@@ -10531,7 +10532,7 @@ landscape:
                   color: '#427819'
               contributions: 0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2021-08-01Z
-              stars: 3381
+              stars: 3382
               license: Apache License 2.0
               description: OpenTracing API for Go. 🛑 This library is DEPRECATED! https://github.com/opentracing/specification/issues/163
               latest_commit_date: '2022-02-28T01:24:49Z'
@@ -10542,7 +10543,7 @@ landscape:
               contributors_link: https://github.com/opentracing/opentracing-go/graphs/contributors
             repos:
               - url: https://github.com/opentracing/opentracing-go
-                stars: 3381
+                stars: 3382
             github_start_commit_data:
               start_commit_link: /opentracing/opentracing-go/commit/3089998b243182f7b28fbbad3229e0fad871ecbf
               start_date: '2015-11-26T06:23:17Z'
@@ -10715,9 +10716,9 @@ landscape:
                 - name: Shell
                   value: 1787
                   color: '#89e051'
-              contributions: 4;6;0;6;4;3;1;4;1;8;4;9;6;7;11;2;7;12;10;10;1;1;7;1;3;2;11;0;1;3;2;1;0;0;1;1;5;7;14;0;3;3;11;10;1;8;0;2;1;3;0;0
+              contributions: 4;6;1;6;3;3;1;4;4;5;4;9;8;7;9;2;7;14;8;10;1;1;7;1;3;4;9;0;4;2;0;1;0;1;0;1;9;6;11;1;2;3;14;7;4;5;0;3;0;3;0;0
               firstWeek: 2021-08-01Z
-              stars: 1609
+              stars: 1610
               license: Apache License 2.0
               description: Distributed tracing for spring cloud
               latest_commit_date: '2022-07-13T13:13:59Z'
@@ -10726,12 +10727,12 @@ landscape:
               contributors_link: https://github.com/spring-cloud/spring-cloud-sleuth/graphs/contributors
             repos:
               - url: https://github.com/spring-cloud/spring-cloud-sleuth
-                stars: 1609
+                stars: 1610
             github_start_commit_data:
               start_commit_link: /spring-cloud/spring-cloud-sleuth/commit/f0c8a4e458bac2cfd68d91e3fd7610ab059c2fb9
               start_date: '2015-03-06T20:51:47Z'
             yahoo_finance_data:
-              market_cap: 49039339520
+              market_cap: 48971907072
               effective_ticker: VMW
             image_data:
               fileName: spring-cloud-sleuth.svg
@@ -10740,7 +10741,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T23:00:46.000Z
+              latest_tweet_date: 2022-07-29T23:30:14.000Z
           - item:
             name: Zipkin
             homepage_url: https://zipkin.io/
@@ -10792,9 +10793,9 @@ landscape:
                 - name: CSS
                   value: 647
                   color: '#563d7c'
-              contributions: 0;0;0;0;1;0;7;0;0;0;0;0;1;0;0;2;7;6;2;17;3;0;3;0;0;1;12;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;0;0;0;0
+              contributions: 0;0;0;0;1;7;0;0;0;0;0;0;1;0;0;2;10;4;1;17;3;0;3;0;0;13;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;0;0;0;0
               firstWeek: 2021-08-01Z
-              stars: 15550
+              stars: 15555
               license: Apache License 2.0
               description: Zipkin is a distributed tracing system
               latest_commit_date: '2022-06-28T12:57:56Z'
@@ -10805,7 +10806,7 @@ landscape:
               contributors_link: https://github.com/openzipkin/zipkin/graphs/contributors
             repos:
               - url: https://github.com/openzipkin/zipkin
-                stars: 15550
+                stars: 15555
             github_start_commit_data:
               start_commit_link: /openzipkin/zipkin/commit/6e0efb29482edb2b388fb5440bd8846388baf665
               start_date: '2012-06-06T18:28:34Z'
@@ -10880,7 +10881,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T15:15:59.000Z
+              latest_tweet_date: 2022-07-29T15:40:34.000Z
           - item:
             name: Baetyl
             homepage_url: https://www.lfedge.org/projects/baetyl/
@@ -10916,7 +10917,7 @@ landscape:
                 - name: Dockerfile
                   value: 344
                   color: '#384d54'
-              contributions: 0;0;0;0;0;0;2;0;0;0;1;1;1;2;0;0;4;1;2;1;2;1;1;1;1;2;0;0;3;1;1;1;0;0;0;0;0;2;1;0;3;0;0;0;0;0;0;0;0;0;0;1
+              contributions: 0;0;0;0;0;0;2;0;0;0;1;1;1;2;0;0;4;1;3;1;1;1;1;1;1;2;0;0;4;0;1;1;0;0;0;0;0;3;0;1;2;0;0;0;0;0;0;0;0;0;0;2
               firstWeek: 2021-08-01Z
               stars: 1728
               license: Apache License 2.0
@@ -10940,7 +10941,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T15:15:59.000Z
+              latest_tweet_date: 2022-07-29T15:40:34.000Z
           - item:
             name: EdgeX Foundry
             homepage_url: https://www.lfedge.org/projects/edgexfoundry/
@@ -10968,7 +10969,7 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 1775914
+                  value: 1776235
                   color: '#00ADD8'
                 - name: Shell
                   value: 62279
@@ -10981,18 +10982,18 @@ landscape:
                   color: '#427819'
                 - name: HCL
                   value: 1909
-              contributions: 11;12;6;8;4;6;8;3;19;11;9;13;9;13;5;11;5;9;5;3;1;0;5;4;3;2;5;2;1;2;3;0;6;15;10;12;20;10;17;9;9;6;7;0;3;0;4;2;10;5;1;2
+              contributions: 9;10;9;6;3;11;6;1;24;6;11;12;12;8;9;8;6;8;6;2;0;1;5;4;4;2;4;1;1;2;3;0;7;15;18;10;14;11;19;5;10;5;7;0;3;0;5;1;11;5;0;3
               firstWeek: 2021-08-01Z
-              stars: 1054
+              stars: 1057
               license: Apache License 2.0
               description: 'EdgeX Golang Services Monorepo | Owner: Core/Support WG'
-              latest_commit_date: '2022-07-28T22:07:16Z'
-              latest_commit_link: /edgexfoundry/edgex-go/commit/85bfaaf41fb18e31d9518f9b5afa2644dc38ea98
+              latest_commit_date: '2022-07-29T18:01:46Z'
+              latest_commit_link: /edgexfoundry/edgex-go/commit/a9913775ba844ac49f5eb06b88cc0e63275269c3
               contributors_count: 103
               contributors_link: https://github.com/edgexfoundry/edgex-go/graphs/contributors
             repos:
               - url: https://github.com/edgexfoundry/edgex-go
-                stars: 1054
+                stars: 1057
             github_start_commit_data:
               start_commit_link: /edgexfoundry/edgex-go/commit/5d4f832b5efaee071ca93cc0d475a31c78b6a2fc
               start_date: '2017-12-01T20:13:25Z'
@@ -11003,7 +11004,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T15:15:59.000Z
+              latest_tweet_date: 2022-07-29T15:40:34.000Z
           - item:
             name: EVE
             homepage_url: https://www.lfedge.org/projects/eve/
@@ -11065,13 +11066,13 @@ landscape:
                   color: '#3be133'
                 - name: NSIS
                   value: 9
-              contributions: 19;8;21;16;11;10;12;15;11;18;13;15;12;14;5;14;14;16;8;13;18;9;2;13;5;17;12;11;17;14;12;9;15;7;3;10;8;10;7;18;16;6;11;12;14;21;14;22;12;9;11;6
+              contributions: 12;9;21;15;14;8;11;17;9;20;12;15;14;10;5;18;17;11;11;9;18;9;4;10;6;18;12;14;13;14;12;10;15;5;4;10;10;8;10;15;16;8;8;12;15;31;6;23;12;9;10;3
               firstWeek: 2021-08-01Z
               stars: 357
               license: Apache License 2.0
               description: 'EVE is Edge Virtualization Engine '
-              latest_commit_date: '2022-07-28T19:54:55Z'
-              latest_commit_link: /lf-edge/eve/commit/c4f183d73825bd1fd6e1c6bcabd334223eebd4ce
+              latest_commit_date: '2022-07-29T19:39:36Z'
+              latest_commit_link: /lf-edge/eve/commit/4ab4a1133daf0d0130995928030be5747361e207
               release_date: '2022-07-25T18:43:25Z'
               release_link: https://github.com/lf-edge/eve/releases
               contributors_count: 83
@@ -11089,7 +11090,7 @@ landscape:
               badge: 4746
               percentage: 51
             twitter_data:
-              latest_tweet_date: 2022-07-28T15:15:59.000Z
+              latest_tweet_date: 2022-07-29T15:40:34.000Z
           - item:
             name: Fledge
             homepage_url: https://www.lfedge.org/projects/fledge/
@@ -11134,7 +11135,7 @@ landscape:
                   value: 3872
                   color: '#555555'
               contributions: >-
-                18;13;10;3;14;15;13;15;17;31;28;22;29;21;16;20;13;7;12;19;23;5;1;0;14;18;30;25;26;38;24;7;14;25;36;23;21;26;22;17;28;33;12;8;16;34;24;18;21;21;23;15
+                15;15;7;8;11;14;15;15;20;26;37;17;28;18;18;23;10;5;11;23;19;5;1;0;16;22;24;30;29;31;23;11;17;23;37;20;20;30;24;12;32;27;14;7;25;27;26;16;26;17;22;11
               firstWeek: 2021-08-01Z
               stars: 72
               license: Apache License 2.0
@@ -11158,7 +11159,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T15:15:59.000Z
+              latest_tweet_date: 2022-07-29T15:40:34.000Z
           - item:
             name: HomeEdge
             homepage_url: https://www.lfedge.org/projects/homeedge/
@@ -11203,7 +11204,7 @@ landscape:
                 - name: CSS
                   value: 802
                   color: '#563d7c'
-              contributions: 0;13;1;4;1;4;4;0;3;2;1;4;2;5;1;1;5;2;1;6;4;1;2;0;1;3;4;6;5;3;3;0;4;5;3;5;0;3;1;5;2;0;2;2;2;0;1;1;1;1;1;3
+              contributions: 0;13;3;2;3;3;3;2;2;1;2;4;2;4;2;0;7;1;1;5;4;1;2;0;1;4;5;4;5;4;2;2;3;4;4;4;0;3;2;4;2;2;0;2;2;1;0;1;1;2;0;3
               firstWeek: 2021-08-01Z
               stars: 70
               license: Apache License 2.0
@@ -11227,7 +11228,7 @@ landscape:
               badge: 4336
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2022-07-28T15:15:59.000Z
+              latest_tweet_date: 2022-07-29T15:40:34.000Z
           - item:
             name: KubeEdge
             homepage_url: https://kubeedge.io/en/
@@ -11280,9 +11281,9 @@ landscape:
                   color: '#384d54'
                 - name: Mustache
                   value: 1288
-              contributions: 9;5;26;7;38;53;25;21;32;2;15;14;13;14;16;17;64;47;32;29;30;22;7;10;13;14;3;4;8;6;8;34;48;18;23;14;23;21;11;2;8;4;14;11;4;19;34;31;10;16;2;4
+              contributions: 8;11;21;10;41;50;27;26;23;0;21;9;15;13;22;22;65;35;39;22;36;20;3;9;18;8;3;9;6;4;16;36;44;19;17;16;27;15;11;1;7;8;12;9;5;28;36;23;7;16;2;7
               firstWeek: 2021-08-01Z
-              stars: 5165
+              stars: 5167
               license: Apache License 2.0
               description: Kubernetes Native Edge Computing Framework (project under CNCF)
               latest_commit_date: '2022-07-28T11:42:19Z'
@@ -11293,7 +11294,7 @@ landscape:
               contributors_link: https://github.com/kubeedge/kubeedge/graphs/contributors
             repos:
               - url: https://github.com/kubeedge/kubeedge
-                stars: 5165
+                stars: 5167
             github_start_commit_data:
               start_commit_link: /kubeedge/kubeedge/commit/316bd63786ff57353772847626f5f7df7f1e1f53
               start_date: '2018-09-28T08:57:50Z'
@@ -11343,7 +11344,7 @@ landscape:
                 - name: Dockerfile
                   value: 2793
                   color: '#384d54'
-              contributions: 29;38;35;23;27;6;13;14;7;11;16;14;5;8;8;3;1;2;3;2;0;0;3;6;10;15;7;10;10;17;8;16;19;5;17;4;8;28;18;9;35;23;29;17;27;16;18;14;26;9;4;6
+              contributions: 27;48;23;27;23;4;14;17;7;10;18;9;8;4;10;2;0;3;2;2;0;0;4;10;7;14;11;7;12;15;8;21;13;9;13;3;12;31;14;14;31;28;22;18;28;17;17;17;20;8;5;6
               firstWeek: 2021-08-01Z
               stars: 60
               license: Apache License 2.0
@@ -11367,7 +11368,7 @@ landscape:
               badge: 5084
               percentage: 42
             twitter_data:
-              latest_tweet_date: 2022-07-28T15:15:59.000Z
+              latest_tweet_date: 2022-07-29T15:40:34.000Z
           - item:
             name: State of the Edge
             homepage_url: https://www.lfedge.org/projects/stateoftheedge/
@@ -11420,7 +11421,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T15:15:59.000Z
+              latest_tweet_date: 2022-07-29T15:40:34.000Z
       - subcategory:
         name: API Gateway
         items:
@@ -11452,7 +11453,7 @@ landscape:
             github_data:
               languages:
                 - name: Lua
-                  value: 1501925
+                  value: 1502039
                   color: '#000080'
                 - name: Shell
                   value: 198056
@@ -11484,20 +11485,20 @@ landscape:
                   value: 1921
                   color: '#555555'
               contributions: >-
-                23;22;25;15;21;23;17;19;17;4;17;21;20;21;23;18;22;23;24;23;19;18;17;19;27;25;13;14;27;21;33;28;29;24;19;12;21;21;25;9;30;29;21;14;12;17;20;20;14;18;23;9
+                23;22;23;20;21;19;18;19;16;2;20;19;21;21;25;17;22;21;28;20;21;18;17;17;28;23;12;18;23;26;34;24;29;24;20;14;22;17;27;15;27;24;23;12;14;16;24;17;13;20;20;11
               firstWeek: 2021-08-01Z
-              stars: 9772
+              stars: 9778
               license: Apache License 2.0
               description: The Cloud-Native API Gateway
-              latest_commit_date: '2022-07-28T08:18:13Z'
-              latest_commit_link: /apache/apisix/commit/d702d07d4bcef00eb125764e5fd1e5d101cd8d00
+              latest_commit_date: '2022-07-29T09:15:38Z'
+              latest_commit_link: /apache/apisix/commit/7945e6d98b4f03576af92c2255b52e367952d5f7
               release_date: '2022-07-28T06:33:42Z'
               release_link: https://github.com/apache/apisix/releases
               contributors_count: 327
               contributors_link: https://github.com/apache/apisix/graphs/contributors
             repos:
               - url: https://github.com/apache/apisix
-                stars: 9772
+                stars: 9778
             github_start_commit_data:
               start_commit_link: /apache/incubator-apisix/commit/7742c553d1292743369e00a805115b77c478ba7c
               start_date: '2019-04-10T02:02:06Z'
@@ -11508,7 +11509,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T08:03:29.000Z
+              latest_tweet_date: 2022-07-29T08:15:17.000Z
           - item:
             name: Envoy
             homepage_url: https://www.envoyproxy.io
@@ -11548,15 +11549,15 @@ landscape:
             github_data:
               languages:
                 - name: C++
-                  value: 33635147
+                  value: 33674038
                   color: '#f34b7d'
                 - name: Starlark
-                  value: 1944697
+                  value: 1945729
                 - name: Python
                   value: 571816
                   color: '#3572A5'
                 - name: Shell
-                  value: 176340
+                  value: 176555
                   color: '#89e051'
                 - name: Jinja
                   value: 46306
@@ -11576,6 +11577,9 @@ landscape:
                   color: '#384d54'
                 - name: Thrift
                   value: 748
+                - name: CSS
+                  value: 598
+                  color: '#563d7c'
                 - name: Go
                   value: 558
                   color: '#00ADD8'
@@ -11591,21 +11595,24 @@ landscape:
                 - name: JavaScript
                   value: 76
                   color: '#f1e05a'
+                - name: HTML
+                  value: 68
+                  color: '#e34c26'
               contributions: >-
-                42;45;37;41;52;36;48;41;63;60;60;40;47;36;49;39;21;28;32;35;18;10;14;65;48;54;36;54;50;38;39;33;77;58;49;54;57;52;74;66;49;71;50;39;48;48;60;60;35;59;106;52
+                43;44;36;47;49;29;50;49;61;60;57;43;46;35;44;41;16;33;28;35;16;12;27;65;42;49;43;55;49;33;41;40;77;54;49;52;58;51;85;58;50;73;43;47;38;55;66;53;37;78;93;42
               firstWeek: 2021-08-01Z
-              stars: 20094
+              stars: 20102
               license: Apache License 2.0
               description: Cloud-native high-performance edge/middle/service proxy
-              latest_commit_date: '2022-07-28T23:10:26Z'
-              latest_commit_link: /envoyproxy/envoy/commit/f2666f54b8432ea8db2d82af39e93039f93f5153
+              latest_commit_date: '2022-07-29T16:57:01Z'
+              latest_commit_link: /envoyproxy/envoy/commit/8e64f2b9d221ddfbad9e48cf3bcd28c861c03b41
               release_date: '2022-07-28T12:39:15Z'
               release_link: https://github.com/envoyproxy/envoy/releases
-              contributors_count: 1005
+              contributors_count: 1006
               contributors_link: https://github.com/envoyproxy/envoy/graphs/contributors
             repos:
               - url: https://github.com/envoyproxy/envoy
-                stars: 20094
+                stars: 20102
             github_start_commit_data:
               start_commit_link: /envoyproxy/envoy/commit/a714b9c2b0a2acc9da44098cabff69586134a0dd
               start_date: '2016-08-08T15:07:25Z'
@@ -11672,20 +11679,20 @@ landscape:
                 - name: Dockerfile
                   value: 2012
                   color: '#384d54'
-              contributions: 10;9;12;15;15;4;8;13;15;6;1;4;4;7;6;12;14;5;6;3;14;4;5;3;6;8;7;15;7;7;9;19;12;16;17;23;20;7;14;10;9;12;7;7;4;11;7;9;10;7;9;7
+              contributions: 11;9;14;12;16;4;11;10;15;6;1;5;3;7;5;14;12;6;6;4;13;5;3;7;3;7;13;12;7;6;12;15;14;18;17;25;16;9;11;9;13;8;9;5;5;10;7;8;12;5;11;10
               firstWeek: 2021-08-01Z
-              stars: 3480
+              stars: 3481
               license: Apache License 2.0
               description: The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
               latest_commit_date: '2022-07-28T21:51:48Z'
               latest_commit_link: /solo-io/gloo/commit/e402705b1bf9dd52ca58f0edab9c881b75274534
-              release_date: '2022-07-28T13:45:19Z'
+              release_date: '2022-07-29T13:45:38Z'
               release_link: https://github.com/solo-io/gloo/releases
               contributors_count: 137
               contributors_link: https://github.com/solo-io/gloo/graphs/contributors
             repos:
               - url: https://github.com/solo-io/gloo
-                stars: 3480
+                stars: 3481
             github_start_commit_data:
               start_commit_link: /solo-io/gloo/commit/68f091e58125110221cbfe8a2009a6a4c5f83b23
               start_date: '2018-12-06T00:30:52Z'
@@ -11696,7 +11703,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T23:00:10.000Z
+              latest_tweet_date: 2022-07-29T19:58:01.000Z
           - item:
             name: Kong
             homepage_url: https://konghq.com/
@@ -11755,10 +11762,9 @@ landscape:
                 - name: Dockerfile
                   value: 138
                   color: '#384d54'
-              contributions: >-
-                8;16;11;21;24;14;13;12;20;11;17;7;11;18;21;19;8;29;15;9;21;8;5;19;8;12;8;13;30;17;16;11;11;17;20;11;29;12;7;8;14;12;34;20;30;17;24;17;18;31;20;29
+              contributions: 14;10;19;14;26;11;19;7;23;13;11;8;17;12;24;15;9;30;18;8;21;6;4;19;10;9;8;19;24;22;14;15;5;23;15;18;20;15;6;9;13;19;28;20;30;23;19;20;15;32;22;23
               firstWeek: 2021-08-01Z
-              stars: 32546
+              stars: 32566
               license: Apache License 2.0
               description: '🦍 The Cloud-Native API Gateway '
               latest_commit_date: '2022-07-28T17:42:42Z'
@@ -11769,7 +11775,7 @@ landscape:
               contributors_link: https://github.com/Kong/kong/graphs/contributors
             repos:
               - url: https://github.com/Kong/kong
-                stars: 32546
+                stars: 32566
             github_start_commit_data:
               start_commit_link: /Kong/kong/commit/ffd70b3101ba38d9acc776038d124f6e2fccac3c
               start_date: '2014-11-17T23:56:08Z'
@@ -11780,7 +11786,7 @@ landscape:
               badge: 1938
               percentage: 19
             twitter_data:
-              latest_tweet_date: 2022-07-28T18:42:38.000Z
+              latest_tweet_date: 2022-07-29T15:02:21.000Z
           - item:
             name: TarsGateway
             homepage_url: https://github.com/TarsCloud/TarsGateway
@@ -11833,7 +11839,7 @@ landscape:
                 - name: Makefile
                   value: 330
                   color: '#427819'
-              contributions: 0;0;0;0;2;0;0;4;1;1;7;0;10;0;0;0;0;0;0;0;0;4;6;17;0;7;0;5;0;0;0;0;0;0;0;0;0;0;9;0;0;0;0;0;0;21;2;9;5;0;2;1
+              contributions: 0;0;0;0;2;0;3;1;1;1;7;0;10;0;0;0;0;0;0;0;0;4;7;16;0;7;0;5;0;0;0;0;0;0;0;0;0;2;7;0;0;0;0;0;0;21;2;9;5;0;2;1
               firstWeek: 2021-08-01Z
               stars: 46
               license: BSD 3-Clause "New" or "Revised" License
@@ -11956,7 +11962,7 @@ landscape:
                   color: '#384d54'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2021-08-01Z
-              stars: 32762
+              stars: 32763
               license: Other
               description: 'Caffe: a fast open framework for deep learning.'
               latest_commit_date: '2020-02-13T07:20:36Z'
@@ -11967,7 +11973,7 @@ landscape:
               contributors_link: https://github.com/BVLC/caffe/graphs/contributors
             repos:
               - url: https://github.com/BVLC/caffe
-                stars: 32762
+                stars: 32763
             github_start_commit_data:
               start_commit_link: /BVLC/caffe/commit/c24f3c3f9914ca8fc946e7129acd5fa50c16c65f
               start_date: '2013-09-12T18:39:48Z'
@@ -11978,7 +11984,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-21T21:00:30.000Z
+              latest_tweet_date: 2022-07-29T02:12:22.000Z
           - item:
             name: Keras
             homepage_url: https://keras.io/
@@ -12005,7 +12011,7 @@ landscape:
             github_data:
               languages:
                 - name: Python
-                  value: 11145429
+                  value: 11145965
                   color: '#3572A5'
                 - name: Starlark
                   value: 272874
@@ -12016,20 +12022,20 @@ landscape:
                   value: 900
                   color: '#384d54'
               contributions: >-
-                36;67;27;36;31;29;35;45;19;23;26;12;16;18;28;28;24;15;29;14;19;4;9;35;16;36;26;34;40;22;34;51;23;36;35;47;45;52;23;19;27;30;26;63;15;7;13;14;20;30;18;23
+                51;49;31;30;30;29;34;45;20;24;27;13;11;16;36;28;18;24;20;16;16;5;14;29;24;37;23;35;36;24;35;49;28;31;45;34;47;54;19;20;33;23;52;39;13;12;6;21;18;27;24;19
               firstWeek: 2021-08-01Z
-              stars: 55781
+              stars: 55790
               license: Apache License 2.0
               description: Deep Learning for humans
-              latest_commit_date: '2022-07-28T21:36:35Z'
-              latest_commit_link: /keras-team/keras/commit/dc01c981d7f67ad195bfc3ca983b316f1719ccc1
+              latest_commit_date: '2022-07-29T23:23:14Z'
+              latest_commit_link: /keras-team/keras/commit/4dadd89a9cfac302cbcaf6f457ebd22dce96db40
               release_date: '2022-05-13T20:03:15Z'
               release_link: https://github.com/keras-team/keras/releases
               contributors_count: 1090
               contributors_link: https://github.com/keras-team/keras/graphs/contributors
             repos:
               - url: https://github.com/keras-team/keras
-                stars: 55781
+                stars: 55790
             github_start_commit_data:
               start_commit_link: /keras-team/keras/commit/1f0bd8cac393d7da2e5845b5ffce5f4a8568006f
               start_date: '2015-03-28T00:35:42Z'
@@ -12066,24 +12072,24 @@ landscape:
             github_data:
               languages:
                 - name: C++
-                  value: 46824638
+                  value: 46852875
                   color: '#f34b7d'
                 - name: Python
-                  value: 35345943
+                  value: 35408232
                   color: '#3572A5'
                 - name: Cuda
-                  value: 3926636
+                  value: 3926682
                   color: '#3A4E3A'
                 - name: C
                   value: 3021056
                   color: '#555555'
                 - name: Objective-C++
-                  value: 1153525
+                  value: 1154174
                   color: '#6866fb'
                 - name: CMake
                   value: 860307
                 - name: Starlark
-                  value: 443189
+                  value: 443493
                 - name: Shell
                   value: 334343
                   color: '#89e051'
@@ -12143,20 +12149,20 @@ landscape:
                   value: 154
                   color: '#199f4b'
               contributions: >-
-                204;170;191;212;236;142;200;203;180;214;245;220;208;212;199;184;156;144;221;200;200;65;113;220;127;206;214;201;212;170;213;175;221;173;195;246;241;243;238;232;263;304;266;190;278;313;268;245;189;255;263;308
+                194;160;214;218;236;136;189;206;182;217;237;223;235;197;191;173;133;203;193;208;187;53;138;209;138;212;203;189;232;170;203;178;226;158;215;250;236;231;255;222;288;293;255;193;305;282;263;245;202;254;271;295
               firstWeek: 2021-08-01Z
-              stars: 57617
+              stars: 57632
               license: Other
               description: Tensors and Dynamic neural networks in Python with strong GPU acceleration
-              latest_commit_date: '2022-07-28T23:15:47Z'
-              latest_commit_link: /pytorch/pytorch/commit/4630b9f44e011ee3323455d1f7ec14b99df400a9
+              latest_commit_date: '2022-07-29T23:28:58Z'
+              latest_commit_link: /pytorch/pytorch/commit/0b2566456f037e1cc07154142e6b78d2bbb9c0d0
               release_date: '2022-06-28T16:48:06Z'
               release_link: https://github.com/pytorch/pytorch/releases
-              contributors_count: 3423
+              contributors_count: 3425
               contributors_link: https://github.com/pytorch/pytorch/graphs/contributors
             repos:
               - url: https://github.com/pytorch/pytorch
-                stars: 57617
+                stars: 57632
             github_start_commit_data:
               start_commit_link: /pytorch/pytorch/commit/053065ba239e3421d1b2cbec55e3f177a21d6829
               start_date: '2012-01-25T13:55:20Z'
@@ -12167,7 +12173,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T21:01:50.000Z
+              latest_tweet_date: 2022-07-29T16:00:13.000Z
           - item:
             name: TensorFlow
             homepage_url: https://pypi.org/project/tensorflow/
@@ -12197,23 +12203,23 @@ landscape:
             github_data:
               languages:
                 - name: C++
-                  value: 119314297
+                  value: 119393584
                   color: '#f34b7d'
                 - name: Python
-                  value: 42109317
+                  value: 42118884
                   color: '#3572A5'
                 - name: MLIR
-                  value: 10306745
+                  value: 10309855
                 - name: Starlark
-                  value: 7065019
+                  value: 7071124
                 - name: HTML
                   value: 4686483
                   color: '#e34c26'
                 - name: Go
-                  value: 2073592
+                  value: 2073602
                   color: '#00ADD8'
                 - name: C
-                  value: 1198263
+                  value: 1199860
                   color: '#555555'
                 - name: Java
                   value: 1064758
@@ -12222,7 +12228,7 @@ landscape:
                   value: 789501
                   color: '#DA5B0B'
                 - name: Shell
-                  value: 571197
+                  value: 570494
                   color: '#89e051'
                 - name: Dockerfile
                   value: 413482
@@ -12234,7 +12240,7 @@ landscape:
                   value: 175736
                   color: '#438eff'
                 - name: CMake
-                  value: 172606
+                  value: 174474
                 - name: Smarty
                   value: 89664
                 - name: Swift
@@ -12259,7 +12265,7 @@ landscape:
                   value: 6536
                   color: '#185619'
                 - name: Pawn
-                  value: 5486
+                  value: 5527
                   color: '#dbb284'
                 - name: Roff
                   value: 5034
@@ -12272,20 +12278,20 @@ landscape:
                 - name: Vim Snippet
                   value: 58
               contributions: >-
-                463;459;404;350;292;284;422;374;354;411;420;542;404;367;371;372;369;256;424;375;234;207;209;346;241;326;330;385;385;246;293;302;254;296;383;287;296;312;339;323;373;319;331;334;358;301;244;339;209;267;295;310
+                457;456;387;360;274;321;420;385;332;411;419;606;340;367;372;362;337;283;435;358;225;206;224;335;260;324;333;404;368;228;300;279;262;326;365;292;335;269;359;323;343;352;318;338;344;306;280;309;190;295;305;313
               firstWeek: 2021-08-01Z
-              stars: 166701
+              stars: 166736
               license: Apache License 2.0
               description: An Open Source Machine Learning Framework for Everyone
-              latest_commit_date: '2022-07-28T23:09:17Z'
-              latest_commit_link: /tensorflow/tensorflow/commit/ef946895f1d18f0da49d76b945786ddc0b955cac
+              latest_commit_date: '2022-07-29T23:22:44Z'
+              latest_commit_link: /tensorflow/tensorflow/commit/8326f697020bd7ba768bce5e327318b6efc95a47
               release_date: '2022-05-23T17:00:13Z'
               release_link: https://github.com/tensorflow/tensorflow/releases
-              contributors_count: 4052
+              contributors_count: 4055
               contributors_link: https://github.com/tensorflow/tensorflow/graphs/contributors
             repos:
               - url: https://github.com/tensorflow/tensorflow
-                stars: 166701
+                stars: 166736
             github_start_commit_data:
               start_commit_link: /tensorflow/tensorflow/commit/f41959ccb2d9d4c722fe8fc3351401d53bcf4900
               start_date: '2015-11-07T00:27:58Z'
@@ -12296,7 +12302,7 @@ landscape:
               badge: 1486
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2022-07-28T20:02:49.000Z
+              latest_tweet_date: 2022-07-29T21:30:01.000Z
       - subcategory:
         name: TARS LAB
         items:
@@ -12349,7 +12355,7 @@ landscape:
                 - name: HTML
                   value: 616
                   color: '#e34c26'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;5;1;2;0;1;0;0;0;0;8;14;9;2;0;0;2
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;5;1;2;1;0;0;0;0;0;13;9;11;0;0;0;2
               firstWeek: 2021-08-01Z
               stars: 55
               license: BSD 3-Clause "New" or "Revised" License
@@ -12700,7 +12706,7 @@ landscape:
                 - Social Media Marketing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 393075171350
+              market_cap: 375896603876
               effective_ticker: 0700.HK
             image_data:
               fileName: tencent-member.svg
@@ -12783,7 +12789,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T18:50:39.000Z
+              latest_tweet_date: 2022-07-29T02:49:25.000Z
           - item:
             name: API7 (member)
             homepage_url: https://www.apiseven.com
@@ -12817,7 +12823,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T08:03:29.000Z
+              latest_tweet_date: 2022-07-29T08:15:17.000Z
           - item:
             name: Eolink
             homepage_url: https://www.eolink.com
@@ -12891,7 +12897,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-28T18:42:38.000Z
+              latest_tweet_date: 2022-07-29T15:02:21.000Z
           - item:
             name: Zenlayer (member)
             homepage_url: https://www.zenlayer.com/
@@ -12932,7 +12938,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-07-26T19:07:38.000Z
+              latest_tweet_date: 2022-07-29T16:29:46.000Z
       - subcategory:
         name: Associate
         items:
@@ -13016,4 +13022,4 @@ landscape:
 twitter_options:
   count: 22
   since_id: '1414568110472974339'
-updated_at: 2022-07-28T23:35:33.368Z
+updated_at: 2022-07-29T23:36:39.196Z
